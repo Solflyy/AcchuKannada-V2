@@ -42,6 +42,16 @@
         { "id": "g8", "src": "KD.webp" },
         { "id": "g9", "src": "KD.webp" }
       ]
+    },
+    {
+      "id": "birthday",
+      "name": "ಹುಟ್ಟು ಹಬ್ಬ",
+      "stickers": [
+        { "id": "h1", "src": "HBD01.svg" },
+        { "id": "h2", "src": "HBD02.svg" },
+        { "id": "h3", "src": "HBD03.svg" },
+        { "id": "h4", "src": "HBD04.svg" }
+     ]
     }
   ]
 }
