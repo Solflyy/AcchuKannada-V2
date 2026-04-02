@@ -1,0 +1,47 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/new/copilot/create-asset-directory/assets/stickers",
+  "packs": [
+    {
+      "id": "essentials",
+      "name": "Daily Essentials",
+      "stickers": [
+        { "id": "e1", "src": "namaskaara.webp" },
+        { "id": "e2", "src": "namaskaara.webp" },
+        { "id": "e3", "src": "namaskaara.webp" },
+        { "id": "e4", "src": "namaskaara.webp" },
+        { "id": "e5", "src": "namaskaara.webp" },
+        { "id": "e6", "src": "namaskaara.webp" }
+      ]
+    },
+    {
+      "id": "namma_karnataka",
+      "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
+      "isTintable": true,
+      "stickers": [
+        { "id": "f1", "src": "01.png" },
+        { "id": "f2", "src": "02.png" },
+        { "id": "f3", "src": "03.png" },
+        { "id": "f4", "src": "04.png" },
+        { "id": "f5", "src": "05.png" },
+        { "id": "f6", "src": "06.png" },
+        { "id": "f7", "src": "07.png" },
+        { "id": "f8", "src": "08.png" }
+      ]
+    },
+    {
+      "id": "kundapura",
+      "name": "Kundapura",
+      "stickers": [
+        { "id": "g1", "src": "KD.webp" },
+        { "id": "g2", "src": "KD.webp" },
+        { "id": "g3", "src": "KD.webp" },
+        { "id": "g4", "src": "KD.webp" },
+        { "id": "g5", "src": "KD.webp" },
+        { "id": "g6", "src": "KD.webp" },
+        { "id": "g7", "src": "KD.webp" },
+        { "id": "g8", "src": "KD.webp" },
+        { "id": "g9", "src": "KD.webp" }
+      ]
+    }
+  ]
+}
