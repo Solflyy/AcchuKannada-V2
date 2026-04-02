@@ -1,47 +1,69 @@
 {
-  "cloudFonts": [
-    { "label": "--- ವಿನ್ಯಾಸ ---", "value": "dummy_ವಿನ್ಯಾಸ", "url": "" },
-    { "label": "Hubballi", "value": "Hubballi", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Hubballi-Regular.ttf" },
-    { "label": "Noto Sans", "value": "NotoSans", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/NotoSansKannada.ttf" },
-    { "label": "Padyakke", "value": "Padyakke", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/PadyakkeExpandedOne-Regular.ttf" },
-    { "label": "Tunga", "value": "Tunga", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Tunga.ttf" },
-    { "label": "Lohit", "value": "Lohit", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Lohit_Kannada.ttf" },
-
-    { "label": "--- CLEAN & MODERN ---", "value": "dummy_modern", "url": "" },
-    { "label": "Anek Thin", "value": "Anek-Thin", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-Thin.ttf" },
-    { "label": "Anek ExtraLight", "value": "Anek-ExtraLight", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-ExtraLight.ttf" },
-    { "label": "Anek Light", "value": "Anek-Light", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-Light.ttf" },
-    { "label": "Anek Regular", "value": "Anek-Regular", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-Regular.ttf" },
-    { "label": "Anek Medium", "value": "Anek-Medium", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-Medium.ttf" },
-    { "label": "Anek SemiBold", "value": "Anek-SemiBold", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-SemiBold.ttf" },
-    { "label": "Anek Bold", "value": "Anek-Bold", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-Bold.ttf" },
-    { "label": "Anek ExtraBold", "value": "Anek-ExtraBold", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-ExtraBold.ttf" },
-    { "label": "Anek Black", "value": "Anek-Black", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AnekKannada-Black.ttf" },
-    { "label": "Akaya", "value": "Akaya", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/AkayaKanadaka-Regular.ttf" },
-    { "label": "Gubbi", "value": "Gubbi", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Gubbi.ttf" },
-    { "label": "Malige", "value": "Malige", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Malige.ttf" },
-    { "label": "Patrick Hand", "value": "PatrickHand", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/PatrickHand-Regular.ttf" },
-
-    { "label": "--- ಕವಿ ---", "value": "dummy_ಕವಿ", "url": "" },
-    { "label": "Kuvempu", "value": "Kuvempu", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Kuvempu.ttf" },
-    { "label": "Bendre", "value": "Bendre", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Da-Raa-Bendre.ttf" },
-    { "label": "Karantha", "value": "Karantha", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Shivarama-Karantha.ttf" },
-    { "label": "Adiga", "value": "Adiga", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Gopalakrishna-Adiga.ttf" },
-    { "label": "Karnad", "value": "Karnad", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Girish-Karnad.ttf" },
-    { "label": "Maasthi", "value": "Maasthi", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Maasthi.ttf" },
-    { "label": "Narasimha", "value": "Narasimha", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-KS-Narasimhaswamy.ttf" },
-    { "label": "Puthina", "value": "Puthina", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Puthina.ttf" },
-    { "label": "Puchamthe", "value": "Puchamthe", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/Kar-Puchamthe.ttf" },
-
-    { "label": "--- ಬೆಂಗಳೂರು SERIES ---", "value": "dummy_ಬೆಂಗಳೂರು", "url": "" },
-    { "label": "Smooth", "value": "ATSSmooth", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSBengaluru-SmoothRegular.ttf" },
-    { "label": "Dot", "value": "ATSDot", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSBengaluru-DotRegular.ttf" },
-    { "label": "LED", "value": "ATSLED", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSBengaluru-LEDRegular.ttf" },
-    { "label": "Pixel", "value": "ATSPixel", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSBengaluru-PixelRegular.ttf" },
-    { "label": "Square", "value": "ATSSquare", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSBengaluru-SquareRegular.ttf" },
-
-    { "label": "--- ಕರ್ನಾಟಕ ---", "value": "dummy_ಕರ್ನಾಟಕ", "url": "" },
-    { "label": "Bandipura", "value": "ATSBandipura", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSBandipura-Bold.ttf" },
-    { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "url": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/ATSChikkamagaluru-Regular.ttf" }
+  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/",
+  "categories": [
+    {
+      "id": "design",
+      "name": "ವಿನ್ಯಾಸ",
+      "fonts": [
+        { "label": "Hubballi", "value": "Hubballi", "file": "Hubballi-Regular.ttf" },
+        { "label": "Noto Sans", "value": "NotoSans", "file": "NotoSansKannada.ttf" },
+        { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
+        { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" },
+        { "label": "Lohit", "value": "Lohit", "file": "Lohit_Kannada.ttf" }
+      ]
+    },
+    {
+      "id": "modern",
+      "name": "CLEAN & MODERN",
+      "fonts": [
+        { "label": "Anek Thin", "value": "Anek-Thin", "file": "AnekKannada-Thin.ttf" },
+        { "label": "Anek ExtraLight", "value": "Anek-ExtraLight", "file": "AnekKannada-ExtraLight.ttf" },
+        { "label": "Anek Light", "value": "Anek-Light", "file": "AnekKannada-Light.ttf" },
+        { "label": "Anek Regular", "value": "Anek-Regular", "file": "AnekKannada-Regular.ttf" },
+        { "label": "Anek Medium", "value": "Anek-Medium", "file": "AnekKannada-Medium.ttf" },
+        { "label": "Anek SemiBold", "value": "Anek-SemiBold", "file": "AnekKannada-SemiBold.ttf" },
+        { "label": "Anek Bold", "value": "Anek-Bold", "file": "AnekKannada-Bold.ttf" },
+        { "label": "Anek ExtraBold", "value": "Anek-ExtraBold", "file": "AnekKannada-ExtraBold.ttf" },
+        { "label": "Anek Black", "value": "Anek-Black", "file": "AnekKannada-Black.ttf" },
+        { "label": "Akaya", "value": "Akaya", "file": "AkayaKanadaka-Regular.ttf" },
+        { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
+        { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
+        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" }
+      ]
+    },
+    {
+      "id": "kavi",
+      "name": "ಕವಿ",
+      "fonts": [
+        { "label": "Kuvempu", "value": "Kuvempu", "file": "Kar-Kuvempu.ttf" },
+        { "label": "Bendre", "value": "Bendre", "file": "Kar-Da-Raa-Bendre.ttf" },
+        { "label": "Karantha", "value": "Karantha", "file": "Kar-Shivarama-Karantha.ttf" },
+        { "label": "Adiga", "value": "Adiga", "file": "Kar-Gopalakrishna-Adiga.ttf" },
+        { "label": "Karnad", "value": "Karnad", "file": "Kar-Girish-Karnad.ttf" },
+        { "label": "Maasthi", "value": "Maasthi", "file": "Kar-Maasthi.ttf" },
+        { "label": "Narasimha", "value": "Narasimha", "file": "Kar-KS-Narasimhaswamy.ttf" },
+        { "label": "Puthina", "value": "Puthina", "file": "Kar-Puthina.ttf" },
+        { "label": "Puchamthe", "value": "Puchamthe", "file": "Kar-Puchamthe.ttf" }
+      ]
+    },
+    {
+      "id": "bengaluru",
+      "name": "ಬೆಂಗಳೂರು SERIES",
+      "fonts": [
+        { "label": "Smooth", "value": "ATSSmooth", "file": "ATSBengaluru-SmoothRegular.ttf" },
+        { "label": "Dot", "value": "ATSDot", "file": "ATSBengaluru-DotRegular.ttf" },
+        { "label": "LED", "value": "ATSLED", "file": "ATSBengaluru-LEDRegular.ttf" },
+        { "label": "Pixel", "value": "ATSPixel", "file": "ATSBengaluru-PixelRegular.ttf" },
+        { "label": "Square", "value": "ATSSquare", "file": "ATSBengaluru-SquareRegular.ttf" }
+      ]
+    },
+    {
+      "id": "karnataka",
+      "name": "ಕರ್ನಾಟಕ",
+      "fonts": [
+        { "label": "Bandipura", "value": "ATSBandipura", "file": "ATSBandipura-Bold.ttf" },
+        { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "file": "ATSChikkamagaluru-Regular.ttf" }
+      ]
+    }
   ]
 }
