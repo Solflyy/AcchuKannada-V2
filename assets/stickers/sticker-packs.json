@@ -18,14 +18,14 @@
       "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
       "isTintable": true,
       "stickers": [
-        { "id": "f1", "src": "01.png" },
-        { "id": "f2", "src": "02.png" },
-        { "id": "f3", "src": "03.png" },
-        { "id": "f4", "src": "04.png" },
-        { "id": "f5", "src": "05.png" },
-        { "id": "f6", "src": "06.png" },
-        { "id": "f7", "src": "07.png" },
-        { "id": "f8", "src": "08.png" }
+        { "id": "f1", "src": "KA01.webp" },
+        { "id": "f2", "src": "KA02.webp" },
+        { "id": "f3", "src": "KA03.webp" },
+        { "id": "f4", "src": "KA04.webp" },
+        { "id": "f5", "src": "KA05.webp" },
+        { "id": "f6", "src": "KA06.webp" },
+        { "id": "f7", "src": "KA07.webp" },
+        { "id": "f8", "src": "KA08.webp" }
       ]
     },
     {
