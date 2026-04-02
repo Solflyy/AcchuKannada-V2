@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/new/copilot/create-asset-directory/assets/stickers",
+  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/",
   "packs": [
     {
       "id": "essentials",
@@ -51,7 +51,7 @@
         { "id": "h2", "src": "HBD02.svg" },
         { "id": "h3", "src": "HBD03.svg" },
         { "id": "h4", "src": "HBD04.svg" }
-     ]
+      ]
     }
   ]
 }
