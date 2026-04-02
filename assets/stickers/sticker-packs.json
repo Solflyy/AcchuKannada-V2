@@ -47,10 +47,10 @@
       "id": "birthday",
       "name": "ಹುಟ್ಟು ಹಬ್ಬ",
       "stickers": [
-        { "id": "h1", "src": "HBD01.svg" },
-        { "id": "h2", "src": "HBD02.svg" },
-        { "id": "h3", "src": "HBD03.svg" },
-        { "id": "h4", "src": "HBD04.svg" }
+        { "id": "h1", "src": "HBD01.webp" },
+        { "id": "h2", "src": "HBD02.webp" },
+        { "id": "h3", "src": "HBD03.webp" },
+        { "id": "h4", "src": "HBD04.webp" }
       ]
     }
   ]
