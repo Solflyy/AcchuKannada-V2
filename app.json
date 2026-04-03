@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "Acchu Kannada",
+    "slug": "acchu-kannada-v2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#8aa88e"
+      },
+      "versionCode": 1,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.bhitthichitra.acchukannada"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Acchu Kannada to access your photos to edit them."
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow Acchu Kannada to save edited photos to your gallery.",
+          "savePhotosPermission": "Allow Acchu Kannada to save edited photos to your gallery."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "75941a1a-38cb-43ec-aa0e-1a5d49dab0ca"
+      }
+    }
+  }
+}
