@@ -2,7 +2,7 @@
 
 Effective Date: April 3, 2026
 
-**Acchu Kannada** ("the App") is developed by Deepak R. This privacy policy describes how the App handles user information.
+**Acchu Kannada** ("the App") is developed by Deepak Ram. This privacy policy describes how the App handles user information.
 
 ## Information Collection and Use
 
@@ -22,4 +22,4 @@ If the privacy policy changes in the future, users will be notified through an u
 
 ## Contact
 
-If you have any questions or concerns about this privacy policy, please contact me at deepucava@gmail.com.
+If you have any questions or concerns about this privacy policy, please contact Deepak Ram at deepucava@gmail.com.
