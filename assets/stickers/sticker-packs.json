@@ -15,14 +15,15 @@
       "isTintable": true,
       "stickers": [
         { "id": "f1", "src": "AKN_C02.webp" },
-        { "id": "f2", "src": "KA01.webp" },
-        { "id": "f3", "src": "KA02.webp" },
-        { "id": "f4", "src": "KA03.webp" },
-        { "id": "f5", "src": "KA04.webp" },
-        { "id": "f6", "src": "KA05.webp" },
-        { "id": "f7", "src": "KA06.webp" },
-        { "id": "f8", "src": "KA07.webp" },
-        { "id": "f9", "src": "KA08.webp" }
+        { "id": "f2", "src": "AKN_C03.webp" },
+        { "id": "f3", "src": "KA01.webp" },
+        { "id": "f4", "src": "KA02.webp" },
+        { "id": "f5", "src": "KA03.webp" },
+        { "id": "f6", "src": "KA04.webp" },
+        { "id": "f7", "src": "KA05.webp" },
+        { "id": "f8", "src": "KA06.webp" },
+        { "id": "f9", "src": "KA07.webp" },
+        { "id": "f10", "src": "KA08.webp" }
       ]
     },
     {
