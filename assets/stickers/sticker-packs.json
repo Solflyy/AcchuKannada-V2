@@ -52,6 +52,36 @@
         { "id": "h3", "src": "HBD03.webp" },
         { "id": "h4", "src": "HBD04.webp" }
       ]
+    },
+    {
+      "id": "festival",
+      "name": "ಹಬ್ಬ ಹರಿದಿನ",
+      "stickers": [
+        { "id": "i1", "src": "HBD01.webp" },
+        { "id": "i2", "src": "HBD02.webp" },
+        { "id": "i3", "src": "HBD03.webp" },
+        { "id": "i4", "src": "HBD04.webp" }
+      ]
+    },
+    {
+      "id": "rajyotsava",
+      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
+      "stickers": [
+        { "id": "j1", "src": "HBD01.webp" },
+        { "id": "j2", "src": "HBD02.webp" },
+        { "id": "j3", "src": "HBD03.webp" },
+        { "id": "j4", "src": "HBD04.webp" }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "ಆಡುಭಾಷೆ",
+      "stickers": [
+        { "id": "k1", "src": "HBD01.webp" },
+        { "id": "k2", "src": "HBD02.webp" },
+        { "id": "k3", "src": "HBD03.webp" },
+        { "id": "k4", "src": "HBD04.webp" }
+      ]
     }
   ]
 }
