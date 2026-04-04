@@ -5,12 +5,8 @@
       "id": "essentials",
       "name": "Daily Essentials",
       "stickers": [
-        { "id": "e1", "src": "namaskaara.webp" },
-        { "id": "e2", "src": "namaskaara.webp" },
-        { "id": "e3", "src": "namaskaara.webp" },
-        { "id": "e4", "src": "namaskaara.webp" },
-        { "id": "e5", "src": "namaskaara.webp" },
-        { "id": "e6", "src": "namaskaara.webp" }
+        { "id": "e1", "src": "AKN_C01.webp" },
+        { "id": "e2", "src": "namaskaara.webp" }
       ]
     },
     {
@@ -18,14 +14,15 @@
       "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
       "isTintable": true,
       "stickers": [
-        { "id": "f1", "src": "KA01.webp" },
-        { "id": "f2", "src": "KA02.webp" },
-        { "id": "f3", "src": "KA03.webp" },
-        { "id": "f4", "src": "KA04.webp" },
-        { "id": "f5", "src": "KA05.webp" },
-        { "id": "f6", "src": "KA06.webp" },
-        { "id": "f7", "src": "KA07.webp" },
-        { "id": "f8", "src": "KA08.webp" }
+        { "id": "f1", "src": "AKN_C02.webp" },
+        { "id": "f2", "src": "KA01.webp" },
+        { "id": "f3", "src": "KA02.webp" },
+        { "id": "f4", "src": "KA03.webp" },
+        { "id": "f5", "src": "KA04.webp" },
+        { "id": "f6", "src": "KA05.webp" },
+        { "id": "f7", "src": "KA06.webp" },
+        { "id": "f8", "src": "KA07.webp" },
+        { "id": "f9", "src": "KA08.webp" }
       ]
     },
     {
