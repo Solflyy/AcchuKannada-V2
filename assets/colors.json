@@ -1,0 +1,14 @@
+{
+  "categories": [
+    { "id": "basic", "label": "Basic", "colors": ["#FFFFFF", "#F4F4F5", "#D4D4D8", "#A1A1AA", "#71717A", "#52525B", "#3F3F46", "#27272A", "#18181B", "#000000"] },
+    { "id": "warm", "label": "Warm", "colors": ["#FEF3C7", "#FDE68A", "#FCD34D", "#FBBF24", "#F59E0B", "#D97706", "#B45309", "#92400E", "#78350F", "#451A03"] },
+    { "id": "red", "label": "Red", "colors": ["#FEE2E2", "#FECACA", "#FCA5A5", "#F87171", "#EF4444", "#DC2626", "#B91C1C", "#991B1B", "#7F1D1D", "#450A0A"] },
+    { "id": "pink", "label": "Pink", "colors": ["#FCE7F3", "#FBCFE8", "#F9A8D4", "#F472B6", "#EC4899", "#DB2777", "#BE185D", "#9D174D", "#831843", "#500724"] },
+    { "id": "purple", "label": "Purple", "colors": ["#F3E8FF", "#E9D5FF", "#D8B4FE", "#C084FC", "#A855F7", "#9333EA", "#7C3AED", "#6D28D9", "#5B21B6", "#3B0764"] },
+    { "id": "blue", "label": "Blue", "colors": ["#DBEAFE", "#BFDBFE", "#93C5FD", "#60A5FA", "#3B82F6", "#2563EB", "#1D4ED8", "#1E40AF", "#1E3A8A", "#172554"] },
+    { "id": "cool", "label": "Cool", "colors": ["#CFFAFE", "#A5F3FC", "#67E8F9", "#22D3EE", "#06B6D4", "#0891B2", "#0E7490", "#155E75", "#164E63", "#083344"] },
+    { "id": "green", "label": "Green", "colors": ["#DCFCE7", "#BBF7D0", "#86EFAC", "#4ADE80", "#22C55E", "#16A34A", "#15803D", "#166534", "#14532D", "#052E16"] },
+    { "id": "neon", "label": "Neon", "colors": ["#FF0000", "#FF4500", "#FF6600", "#FFAA00", "#FFE600", "#AAFF00", "#00FF00", "#00FFAA", "#00FFFF", "#AA00FF"] },
+    { "id": "pastel", "label": "Pastel", "colors": ["#FECDD3", "#FED7AA", "#FEF08A", "#BBF7D0", "#A7F3D0", "#BAE6FD", "#C7D2FE", "#DDD6FE", "#FBCFE8", "#E2E8F0"] }
+  ]
+}

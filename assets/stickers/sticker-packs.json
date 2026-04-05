@@ -1,0 +1,85 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/",
+  "packs": [
+    {
+      "id": "essentials",
+      "name": "Daily Essentials",
+      "stickers": [
+        { "id": "e1", "src": "AKN_C01.webp" },
+        { "id": "e2", "src": "namaskaara.webp" }
+      ]
+    },
+    {
+      "id": "namma_karnataka",
+      "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
+      "isTintable": true,
+      "stickers": [
+        { "id": "f1", "src": "AKN_C02.webp" },
+        { "id": "f2", "src": "AKN_C03.webp" },
+        { "id": "f3", "src": "KA01.webp" },
+        { "id": "f4", "src": "KA02.webp" },
+        { "id": "f5", "src": "KA03.webp" },
+        { "id": "f6", "src": "KA04.webp" },
+        { "id": "f7", "src": "KA05.webp" },
+        { "id": "f8", "src": "KA06.webp" },
+        { "id": "f9", "src": "KA07.webp" },
+        { "id": "f10", "src": "KA08.webp" }
+      ]
+    },
+    {
+      "id": "kundapura",
+      "name": "Kundapura",
+      "stickers": [
+        { "id": "g1", "src": "KD.webp" },
+        { "id": "g2", "src": "KD.webp" },
+        { "id": "g3", "src": "KD.webp" },
+        { "id": "g4", "src": "KD.webp" },
+        { "id": "g5", "src": "KD.webp" },
+        { "id": "g6", "src": "KD.webp" },
+        { "id": "g7", "src": "KD.webp" },
+        { "id": "g8", "src": "KD.webp" },
+        { "id": "g9", "src": "KD.webp" }
+      ]
+    },
+    {
+      "id": "birthday",
+      "name": "ಹುಟ್ಟು ಹಬ್ಬ",
+      "stickers": [
+        { "id": "h1", "src": "HBD01.webp" },
+        { "id": "h2", "src": "HBD02.webp" },
+        { "id": "h3", "src": "HBD03.webp" },
+        { "id": "h4", "src": "HBD04.webp" }
+      ]
+    },
+    {
+      "id": "festival",
+      "name": "ಹಬ್ಬ ಹರಿದಿನ",
+      "stickers": [
+        { "id": "i1", "src": "HBD01.webp" },
+        { "id": "i2", "src": "HBD02.webp" },
+        { "id": "i3", "src": "HBD03.webp" },
+        { "id": "i4", "src": "HBD04.webp" }
+      ]
+    },
+    {
+      "id": "rajyotsava",
+      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
+      "stickers": [
+        { "id": "j1", "src": "HBD01.webp" },
+        { "id": "j2", "src": "HBD02.webp" },
+        { "id": "j3", "src": "HBD03.webp" },
+        { "id": "j4", "src": "HBD04.webp" }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "ಆಡುಭಾಷೆ",
+      "stickers": [
+        { "id": "k1", "src": "HBD01.webp" },
+        { "id": "k2", "src": "HBD02.webp" },
+        { "id": "k3", "src": "HBD03.webp" },
+        { "id": "k4", "src": "HBD04.webp" }
+      ]
+    }
+  ]
+}
