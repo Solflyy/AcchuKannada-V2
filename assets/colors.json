@@ -1,14 +1,64 @@
 {
   "categories": [
-    { "id": "basic", "label": "Basic", "colors": ["#FFFFFF", "#F4F4F5", "#D4D4D8", "#A1A1AA", "#71717A", "#52525B", "#3F3F46", "#27272A", "#18181B", "#000000"] },
-    { "id": "warm", "label": "Warm", "colors": ["#FEF3C7", "#FDE68A", "#FCD34D", "#FBBF24", "#F59E0B", "#D97706", "#B45309", "#92400E", "#78350F", "#451A03"] },
-    { "id": "red", "label": "Red", "colors": ["#FEE2E2", "#FECACA", "#FCA5A5", "#F87171", "#EF4444", "#DC2626", "#B91C1C", "#991B1B", "#7F1D1D", "#450A0A"] },
-    { "id": "pink", "label": "Pink", "colors": ["#FCE7F3", "#FBCFE8", "#F9A8D4", "#F472B6", "#EC4899", "#DB2777", "#BE185D", "#9D174D", "#831843", "#500724"] },
-    { "id": "purple", "label": "Purple", "colors": ["#F3E8FF", "#E9D5FF", "#D8B4FE", "#C084FC", "#A855F7", "#9333EA", "#7C3AED", "#6D28D9", "#5B21B6", "#3B0764"] },
-    { "id": "blue", "label": "Blue", "colors": ["#DBEAFE", "#BFDBFE", "#93C5FD", "#60A5FA", "#3B82F6", "#2563EB", "#1D4ED8", "#1E40AF", "#1E3A8A", "#172554"] },
-    { "id": "cool", "label": "Cool", "colors": ["#CFFAFE", "#A5F3FC", "#67E8F9", "#22D3EE", "#06B6D4", "#0891B2", "#0E7490", "#155E75", "#164E63", "#083344"] },
-    { "id": "green", "label": "Green", "colors": ["#DCFCE7", "#BBF7D0", "#86EFAC", "#4ADE80", "#22C55E", "#16A34A", "#15803D", "#166534", "#14532D", "#052E16"] },
-    { "id": "neon", "label": "Neon", "colors": ["#FF0000", "#FF4500", "#FF6600", "#FFAA00", "#FFE600", "#AAFF00", "#00FF00", "#00FFAA", "#00FFFF", "#AA00FF"] },
-    { "id": "pastel", "label": "Pastel", "colors": ["#FECDD3", "#FED7AA", "#FEF08A", "#BBF7D0", "#A7F3D0", "#BAE6FD", "#C7D2FE", "#DDD6FE", "#FBCFE8", "#E2E8F0"] }
+    { 
+      "id": "basic", 
+      "label": "Basic", 
+      "colors": ["#FFFFFF", "#F4F4F5", "#E4E4E7", "#D4D4D8", "#A1A1AA", "#71717A", "#52525B", "#3F3F46", "#27272A", "#18181B", "#09090B", "#000000"] 
+    },
+    { 
+      "id": "warm", 
+      "label": "Warm", 
+      "colors": ["#FFFBEB", "#FEF3C7", "#FDE68A", "#FCD34D", "#FBBF24", "#F59E0B", "#D97706", "#B45309", "#92400E", "#78350F", "#451A03", "#290F02"] 
+    },
+    { 
+      "id": "cool", 
+      "label": "Cool", 
+      "colors": ["#F0F9FF", "#E0F2FE", "#BAE6FD", "#7DD3FC", "#38BDF8", "#0EA5E9", "#0284C7", "#0369A1", "#075985", "#0C4A6E", "#083344", "#04171F"] 
+    },
+    { 
+      "id": "pastel", 
+      "label": "Pastel", 
+      "colors": ["#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF", "#E2CBF7", "#FFC6FF", "#FDFFB6", "#CAFFBF", "#9BF6FF", "#A0C4FF", "#BDB2FF"] 
+    },
+    { 
+      "id": "neon", 
+      "label": "Neon", 
+      "colors": ["#FF0000", "#FF5E00", "#FFBB00", "#FFE600", "#99FF00", "#00FF00", "#00FF88", "#00FFFF", "#0088FF", "#0000FF", "#8800FF", "#FF00FF"] 
+    },
+    { 
+      "id": "earth", 
+      "label": "Earth Tones", 
+      "colors": ["#D4B499", "#C19A6B", "#8B5A2B", "#654321", "#3E2723", "#827717", "#558B2F", "#33691E", "#4E342E", "#5D4037", "#795548", "#A1887F"] 
+    },
+    { 
+      "id": "jewel", 
+      "label": "Jewel Tones", 
+      "colors": ["#B71C1C", "#880E4F", "#4A148C", "#311B92", "#1A237E", "#0D47A1", "#01579B", "#006064", "#004D40", "#1B5E20", "#33691E", "#BF360C"] 
+    },
+    { 
+      "id": "vintage", 
+      "label": "Vintage Retro", 
+      "colors": ["#F4A261", "#E76F51", "#2A9D8F", "#E9C46A", "#264653", "#DDA15E", "#BC6C25", "#A3B18A", "#588157", "#3A5A40", "#CB997E", "#6B705C"] 
+    },
+    { 
+      "id": "sunset", 
+      "label": "Sunset", 
+      "colors": ["#FF7B54", "#FFB26B", "#FFD56B", "#939B62", "#E05D5D", "#FF8C8C", "#F8B400", "#FAF5E4", "#2B1A4A", "#4B284D", "#913175", "#CD5D7D"] 
+    },
+    { 
+      "id": "ocean", 
+      "label": "Ocean", 
+      "colors": ["#00FFFF", "#00CED1", "#20B2AA", "#48D1CC", "#40E0D0", "#008B8B", "#008080", "#2F4F4F", "#001F3F", "#003366", "#005A9C", "#007BA7"] 
+    },
+    { 
+      "id": "cyberpunk", 
+      "label": "Cyberpunk", 
+      "colors": ["#FF007F", "#FF0055", "#00FFFF", "#00FFCC", "#CCFF00", "#9D00FF", "#6600FF", "#FF00E6", "#120052", "#0B0033", "#000B18", "#1A001A"] 
+    },
+    { 
+      "id": "flora", 
+      "label": "Flora Botanical", 
+      "colors": ["#E6E6FA", "#D8BFD8", "#DDA0DD", "#EE82EE", "#DA70D6", "#FF00FF", "#BA55D3", "#9370DB", "#8A2BE2", "#9400D3", "#9932CC", "#8B008B"] 
+    }
   ]
 }
