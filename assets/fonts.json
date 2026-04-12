@@ -14,7 +14,7 @@
     },
     {
       "id": "modern",
-      "name": "CLEAN & MODERN",
+      "name": "ಆಧುನಿಕ",
       "fonts": [
         { "label": "Anek Thin", "value": "Anek-Thin", "file": "AnekKannada-Thin.ttf" },
         { "label": "Anek ExtraLight", "value": "Anek-ExtraLight", "file": "AnekKannada-ExtraLight.ttf" },
@@ -62,6 +62,32 @@
       "fonts": [
         { "label": "Bandipura", "value": "ATSBandipura", "file": "ATSBandipura-Bold.ttf" },
         { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "file": "ATSChikkamagaluru-Regular.ttf" }
+      ]
+      },
+    {
+      "id": "English",
+      "name": "ಆಂಗ್ಲ",
+      "fonts": [
+        { "label": "Barlow", "value": "Barlow", "file": "Barlow.ttf" },
+        { "label": "InknutAntiqua", "value": "InknutAntiqua", "file": "InknutAntiqua.ttf" },
+        { "label": "Mynerve", "value": "Mynerve", "file": "Mynerve.ttf" },
+        { "label": "Neuton", "value": "Neuton", "file": "Neuton.ttf" },
+        { "label": "SendFlowers", "value": "SendFlowers", "file": "SendFlowers.ttf" },
+        { "label": "Geom", "value": "Geom", "file": "Geom.ttf" },
+        { "label": "Marcellus", "value": "Marcellus", "file": "Marcellus.ttf" },
+        { "label": "GeistMono", "value": "GeistMono", "file": "GeistMono.ttf" },
+        { "label": "ZalandoSans", "value": "ZalandoSans", "file": "ZalandoSans.ttf" },
+        { "label": "Newsreader", "value": "Newsreader", "file": "Newsreader.ttf" },
+        { "label": "Outfit", "value": "Outfit", "file": "Outfit.ttf" },
+        { "label": "BricolageGrotesque", "value": "BricolageGrotesque", "file": "BricolageGrotesque.ttf" },
+        { "label": "InstrumentSerif", "value": "InstrumentSerif", "file": "InstrumentSerif.ttf" },
+        { "label": "Figtree", "value": "Figtree", "file": "Figtree.ttf" },
+        { "label": "GoogleSans", "value": "GoogleSans", "file": "GoogleSans.ttf" },
+        { "label": "DMSans", "value": "DMSans", "file": "DMSans.ttf" },
+        { "label": "Lato", "value": "Lato", "file": "Lato.ttf" },
+        { "label": "LibreBaskerville", "value": "LibreBaskerville", "file": "LibreBaskerville.ttf" },
+        { "label": "OpenSans", "value": "OpenSans", "file": "OpenSans.ttf" },
+        { "label": "PlayfairDisplay", "value": "PlayfairDisplay", "file": "PlayfairDisplay.ttf" }
       ]
     }
   ]
