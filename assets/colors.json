@@ -1,64 +1,49 @@
 {
   "categories": [
-    { 
-      "id": "basic", 
-      "label": "Basic", 
-      "colors": ["#FFFFFF", "#F4F4F5", "#E4E4E7", "#D4D4D8", "#A1A1AA", "#71717A", "#52525B", "#3F3F46", "#27272A", "#18181B", "#09090B", "#000000"] 
+    {
+      "id": "acchu_kannada_brand",
+      "label": "ಅಚ್ಚು ಕನ್ನಡ ಬಣ್ಣಗಳು (Acchu Kannada)",
+      "colors": ["#E5E6EB", "#DDC616", "#9D0D0D", "#18191B", "#010101"]
     },
-    { 
-      "id": "warm", 
-      "label": "Warm", 
-      "colors": ["#FFFBEB", "#FEF3C7", "#FDE68A", "#FCD34D", "#FBBF24", "#F59E0B", "#D97706", "#B45309", "#92400E", "#78350F", "#451A03", "#290F02"] 
+    {
+      "id": "basic",
+      "label": "ಮೂಲ ಬಣ್ಣಗಳು (Basic)",
+      "colors": ["#FFFFFF", "#E9CD2D", "#F48D2A", "#E52326", "#12A549", "#3F96D5", "#000000"]
     },
-    { 
-      "id": "cool", 
-      "label": "Cool", 
-      "colors": ["#F0F9FF", "#E0F2FE", "#BAE6FD", "#7DD3FC", "#38BDF8", "#0EA5E9", "#0284C7", "#0369A1", "#075985", "#0C4A6E", "#083344", "#04171F"] 
+    {
+      "id": "aesthetic_earth",
+      "label": "ಮಣ್ಣಿನ ಸೊಬಗು (Earth Tones)",
+      "colors": ["#D4A373", "#BC8A5F", "#8B5E3C", "#6F4E37", "#4B3621"]
     },
-    { 
-      "id": "pastel", 
-      "label": "Pastel", 
-      "colors": ["#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF", "#E2CBF7", "#FFC6FF", "#FDFFB6", "#CAFFBF", "#9BF6FF", "#A0C4FF", "#BDB2FF"] 
+    {
+      "id": "cinematic_life",
+      "label": "ಸಿನೆಮ್ಯಾಟಿಕ್ ಲೈಫ್ (Cinematic Life)",
+      "colors": ["#E3E0D5", "#E29D43", "#9CA57B", "#99B9C3", "#8E7D73", "#376E8B", "#D34F3F"]
     },
-    { 
-      "id": "neon", 
-      "label": "Neon", 
-      "colors": ["#FF0000", "#FF5E00", "#FFBB00", "#FFE600", "#99FF00", "#00FF00", "#00FF88", "#00FFFF", "#0088FF", "#0000FF", "#8800FF", "#FF00FF"] 
+    {
+      "id": "forest_green",
+      "label": "ಕಾಡಿನ ಸೌಂದರ್ಯ (Forest)",
+      "colors": ["#A8D5BA", "#7FB09B", "#5A9367", "#3F6844", "#2E4634"]
     },
-    { 
-      "id": "earth", 
-      "label": "Earth Tones", 
-      "colors": ["#D4B499", "#C19A6B", "#8B5A2B", "#654321", "#3E2723", "#827717", "#558B2F", "#33691E", "#4E342E", "#5D4037", "#795548", "#A1887F"] 
+    {
+      "id": "london_fashion",
+      "label": "ಫ್ಯಾಷನ್ (Fashion)",
+      "colors": ["#F1F2F2", "#CCC9D2", "#9B8047", "#E03C3E", "#006E6D", "#4D3039", "#3F465F"]
     },
-    { 
-      "id": "jewel", 
-      "label": "Jewel Tones", 
-      "colors": ["#B71C1C", "#880E4F", "#4A148C", "#311B92", "#1A237E", "#0D47A1", "#01579B", "#006064", "#004D40", "#1B5E20", "#33691E", "#BF360C"] 
+    {
+      "id": "ocean_blue",
+      "label": "ಸಾಗರದ ನೀಲಿ (Ocean)",
+      "colors": ["#AFEEEE", "#87CEEB", "#4169E1", "#0047AB", "#4B0082", "#000080", "#191970"]
     },
-    { 
-      "id": "vintage", 
-      "label": "Vintage Retro", 
-      "colors": ["#F4A261", "#E76F51", "#2A9D8F", "#E9C46A", "#264653", "#DDA15E", "#BC6C25", "#A3B18A", "#588157", "#3A5A40", "#CB997E", "#6B705C"] 
+    {
+      "id": "royal_sophistication",
+      "label": "ರಾಜ ವೈಭವ (Royal)",
+      "colors": ["#DDBE9E", "#A7BDD3", "#7A573F", "#93262E", "#6C2C2D", "#5D353B", "#123C52"]
     },
-    { 
-      "id": "sunset", 
-      "label": "Sunset", 
-      "colors": ["#FF7B54", "#FFB26B", "#FFD56B", "#939B62", "#E05D5D", "#FF8C8C", "#F8B400", "#FAF5E4", "#2B1A4A", "#4B284D", "#913175", "#CD5D7D"] 
-    },
-    { 
-      "id": "ocean", 
-      "label": "Ocean", 
-      "colors": ["#00FFFF", "#00CED1", "#20B2AA", "#48D1CC", "#40E0D0", "#008B8B", "#008080", "#2F4F4F", "#001F3F", "#003366", "#005A9C", "#007BA7"] 
-    },
-    { 
-      "id": "cyberpunk", 
-      "label": "Cyberpunk", 
-      "colors": ["#FF007F", "#FF0055", "#00FFFF", "#00FFCC", "#CCFF00", "#9D00FF", "#6600FF", "#FF00E6", "#120052", "#0B0033", "#000B18", "#1A001A"] 
-    },
-    { 
-      "id": "flora", 
-      "label": "Flora Botanical", 
-      "colors": ["#E6E6FA", "#D8BFD8", "#DDA0DD", "#EE82EE", "#DA70D6", "#FF00FF", "#BA55D3", "#9370DB", "#8A2BE2", "#9400D3", "#9932CC", "#8B008B"] 
+    {
+      "id": "trend_guide_25_26",
+      "label": "ಟ್ರೆಂಡ್ ಗೈಡ್ 26 (Trend Guide)",
+      "colors": ["#FAFAD2", "#DA8A67", "#FF7518", "#FF2400", "#8DB600", "#0F52BA", "#202020"]
     }
   ]
 }
