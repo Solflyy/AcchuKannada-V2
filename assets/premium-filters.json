@@ -1,1 +1,110 @@
-{ "id": "portra800", "label": "Portra 800", "category": "Cinematic", "previewColor": "#E8C4A0", "defaultStrength": 1.0, "colorMatrix": [20 numbers], "shadowMatrix": [20 numbers] }
+[
+  {
+    "id": "portra800",
+    "label": "Portra 800",
+    "category": "Cinematic",
+    "previewColor": "#E8C4A0",
+    "defaultStrength": 1.0,
+    "colorMatrix": [1.2, 0.1, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, -0.1, 0.0, 1.0, 0.0, 0.0, -0.05, 0.0, 0.0, 1.0, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "kodachrome64",
+    "label": "Kodachrome 64",
+    "category": "Vintage",
+    "previewColor": "#D44A32",
+    "defaultStrength": 1.0,
+    "colorMatrix": [1.1, 0.0, 0.2, 0.0, -0.1, 0.1, 1.0, 0.0, 0.0, -0.1, 0.0, 0.1, 1.0, 0.0, -0.2, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "fuji_velvia",
+    "label": "Fuji Velvia",
+    "category": "Landscape",
+    "previewColor": "#2E7D32",
+    "defaultStrength": 0.85,
+    "colorMatrix": [1.3, 0.0, 0.0, 0.0, 0.0, 0.0, 1.4, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.1, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "noir_classic",
+    "label": "Noir Classic",
+    "category": "Monochrome",
+    "previewColor": "#333333",
+    "defaultStrength": 1.0,
+    "colorMatrix": [0.33, 0.33, 0.33, 0.0, 0.0, 0.33, 0.33, 0.33, 0.0, 0.0, 0.33, 0.33, 0.33, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.5, 0.0, 0.0, 0.0, -0.3, 0.0, 1.5, 0.0, 0.0, -0.3, 0.0, 0.0, 1.5, 0.0, -0.3, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "teal_orange",
+    "label": "Teal & Orange",
+    "category": "Cinematic",
+    "previewColor": "#40E0D0",
+    "defaultStrength": 0.9,
+    "colorMatrix": [1.1, 0.0, 0.0, 0.0, 0.1, 0.0, 1.0, 0.0, 0.0, 0.0, -0.2, 0.0, 1.3, 0.0, 0.2, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.1, 0.0, 0.0, 0.05, 0.0, 0.0, 1.2, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "cyber_glow",
+    "label": "Cyber Glow",
+    "category": "Futuristic",
+    "previewColor": "#FF00FF",
+    "defaultStrength": 0.7,
+    "colorMatrix": [1.0, 0.0, 0.5, 0.0, 0.1, 0.0, 1.0, 0.0, 0.0, 0.0, 0.5, 0.0, 1.5, 0.0, 0.2, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, 0.1, 0.0, 0.8, 0.0, 0.0, -0.1, 0.0, 0.0, 1.3, 0.0, 0.2, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "sepia_dream",
+    "label": "Sepia Dream",
+    "category": "Vintage",
+    "previewColor": "#704214",
+    "defaultStrength": 0.6,
+    "colorMatrix": [0.393, 0.769, 0.189, 0.0, 0.0, 0.349, 0.686, 0.168, 0.0, 0.0, 0.272, 0.534, 0.131, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, 0.05, 0.0, 1.0, 0.0, 0.0, 0.02, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "arctic_chill",
+    "label": "Arctic Chill",
+    "category": "Cool",
+    "previewColor": "#AEC6CF",
+    "defaultStrength": 1.0,
+    "colorMatrix": [0.8, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.3, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, -0.1, 0.0, 1.0, 0.0, 0.0, -0.05, 0.0, 0.0, 1.1, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "golden_hour",
+    "label": "Golden Hour",
+    "category": "Warm",
+    "previewColor": "#FFD700",
+    "defaultStrength": 0.8,
+    "colorMatrix": [1.2, 0.0, 0.0, 0.0, 0.1, 0.0, 1.1, 0.0, 0.0, 0.05, 0.0, 0.0, 0.8, 0.0, -0.1, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.1, 0.0, 0.0, 0.0, 0.05, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, -0.05, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "murasaki",
+    "label": "Murasaki",
+    "category": "Artistic",
+    "previewColor": "#8A2BE2",
+    "defaultStrength": 0.5,
+    "colorMatrix": [1.0, 0.0, 0.2, 0.0, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.2, 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.0, 0.0, 0.0, 0.0, 0.1, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.1, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "high_key",
+    "label": "High Key",
+    "category": "Bright",
+    "previewColor": "#FFFFFF",
+    "defaultStrength": 1.0,
+    "colorMatrix": [1.2, 0.0, 0.0, 0.0, 0.2, 0.0, 1.2, 0.0, 0.0, 0.2, 0.0, 0.0, 1.2, 0.0, 0.2, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [0.8, 0.0, 0.0, 0.0, 0.3, 0.0, 0.8, 0.0, 0.0, 0.3, 0.0, 0.0, 0.8, 0.0, 0.3, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "bleach_bypass",
+    "label": "Bleach Bypass",
+    "category": "Cinematic",
+    "previewColor": "#A9A9A9",
+    "defaultStrength": 1.0,
+    "colorMatrix": [1.5, 0.0, 0.0, 0.0, -0.2, 0.0, 1.5, 0.0, 0.0, -0.2, 0.0, 0.0, 1.5, 0.0, -0.2, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.2, 0.0, 0.0, 0.0, -0.1, 0.0, 1.2, 0.0, 0.0, -0.1, 0.0, 0.0, 1.2, 0.0, -0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  }
+]
