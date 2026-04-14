@@ -1,1 +1,17 @@
-[{ "id": "sunset", "name": "Sunset", "colors": ["#FF6B6B", "#FFE66D"] }, ...]
+[
+  { "id": "sunset-glow", "name": "Sunset Glow", "colors": ["#FF6B6B", "#FFE66D"] },
+  { "id": "ocean-depths", "name": "Ocean Depths", "colors": ["#2193b0", "#6dd5ed"] },
+  { "id": "lush-forest", "name": "Lush Forest", "colors": ["#11998e", "#38ef7d"] },
+  { "id": "royal-purple", "name": "Royal Purple", "colors": ["#6441A5", "#2a0845"] },
+  { "id": "midnight-city", "name": "Midnight City", "colors": ["#232526", "#414345"] },
+  { "id": "raspberry-sorbet", "name": "Raspberry Sorbet", "colors": ["#8E2DE2", "#4A00E0"] },
+  { "id": "morning-sky", "name": "Morning Sky", "colors": ["#FF5F6D", "#FFC371"] },
+  { "id": "frozen-lake", "name": "Frozen Lake", "colors": ["#E0EAFC", "#CFDEF3"] },
+  { "id": "burning-orange", "name": "Burning Orange", "colors": ["#FF416C", "#FF4B2B"] },
+  { "id": "electric-neon", "name": "Electric Neon", "colors": ["#00F260", "#0575E6"] },
+  { "id": "deep-space", "name": "Deep Space", "colors": ["#000000", "#434343"] },
+  { "id": "soft-candy", "name": "Soft Candy", "colors": ["#D66D75", "#E29587"] },
+  { "id": "cyber-punk", "name": "Cyber Punk", "colors": ["#7F00FF", "#E100FF"] },
+  { "id": "desert-sand", "name": "Desert Sand", "colors": ["#edc891", "#94716b"] },
+  { "id": "cool-blues", "name": "Cool Blues", "colors": ["#2F80ED", "#56CCF2"] }
+]
