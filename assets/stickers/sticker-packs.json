@@ -6,7 +6,7 @@
       "name": "Daily Essentials",
       "stickers": [
         { "id": "e1", "src": "AKN_C01.webp" },
-        { "id": "e2", "src": "namaskaara.webp" }
+        { "id": "e2", "src": "KS11.webp" }
       ]
     },
     {
@@ -16,29 +16,22 @@
       "stickers": [
         { "id": "f1", "src": "AKN_C02.webp" },
         { "id": "f2", "src": "AKN_C03.webp" },
-        { "id": "f3", "src": "KA01.webp" },
-        { "id": "f4", "src": "KA02.webp" },
-        { "id": "f5", "src": "KA03.webp" },
-        { "id": "f6", "src": "KA04.webp" },
-        { "id": "f7", "src": "KA05.webp" },
-        { "id": "f8", "src": "KA06.webp" },
-        { "id": "f9", "src": "KA07.webp" },
-        { "id": "f10", "src": "KA08.webp" }
+        { "id": "f3", "src": "KS01.webp" },
+        { "id": "f4", "src": "KS02.webp" },
+        { "id": "f5", "src": "KS03.webp" },
+        { "id": "f6", "src": "KS04.webp" },
+        { "id": "f7", "src": "KS05.webp" },
+        { "id": "f8", "src": "KS06.webp" },
+        { "id": "f9", "src": "KS07.webp" },
+        { "id": "f10", "src": "KS08.webp" },
+        { "id": "f11", "src": "KS09.webp" }
       ]
     },
     {
       "id": "kundapura",
       "name": "Kundapura",
       "stickers": [
-        { "id": "g1", "src": "KD.webp" },
-        { "id": "g2", "src": "KD.webp" },
-        { "id": "g3", "src": "KD.webp" },
-        { "id": "g4", "src": "KD.webp" },
-        { "id": "g5", "src": "KD.webp" },
-        { "id": "g6", "src": "KD.webp" },
-        { "id": "g7", "src": "KD.webp" },
-        { "id": "g8", "src": "KD.webp" },
-        { "id": "g9", "src": "KD.webp" }
+        { "id": "g1", "src": "KS10.webp" }
       ]
     },
     {
@@ -55,20 +48,17 @@
       "id": "festival",
       "name": "ಹಬ್ಬ ಹರಿದಿನ",
       "stickers": [
-        { "id": "i1", "src": "HBD01.webp" },
-        { "id": "i2", "src": "HBD02.webp" },
-        { "id": "i3", "src": "HBD03.webp" },
-        { "id": "i4", "src": "HBD04.webp" }
+        { "id": "i1", "src": "KS11.webp" }
       ]
     },
     {
       "id": "rajyotsava",
       "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
       "stickers": [
-        { "id": "j1", "src": "HBD01.webp" },
-        { "id": "j2", "src": "HBD02.webp" },
-        { "id": "j3", "src": "HBD03.webp" },
-        { "id": "j4", "src": "HBD04.webp" }
+        { "id": "j1", "src": "KS01.webp" },
+        { "id": "j2", "src": "KS02.webp" },
+        { "id": "j3", "src": "KS03.webp" },
+        { "id": "j4", "src": "KS04.webp" }
       ]
     },
     {
