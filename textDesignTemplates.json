@@ -6,8 +6,8 @@
       "name": "Display Name",
       "category": "Birthday",
       "lines": [
-        { "text": "ಹುಟ್ಟುಹಬ್ಬದ", "fontFamily": "Padyakke", "fontSize": 28, "color": "#FFD700", "isBold": true },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Padyakke", "fontSize": 42, "color": "#FFFFFF" }
+        { "text": "ಹುಟ್ಟುಹಬ್ಬದ", "fontFamily": "AnekKannada-Bold", "fontSize": 28, "color": "#FFD700", "isBold": true },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "AnekKannada-Bold", "fontSize": 42, "color": "#FFFFFF" }
       ]
     },
     {
@@ -15,7 +15,7 @@
       "name": "Runa Quote",
       "category": "Love",
       "lines": [
-        { "text": "ಪ್ರೀತಿ ಸಿಗಲು ಕ್ಷಣ ಸಾಕಂತೆ", "fontFamily": "Padyakke", "fontSize": 30, "color": "#FF69B4", "isBold": true },
+        { "text": "ಪ್ರೀತಿ ಸಿಗಲು ಕ್ಷಣ ಸಾಕಂತೆ", "fontFamily": "AnekKannada-Bold", "fontSize": 30, "color": "#FF69B4", "isBold": true },
         { "text": "ಪ್ರೀತಿಸಿದವರು ಸಿಗಲು ಋಣ ಬೇಕಂತೆ..", "fontFamily": "Gubbi", "fontSize": 26, "color": "#FFFFFF" }
       ]
     },
@@ -25,8 +25,8 @@
       "category": "Good Morning",
       "lines": [
         { "text": "ಬರುವ ಕಷ್ಟಗಳು ಬರುತ್ತಾ ಇರುತ್ತವೆ.", "fontFamily": "Gubbi", "fontSize": 26, "color": "#F0EAD6", "isBold": false },
-        { "text": "ಆದ್ರೆ ಬರುವ ಪ್ರತಿ ಕಷ್ಟಗಳು ಜೀವನದ ಅರ್ಥವನ್ನು ಹೇಳಿಕೊಡುತ್ತಾ ಹೋಗುತ್ತವೆ.", "fontFamily": "Padyakke", "fontSize": 30, "color": "#FFFFFF", "isBold": true },
-        { "text": "ಶುಭೋದಯ", "fontFamily": "Padyakke", "fontSize": 45, "color": "#FFD700", "isBold": true }
+        { "text": "ಆದ್ರೆ ಬರುವ ಪ್ರತಿ ಕಷ್ಟಗಳು ಜೀವನದ ಅರ್ಥವನ್ನು ಹೇಳಿಕೊಡುತ್ತಾ ಹೋಗುತ್ತವೆ.", "fontFamily": "AnekKannada-Bold", "fontSize": 30, "color": "#FFFFFF", "isBold": true },
+        { "text": "ಶುಭೋದಯ", "fontFamily": "AnekKannada-Bold", "fontSize": 45, "color": "#FFD700", "isBold": true }
       ]
     },
     {
@@ -34,9 +34,9 @@
       "name": "Supportive Morning",
       "category": "Good Morning",
       "lines": [
-        { "text": "ಶುಭ ಮುಂಜಾನೆ", "fontFamily": "Padyakke", "fontSize": 45, "color": "#FFD700", "isBold": true },
+        { "text": "ಶುಭ ಮುಂಜಾನೆ", "fontFamily": "AnekKannada-Bold", "fontSize": 45, "color": "#FFD700", "isBold": true },
         { "text": "ನಿಮ್ಮ ಮನಸ್ಸು ನೋವಿನಿಂದ ಕೂಡಿದಾಗ, ನಿಮ್ಮ ಮುಖದಲ್ಲಿ ಸದಾ ನಗುವನ್ನು ಬಯಸುವ ವ್ಯಕ್ತಿಗಳೊಡನೆ ಸಮಯ ಕಳೆಯಿರಿ.", "fontFamily": "Gubbi", "fontSize": 24, "color": "#FFFFFF", "isBold": false },
-        { "text": "ಏಕೆಂದರೆ ಅವರು ಇಂದಿಗೂ ಉರಿಯುವ ಬೆಂಕಿಗೆ ತುಪ್ಪ ಸುರಿಯವುದಿಲ್ಲ.", "fontFamily": "Navilu", "fontSize": 26, "color": "#F0EAD6", "isBold": true }
+        { "text": "ಏಕೆಂದರೆ ಅವರು ಇಂದಿಗೂ ಉರಿಯುವ ಬೆಂಕಿಗೆ ತುಪ್ಪ ಸುರಿಯವುದಿಲ್ಲ.", "fontFamily": "Kedage", "fontSize": 26, "color": "#F0EAD6", "isBold": true }
       ]
     }
   ]
