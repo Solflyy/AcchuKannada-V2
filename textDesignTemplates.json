@@ -2,42 +2,203 @@
   "version": 1,
   "templates": [
     {
-      "id": "tdt_unique_id",
-      "name": "Display Name",
-      "category": "Birthday",
+      "id": "morning_accept_life",
+      "name": "Accept Life",
+      "category": "Good Morning",
       "lines": [
-        { "text": "ಹುಟ್ಟುಹಬ್ಬದ", "fontFamily": "AnekKannada-ExtraBold", "fontSize": 28, "color": "#FFD700", "isBold": true },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "AnekKannada-Medium", "fontSize": 42, "color": "#FFFFFF" }
+        { "text": "ಬದುಕು ನಾವಂದುಕೊಂಡಂತೆ ಅತಿ ಸುಲಭವೂ ಅಲ್ಲ, ಕಷ್ಟವೂ ಅಲ್ಲ", "fontFamily": "AnekKannada-Medium", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಬಂದಂತೆ ಸ್ವೀಕರಿಸಿ.", "fontFamily": "AnekKannada-Bold", "fontSize": 28, "color": "#F0EAD6", "isBold": true },
+        { "text": "ಶುಭೋದಯ", "fontFamily": "ATSBengaluru-SquareBold", "fontSize": 42, "color": "#FFD700", "isBold": true }
       ]
     },
     {
-      "id": "love_quote_kannada_01",
-      "name": "Runa Quote",
+      "id": "morning_smile_pain",
+      "name": "Smile Hides Pain",
+      "category": "Good Morning",
+      "lines": [
+        { "text": "ಎಲ್ಲಾ ನೋವನ್ನು ಮುಚ್ಚಿಡುವ ಅತ್ಯುತ್ತಮ ವಿಧಾನವೇ", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ನಗು.", "fontFamily": "Gubbi", "fontSize": 38, "color": "#FFD700", "isBold": true },
+        { "text": "ಶುಭೋದಯ.", "fontFamily": "ATSBengaluru-DotBold", "fontSize": 36, "color": "#4ADE80", "isBold": true }
+      ]
+    },
+    {
+      "id": "morning_mindset",
+      "name": "Change Mindset",
+      "category": "Good Morning",
+      "lines": [
+        { "text": "ನಿಮ್ಮ ಬದುಕನ್ನು ನೀವು ಬದಲಾಯಿಸಿಕೊಳ್ಳಬೇಕು ಎಂದಿದ್ದರೆ", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಮೊದಲು ಮನಸ್ಸು ಬದಲಾಯಿಸಿ.", "fontFamily": "AnekKannada-Bold", "fontSize": 30, "color": "#F0EAD6", "isBold": true },
+        { "text": "ಶುಭೋಧಯ", "fontFamily": "ATSBengaluru-SquareBold", "fontSize": 40, "color": "#FFB6C1", "isBold": true }
+      ]
+    },
+    {
+      "id": "morning_trust",
+      "name": "Trust & Destiny",
+      "category": "Good Morning",
+      "lines": [
+        { "text": "ನಂಬಿಕೆ ಸಿಗಬೇಕಾದರೆ ಯೋಗ ಇರಬೇಕು.", "fontFamily": "Kedage", "fontSize": 28, "color": "#FFFFFF", "isBold": false },
+        { "text": "ನಂಬಿಕೆ ಉಳಿಸಿಕೊಳ್ಳಬೇಕಾದರೆ ಯೋಗ್ಯತೆ ಮುಖ್ಯ.", "fontFamily": "AnekKannada-Bold", "fontSize": 28, "color": "#FFD700", "isBold": true },
+        { "text": "ಶುಭೋದಯ", "fontFamily": "AnekKannada-ExtraBold", "fontSize": 38, "color": "#FFFFFF", "isBold": true }
+      ]
+    },
+    {
+      "id": "morning_good_in_day",
+      "name": "Good in Everyday",
+      "category": "Good Morning",
+      "lines": [
+        { "text": "ಪ್ರತಿದಿನವೂ ಒಳ್ಳೆಯದಲ್ಲ.", "fontFamily": "AnekKannada-Light", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಆದರೆ ಪ್ರತಿದಿನವೂ ಏನಾದರೂ ಒಳ್ಳೆಯದು ಇರುತ್ತದೆ.", "fontFamily": "AnekKannada-Medium", "fontSize": 28, "color": "#F0EAD6", "isBold": true }
+      ]
+    },
+    {
+      "id": "morning_experience",
+      "name": "Life Experience",
+      "category": "Good Morning",
+      "lines": [
+        { "text": "ಜೀವನದಲ್ಲಿ ಅನುಭವಗಳು ಕಲಿಸುವ ಪಾಠವನ್ನು", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಯಾವ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳೂ ಕಲಿಸಲಾರವು.", "fontFamily": "Gubbi", "fontSize": 30, "color": "#FFD700", "isBold": true },
+        { "text": "ಗುಡ್‌ ಮಾರ್ನಿಂಗ್", "fontFamily": "ATSBengaluru-PixelBold", "fontSize": 40, "color": "#FFFFFF", "isBold": true }
+      ]
+    },
+    {
+      "id": "morning_hope_god",
+      "name": "Hope & God",
+      "category": "Good Morning",
+      "lines": [
+        { "text": "ಎಲ್ಲ ಭರವಸೆಗಳು ಕೊನೆಗೊಂಡಾಗ", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಅವನ ಪಾತ್ರ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ ..", "fontFamily": "AnekKannada-Bold", "fontSize": 30, "color": "#F0EAD6", "isBold": true },
+        { "text": "ಶುಭದಿನ !", "fontFamily": "AnekKannada-ExtraBold", "fontSize": 36, "color": "#FFD700", "isBold": true }
+      ]
+    },
+    {
+      "id": "quote_rajkumar_01",
+      "name": "Rajkumar on Wealth",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಸ್ಥಾನ, ಸಿರಿ, ಸಂಪತ್ತು ಶಾಶ್ವತವಲ್ಲ", "fontFamily": "AnekKannada-Medium", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಪ್ರೀತಿ, ಅಭಿಮಾನ, ವಿಶ್ವಾಸ ಅಮರ", "fontFamily": "AnekKannada-Bold", "fontSize": 30, "color": "#FFD700", "isBold": true },
+        { "text": "- ಡಾ.ರಾಜಕುಮಾರ್", "fontFamily": "AnekKannada-ExtraBold", "fontSize": 24, "color": "#F0EAD6", "isBold": true }
+      ]
+    },
+    {
+      "id": "quote_karnad_01",
+      "name": "Karnad on Dreams",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಬೆಳಕಿಲ್ಲದ ದಾರಿಯಲ್ಲಿ ನಡೆಯಬಹುದು ಆದ್ರೆ ,", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಕನಸುಗಳೇ ಇಲ್ಲದ ದಾರಿಯಲ್ಲಿ ನಡೆಯಲಾಗುವುದಿಲ್ಲ", "fontFamily": "AnekKannada-Bold", "fontSize": 28, "color": "#FFFFFF", "isBold": true },
+        { "text": "- ಗಿರೀಶ್ ಕಾರ್ನಾಡ್", "fontFamily": "Kar-Girish-Karnad", "fontSize": 28, "color": "#FFD700", "isBold": false }
+      ]
+    },
+    {
+      "id": "quote_kanakadasa_01",
+      "name": "Kanakadasa on Ego",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಯಾವಾಗ ನಿಮ್ಮಲ್ಲಿರುವ 'ನಾನು' ಎಂಬ ಅಹಂ ನಿಮ್ಮನ್ನು ಬಿಟ್ಟು ಹೋಗುತ್ತೋ", "fontFamily": "Kedage", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಆವತ್ತು ನೀವು ಮೋಕ್ಷಕ್ಕೆ ಅರ್ಹರಾಗುತ್ತೀರಿ", "fontFamily": "Kedage", "fontSize": 28, "color": "#F0EAD6", "isBold": true },
+        { "text": "- ಕನಕದಾಸ", "fontFamily": "AnekKannada-Bold", "fontSize": 24, "color": "#FFD700", "isBold": true }
+      ]
+    },
+    {
+      "id": "quote_vishnuvardhan_01",
+      "name": "Vishnuvardhan on Happiness",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಸಂತೋಷವನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದರಿಂದ ಹೆಚ್ಚಾಗುತ್ತದೆ", "fontFamily": "Gubbi", "fontSize": 30, "color": "#FFFFFF", "isBold": false },
+        { "text": "- ಡಾ.ವಿಷ್ಣುವರ್ಧನ್", "fontFamily": "AnekKannada-Bold", "fontSize": 24, "color": "#FFD700", "isBold": true }
+      ]
+    },
+    {
+      "id": "quote_kuvempu_nature",
+      "name": "Kuvempu on Nature",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಸೃಷ್ಟಿಯ ವ್ಯೂಹದಲ್ಲಿ ಮರದ ತುದಿಯ ಹೂವೆಷ್ಟು ಮುಖ್ಯವೊ", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಗೊಬ್ಬರವೂ ಅಷ್ಟೇ ಮುಖ್ಯ.", "fontFamily": "AnekKannada-Bold", "fontSize": 30, "color": "#F0EAD6", "isBold": true },
+        { "text": "– ಕುವೆಂಪು", "fontFamily": "Kar-Kuvempu", "fontSize": 28, "color": "#FFD700", "isBold": false }
+      ]
+    },
+    {
+      "id": "quote_shankar_nag",
+      "name": "Shankar Nag Achieve",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಸತ್ತಾಗ ಮಲಗೋದು ಇದ್ದೇ ಇದೆ", "fontFamily": "AnekKannada-Medium", "fontSize": 28, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಬದುಕಿದ್ದಾಗ ಏನಾದರೂ ಸಾಧಿಸು", "fontFamily": "AnekKannada-ExtraBold", "fontSize": 32, "color": "#FFD700", "isBold": true },
+        { "text": "- ಶಂಕರ್ ನಾಗ್", "fontFamily": "ATSBengaluru-SquareBold", "fontSize": 24, "color": "#F0EAD6", "isBold": false }
+      ]
+    },
+    {
+      "id": "quote_puneeth_01",
+      "name": "Puneeth on Values",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ವಿದ್ಯೆಯೊಂದಿದ್ದರೆ ನೀ ಗೆದ್ದಂತಲ್ಲ ,", "fontFamily": "AnekKannada-Medium", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ವಿನಯ, ಮೌಲ್ಯ ಎಂದಿಗೂ ಸೋಲುವುದಿಲ್ಲ", "fontFamily": "AnekKannada-Bold", "fontSize": 28, "color": "#FFD700", "isBold": true },
+        { "text": "- ಪುನೀತ್ ರಾಜಕುಮಾರ್", "fontFamily": "AnekKannada-Bold", "fontSize": 24, "color": "#F0EAD6", "isBold": false }
+      ]
+    },
+    {
+      "id": "quote_basavanna_01",
+      "name": "Basavanna Earth",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಒಲೆ ಹತ್ತಿ ಉರಿದಡೆ ನಿಲಬಹುದಲ್ಲದೆ,", "fontFamily": "Gubbi", "fontSize": 28, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಧರೆ ಹತ್ತಿ ಉರಿದಡೆ ನಿಲಲುಬಾರದು", "fontFamily": "Gubbi", "fontSize": 30, "color": "#F0EAD6", "isBold": true },
+        { "text": "- ಬಸವಣ್ಣ", "fontFamily": "AnekKannada-Bold", "fontSize": 24, "color": "#FFD700", "isBold": true }
+      ]
+    },
+    {
+      "id": "love_kuvempu_01",
+      "name": "Kuvempu Love Pure",
       "category": "Love",
       "lines": [
-        { "text": "ಪ್ರೀತಿ ಸಿಗಲು ಕ್ಷಣ ಸಾಕಂತೆ", "fontFamily": "Kar-Kuvempu", "fontSize": 30, "color": "#FF69B4", "isBold": true },
-        { "text": "ಪ್ರೀತಿಸಿದವರು ಸಿಗಲು ಋಣ ಬೇಕಂತೆ..", "fontFamily": "AnekKannada-Light", "fontSize": 26, "color": "#FFFFFF" }
+        { "text": "ಪ್ರೀತಿಯಲ್ಲಿ ಹೃದಯಗಳು ಶುದ್ಧವಾಗಿದ್ದರೆ ಸಾಕು, ದೂರ ಮುಖ್ಯವಲ್ಲ", "fontFamily": "AnekKannada-Medium", "fontSize": 28, "color": "#FFB6C1", "isBold": false },
+        { "text": "- ಕುವೆಂಪು", "fontFamily": "Kar-Kuvempu", "fontSize": 28, "color": "#FFFFFF", "isBold": false }
       ]
     },
     {
-      "id": "morning_wisdom_01",
-      "name": "Morning Wisdom",
-      "category": "Good Morning",
+      "id": "love_ksn_01",
+      "name": "KSN Love Tears",
+      "category": "Love",
       "lines": [
-        { "text": "ಬರುವ ಕಷ್ಟಗಳು ಬರುತ್ತಾ ಇರುತ್ತವೆ.", "fontFamily": "Gubbi", "fontSize": 26, "color": "#F0EAD6", "isBold": false },
-        { "text": "ಆದ್ರೆ ಬರುವ ಪ್ರತಿ ಕಷ್ಟಗಳು ಜೀವನದ ಅರ್ಥವನ್ನು ಹೇಳಿಕೊಡುತ್ತಾ ಹೋಗುತ್ತವೆ.", "fontFamily": "AnekKannada-Regular", "fontSize": 30, "color": "#FFFFFF", "isBold": true },
-        { "text": "ಶುಭೋದಯ", "fontFamily": "ATSBengaluru-SquareBold", "fontSize": 45, "color": "#FFD700", "isBold": true }
+        { "text": "ನಿನ್ನ ಪ್ರೀತಿಗೆ, ಅದರ ರೀತಿಗೆ ಕಣ್ಣ ಹನಿಗಳೆ ಕಾಣಿಕೆ..", "fontFamily": "AnekKannada-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಹಣ್ಣ ಚಂದಿರ , ನೀಲಿ ತಾರೆಗೆ ಹೊಂದಲಾರದ ಹೋಲಿಕೆ.", "fontFamily": "AnekKannada-Medium", "fontSize": 26, "color": "#FF69B4", "isBold": true },
+        { "text": "- ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ", "fontFamily": "Kar-KS-Narasimhaswamy", "fontSize": 28, "color": "#F0EAD6", "isBold": false }
       ]
     },
     {
-      "id": "morning_healing_01",
-      "name": "Supportive Morning",
-      "category": "Good Morning",
+      "id": "love_dvg_01",
+      "name": "DVG True Love",
+      "category": "Love",
       "lines": [
-        { "text": "ಶುಭ ಮುಂಜಾನೆ", "fontFamily": "AnekKannada-Bold", "fontSize": 45, "color": "#FFD700", "isBold": true },
-        { "text": "ನಿಮ್ಮ ಮನಸ್ಸು ನೋವಿನಿಂದ ಕೂಡಿದಾಗ, ನಿಮ್ಮ ಮುಖದಲ್ಲಿ ಸದಾ ನಗುವನ್ನು ಬಯಸುವ ವ್ಯಕ್ತಿಗಳೊಡನೆ ಸಮಯ ಕಳೆಯಿರಿ.", "fontFamily": "AnekKannada-Regular", "fontSize": 24, "color": "#FFFFFF", "isBold": false },
-        { "text": "ಏಕೆಂದರೆ ಅವರು ಇಂದಿಗೂ ಉರಿಯುವ ಬೆಂಕಿಗೆ ತುಪ್ಪ ಸುರಿಯವುದಿಲ್ಲ.", "fontFamily": "Kedage", "fontSize": 26, "color": "#F0EAD6", "isBold": true }
+        { "text": "ನಿಜವಾದ ಪ್ರೇಮವು ಶಾಂತಿಯ ಹೂ,", "fontFamily": "Kedage", "fontSize": 28, "color": "#FFFFFF", "isBold": false },
+        { "text": "ಅದು ಸ್ವಾರ್ಥದ ನೆರಳಲ್ಲಿ ಅರಳದು", "fontFamily": "AnekKannada-Bold", "fontSize": 26, "color": "#FFD700", "isBold": true },
+        { "text": "- ಡಿ.ವಿ. ಗುಂಡಪ್ಪ (DVG)", "fontFamily": "AnekKannada-Medium", "fontSize": 24, "color": "#F0EAD6", "isBold": false }
       ]
-    }
-  ]
-}
+    },
+    {
+      "id": "love_kambara_01",
+      "name": "Kambara Love Light",
+      "category": "Love",
+      "lines": [
+        { "text": "ಪ್ರೇಮದ ಬೆಳಕು ಬಿದ್ದರೆ ಅಂಧಕಾರವೂ ಹಾಡುತ್ತದೆ.", "fontFamily": "AnekKannada-Medium", "fontSize": 30, "color": "#FFB6C1", "isBold": false },
+        { "text": "- ಚಂದ್ರಶೇಖರ ಕಂಬಾರ", "fontFamily": "Kar-Chandrashekhara-Kambara", "fontSize": 32, "color": "#FFFFFF", "isBold": false }
+      ]
+    },
+    {
+      "id": "love_kaikini_01",
+      "name": "Kaikini Colors",
+      "category": "Love",
+      "lines": [
+        { "text": "ಬದುಕಿನ ಬಣ್ಣವೇ ಬದಲಾದರೆ ಅದು ಪ್ರೇಮವೇ..", "fontFamily": "AnekKannada-Light", "fontSize": 30, "color": "#FFFFFF", "isBold": false },
+        { "text": "- ಜಯಂತ್ ಕಾಯ್ಕಿಣಿ", "fontFamily": "AnekKannada-Bold", "fontSize": 24, "color": "#FF69B4", "isBold": true }
+      ]
+    },
+    {
+      "id": "love_rajarathnam_01",
+      "name": "Rajarathnam Two Shores",
+      "category": "Love",
+      "lines": [
+        { "
