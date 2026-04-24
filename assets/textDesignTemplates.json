@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "tdt_bday1",
+      "name": "Birthday Wish",
+      "category": "Birthday",
+      "lines": [
+        { "text": "ಹುಟ್ಟುಹಬ್ಬದ", "fontFamily": "Padyakke", "fontSize": 28, "color": "#FFD700", "isBold": true },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Padyakke", "fontSize": 42, "color": "#FFFFFF" },
+        { "text": "✨ ನಿಮಗೆ ✨", "fontFamily": "Hubballi", "fontSize": 22, "color": "#F59E0B" }
+      ]
+    },
+    {
+      "id": "tdt_bday2",
+      "name": "Happy Birthday",
+      "category": "Birthday",
+      "lines": [
+        { "text": "Happy", "fontFamily": "ATSSmooth", "fontSize": 36, "color": "#EC4899", "isBold": true },
+        { "text": "Birthday", "fontFamily": "Padyakke", "fontSize": 48, "color": "#FFFFFF" },
+        { "text": "🎂 🎉 🎊", "fontFamily": "NotoSans", "fontSize": 24, "color": "#FFD700" }
+      ]
+    },
+    {
+      "id": "tdt_fest1",
+      "name": "Festival Greeting",
+      "category": "Festival",
+      "lines": [
+        { "text": "ಹಬ್ಬದ", "fontFamily": "Padyakke", "fontSize": 30, "color": "#FF6B6B" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Padyakke", "fontSize": 44, "color": "#FFFFFF", "isBold": true }
+      ]
+    },
+    {
+      "id": "tdt_fest2",
+      "name": "Deepavali",
+      "category": "Festival",
+      "lines": [
+        { "text": "ದೀಪಾವಳಿ", "fontFamily": "Padyakke", "fontSize": 46, "color": "#FFD700", "isBold": true },
+        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFA500" },
+        { "text": "🪔 ✨ 🪔", "fontFamily": "NotoSans", "fontSize": 22, "color": "#FFFFFF" }
+      ]
+    },
+    {
+      "id": "tdt_quote1",
+      "name": "Quote Style 1",
+      "category": "Quotes",
+      "lines": [
+        { "text": "❝", "fontFamily": "NotoSans", "fontSize": 40, "color": "#DDC616" },
+        { "text": "ನಿಮ್ಮ ಉಲ್ಲೇಖ ಇಲ್ಲಿ", "fontFamily": "Padyakke", "fontSize": 32, "color": "#FFFFFF" },
+        { "text": "— ಲೇಖಕ", "fontFamily": "Hubballi", "fontSize": 18, "color": "#9CA3AF" }
+      ]
+    },
+    {
+      "id": "tdt_quote2",
+      "name": "Quote Style 2",
+      "category": "Quotes",
+      "lines": [
+        { "text": "ಜೀವನ ಒಂದು", "fontFamily": "ATSSmooth", "fontSize": 24, "color": "#A855F7" },
+        { "text": "ಪಯಣ", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FFFFFF", "isBold": true },
+        { "text": "ಆನಂದಿಸಿ", "fontFamily": "Hubballi", "fontSize": 20, "color": "#06B6D4" }
+      ]
+    },
+    {
+      "id": "tdt_love1",
+      "name": "Love Message",
+      "category": "Love",
+      "lines": [
+        { "text": "ಪ್ರೀತಿಯ", "fontFamily": "Padyakke", "fontSize": 28, "color": "#EC4899" },
+        { "text": "❤️", "fontFamily": "NotoSans", "fontSize": 42, "color": "#FF4444" },
+        { "text": "ಸಂದೇಶ", "fontFamily": "Padyakke", "fontSize": 36, "color": "#FFFFFF" }
+      ]
+    },
+    {
+      "id": "tdt_morning1",
+      "name": "Good Morning",
+      "category": "Greetings",
+      "lines": [
+        { "text": "ಶುಭೋದಯ", "fontFamily": "Padyakke", "fontSize": 42, "color": "#F59E0B", "isBold": true },
+        { "text": "☀️ 🌸", "fontFamily": "NotoSans", "fontSize": 28, "color": "#FFFFFF" }
+      ]
+    }
+  ]
+}
