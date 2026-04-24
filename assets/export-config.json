@@ -4,5 +4,22 @@
   "exportMessageFont": null,
   "shareButtonText": "ಹಂಚಿಕೊಳ್ಳಿ",
   "saveButtonText": "ಉಳಿಸಿ",
-  "proWatermarkText": "ಅಚ್ಚು ಕನ್ನಡ · Acchu Kannada Pro"
+  "proWatermarkText": "ಅಚ್ಚು ಕನ್ನಡ · Acchu Kannada Pro",
+  "exportStages": [
+    "Loading paper...",
+    "Preparing ink & colors...",
+    "Printing your photo...",
+    "Developing colors...",
+    "Finishing print..."
+  ],
+  "saveSuccess": {
+    "title": "Saved! 🎉",
+    "description": "Image beautifully saved to your gallery",
+    "socialHandle": "@acchukannada",
+    "kannadaText": "ಜೈ ಕನ್ನಡ",
+    "kannadaSubtext": "jai kannada",
+    "hashtag": "#acchukannada",
+    "socialPrompt": "Tag us on social media",
+    "doneButtonText": "Done"
+  }
 }

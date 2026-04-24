@@ -568,6 +568,9 @@ const CLOUD_FREE_FILTERS_URL   = 'https://raw.githubusercontent.com/Solflyy/Acch
 const CLOUD_PRO_FILTERS_URL    = 'https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/filters-pro.json';
 const CLOUD_TEXT_DESIGN_TEMPLATES_URL = 'https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/textDesignTemplates.json';
 const CLOUD_SPLASH_CONFIG_URL = 'https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/backgrounds/splashConfig.json';
+const CLOUD_PAYWALL_CONFIG_URL = 'https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/paywall-config.json';
+const CLOUD_EXPORT_CONFIG_URL = 'https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/export-config.json';
+const CLOUD_DESIGNER_TEMPLATES_URL2 = 'https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/designer-templates.json';
 
 const fixGithubUrl = (url: string) => url.replace(
   /raw\.githubusercontent\.com\/([^/]+)\/([^/]+)\/(?!refs\/heads\/)(.+)/,
@@ -1945,7 +1948,7 @@ const GroupBoundingBox = React.memo(({ groupId, elements, canvasW, canvasH, isSe
 // Initialize AdMob SDK once at module level
 MobileAds().initialize().catch(() => {/* ignore init errors */});
 
-const EXPORT_STAGES = [
+let EXPORT_STAGES = [
   'Loading paper...',
   'Preparing ink & colors...',
   'Printing your photo...',
@@ -1973,6 +1976,144 @@ const ExportStageText = ({ stage }: { stage: Animated.Value }) => {
   }, []);
   return <Text style={{ color: THEME.textMuted, fontSize: 13, fontWeight: '500', letterSpacing: 0.3 }}>{text}</Text>;
 };
+
+// ── Pro Welcome / Celebration Screen ───────────────────────────────────────
+function ProWelcomeScreen({
+  purchasedPlanId,
+  allPlans,
+  paywallConfig,
+  celebrationAnim,
+  safeTop,
+  safeBottom,
+  onExplore,
+  onUpgrade,
+}: {
+  purchasedPlanId: string;
+  allPlans: any[];
+  paywallConfig: any;
+  celebrationAnim: Animated.Value;
+  safeTop: number;
+  safeBottom: number;
+  onExplore: () => void;
+  onUpgrade: (planId: string) => void;
+}) {
+  const PLAN_TIER: Record<string, number> = { weekly: 1, monthly: 2, yearly: 3, lifetime: 4 };
+  const currentTier = PLAN_TIER[purchasedPlanId] ?? 1;
+  const upsellPlans = allPlans.filter(p => (PLAN_TIER[p.id] ?? 0) > currentTier);
+
+  const PARTICLES = [
+    { angle: 0,   dist: 110, color: '#DDC616', size: 10 },
+    { angle: 25,  dist: 90,  color: '#F4D86B', size: 7  },
+    { angle: 50,  dist: 130, color: '#E11D48', size: 8  },
+    { angle: 75,  dist: 100, color: '#fff',    size: 6  },
+    { angle: 100, dist: 120, color: '#06B6D4', size: 9  },
+    { angle: 130, dist: 95,  color: '#DDC616', size: 7  },
+    { angle: 155, dist: 115, color: '#10B981', size: 8  },
+    { angle: 180, dist: 105, color: '#F4D86B', size: 6  },
+    { angle: 205, dist: 90,  color: '#8B5CF6', size: 7  },
+    { angle: 235, dist: 125, color: '#E11D48', size: 8  },
+    { angle: 260, dist: 100, color: '#DDC616', size: 10 },
+    { angle: 285, dist: 115, color: '#06B6D4', size: 6  },
+    { angle: 310, dist: 95,  color: '#F4D86B', size: 7  },
+    { angle: 340, dist: 130, color: '#10B981', size: 9  },
+  ];
+
+  const logoScale = celebrationAnim.interpolate({ inputRange: [0, 0.55, 0.75, 1], outputRange: [0.1, 1.35, 0.9, 1] });
+  const titleOpacity = celebrationAnim.interpolate({ inputRange: [0, 0.45, 1], outputRange: [0, 0, 1] });
+  const titleTranslateY = celebrationAnim.interpolate({ inputRange: [0, 0.45, 1], outputRange: [28, 28, 0] });
+  const upsellOpacity = celebrationAnim.interpolate({ inputRange: [0, 0.65, 1], outputRange: [0, 0, 1] });
+
+  const cfg = paywallConfig;
+  const welcomeTitle = cfg?.welcomeTitle || 'ಅಚ್ಚು ಕನ್ನಡ Pro ಗೆ ಸ್ವಾಗತ!';
+  const welcomeSubtitle = cfg?.welcomeSubtitle || 'ನಿಮ್ಮ ಸೃಜನಶೀಲ ಪ್ರಯಾಣ ಈಗ ಪ್ರಾರಂಭವಾಗಿದೆ.';
+  const exploreText = cfg?.exploreButtonText || 'ಅನ್ವೇಷಿಸಿ';
+
+  return (
+    <View style={{ flex: 1, backgroundColor: '#0a0a0c', alignItems: 'center', justifyContent: 'space-evenly', paddingTop: safeTop + 16, paddingBottom: safeBottom + 16, paddingHorizontal: 24 }}>
+      <LinearGradient colors={['rgba(221,198,22,0.07)', 'transparent']} style={[StyleSheet.absoluteFill, { borderRadius: 0 }]} />
+
+      {/* Confetti particles radiating from logo center */}
+      <View style={{ position: 'absolute', top: '38%', left: '50%' }}>
+        {PARTICLES.map((p, i) => {
+          const rad = p.angle * Math.PI / 180;
+          const tx = celebrationAnim.interpolate({ inputRange: [0, 1], outputRange: [0, Math.cos(rad) * p.dist] });
+          const ty = celebrationAnim.interpolate({ inputRange: [0, 1], outputRange: [0, -Math.sin(rad) * p.dist] });
+          const op = celebrationAnim.interpolate({ inputRange: [0, 0.15, 0.65, 1], outputRange: [0, 1, 1, 0] });
+          const sc = celebrationAnim.interpolate({ inputRange: [0, 0.3, 1], outputRange: [0.2, 1.3, 0.5] });
+          return (
+            <Animated.View key={i} style={{
+              position: 'absolute',
+              width: p.size, height: p.size,
+              borderRadius: p.size / 2,
+              backgroundColor: p.color,
+              transform: [{ translateX: tx }, { translateY: ty }, { scale: sc }],
+              opacity: op,
+            }} />
+          );
+        })}
+      </View>
+
+      {/* Animated logo with bounce */}
+      <Animated.View style={{ transform: [{ scale: logoScale }], alignItems: 'center' }}>
+        <View style={{ width: 96, height: 96, borderRadius: 30, backgroundColor: 'rgba(221,198,22,0.12)', borderWidth: 2.5, borderColor: THEME.primary, justifyContent: 'center', alignItems: 'center', shadowColor: THEME.primary, shadowOpacity: 0.65, shadowRadius: 24, shadowOffset: { width: 0, height: 0 }, elevation: 14 }}>
+          <Image source={{ uri: SPLASH_LOGO_URL }} style={{ width: 72, height: 72 }} resizeMode="contain" />
+        </View>
+        <View style={{ position: 'absolute', bottom: -8, right: -8, width: 30, height: 30, borderRadius: 15, backgroundColor: THEME.primary, justifyContent: 'center', alignItems: 'center', borderWidth: 2, borderColor: '#0a0a0c', elevation: 6 }}>
+          <MaterialIcons name="check" size={17} color="#0a0a0c" />
+        </View>
+      </Animated.View>
+
+      {/* Welcome text */}
+      <Animated.View style={{ alignItems: 'center', opacity: titleOpacity, transform: [{ translateY: titleTranslateY }] }}>
+        <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 8, gap: 6 }}>
+          <MaterialIcons name="workspace-premium" size={18} color={THEME.primary} />
+          <Text style={{ color: THEME.primary, fontSize: 12, fontWeight: '800', letterSpacing: 1.5 }}>PRO UNLOCKED</Text>
+          <MaterialIcons name="workspace-premium" size={18} color={THEME.primary} />
+        </View>
+        <Text style={{ color: '#fff', fontSize: 23, fontWeight: '900', textAlign: 'center', letterSpacing: 0.2, lineHeight: 31 }}>{welcomeTitle}</Text>
+        <Text style={{ color: 'rgba(255,255,255,0.5)', fontSize: 13, textAlign: 'center', marginTop: 10, lineHeight: 20 }}>{welcomeSubtitle}</Text>
+      </Animated.View>
+
+      {/* Upsell plans (conditional on plan tier) */}
+      {upsellPlans.length > 0 && (
+        <Animated.View style={{ width: '100%', opacity: upsellOpacity }}>
+          <Text style={{ color: 'rgba(255,255,255,0.35)', fontSize: 10, fontWeight: '700', letterSpacing: 1.2, textTransform: 'uppercase', textAlign: 'center', marginBottom: 10 }}>
+            Upgrade for even more
+          </Text>
+          <View style={{ flexDirection: 'row', gap: 8 }}>
+            {upsellPlans.map((plan: any) => (
+              <TouchableOpacity
+                key={plan.id}
+                onPress={() => onUpgrade(plan.id)}
+                activeOpacity={0.8}
+                style={{ flex: 1, alignItems: 'center', paddingVertical: 11, borderRadius: 14, borderWidth: 1, borderColor: 'rgba(221,198,22,0.28)', backgroundColor: 'rgba(221,198,22,0.05)' }}
+              >
+                <Text style={{ color: '#fff', fontSize: 11, fontWeight: '700' }}>{plan.label}</Text>
+                <Text style={{ color: THEME.primary, fontSize: 15, fontWeight: '900', marginTop: 3 }}>{plan.price}</Text>
+                <Text style={{ color: 'rgba(255,255,255,0.3)', fontSize: 9, marginTop: 2 }}>{plan.billing}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </Animated.View>
+      )}
+
+      {/* Explore CTA */}
+      <TouchableOpacity
+        onPress={onExplore}
+        activeOpacity={0.9}
+        style={{ width: '100%', borderRadius: 28, overflow: 'hidden', shadowColor: THEME.primary, shadowOpacity: 0.55, shadowRadius: 18, shadowOffset: { width: 0, height: 6 }, elevation: 12 }}
+      >
+        <LinearGradient
+          colors={[THEME.primary, '#F4D86B', THEME.primary]}
+          start={{ x: 0, y: 0 }} end={{ x: 1, y: 0 }}
+          style={{ paddingVertical: 15, alignItems: 'center' }}
+        >
+          <Text style={{ color: '#0a0a0c', fontSize: 17, fontWeight: '900', letterSpacing: 0.5 }}>{exploreText}</Text>
+        </LinearGradient>
+      </TouchableOpacity>
+    </View>
+  );
+}
 
 export default function App() {
   return (
@@ -2076,16 +2217,24 @@ function AppContent() {
     const [isPro, setIsPro] = useState(false);
     const [paywallVisible, setPaywallVisible] = useState(false);
     const [selectedPlan, setSelectedPlan] = useState<string>('yearly');
+    const [paywallConfig, setPaywallConfig] = useState<any>(null);
+    const [exportConfig, setExportConfig] = useState<any>(null);
+    const [proWelcomeVisible, setProWelcomeVisible] = useState(false);
+    const [purchasedPlanId, setPurchasedPlanId] = useState<string>('yearly');
+    const celebrationAnim = useRef(new Animated.Value(0)).current;
 
     useEffect(() => {
       AsyncStorage.getItem(PRO_STORAGE_KEY).then(v => { if (v === 'true') setIsPro(true); });
       // Initialise Google Play Billing once on mount. The listener inside
       // initBilling handles successful purchases (persist flag + finishTransaction);
       // we just mirror the flag into local state here.
-      initBilling(async () => {
+      initBilling(async (purchase) => {
         setIsPro(true);
-        setPaywallVisible(false);
-        setCrownModalVisible(false);
+        const planId = (purchase as any)?.productId ?? 'yearly';
+        setPurchasedPlanId(planId);
+        celebrationAnim.setValue(0);
+        Animated.spring(celebrationAnim, { toValue: 1, tension: 40, friction: 6, useNativeDriver: true }).start();
+        setProWelcomeVisible(true);
       }).catch(e => console.warn('[billing] init failed', e));
     }, []);
 
@@ -2959,6 +3108,17 @@ function AppContent() {
           })));
         }
       }),
+      cachedFetch(CLOUD_PAYWALL_CONFIG_URL, '@cache_paywall_config', signal).then(data => {
+        if (signal.aborted || !data) return;
+        setPaywallConfig(data);
+      }).catch(() => {}),
+      cachedFetch(CLOUD_EXPORT_CONFIG_URL, '@cache_export_config', signal).then(data => {
+        if (signal.aborted || !data) return;
+        if (Array.isArray(data.exportStages) && data.exportStages.length > 0) {
+          EXPORT_STAGES = data.exportStages;
+        }
+        setExportConfig(data);
+      }).catch(() => {}),
     ]).catch(() => {});
 
     return () => controller.abort();
@@ -3465,10 +3625,10 @@ function AppContent() {
   };
 
   const runExportAnimation = (): Promise<void> => {
-    // Minimum animation duration: 15 seconds (15000ms)
-    const ANIMATION_DURATION = 15000;
+    // Minimum animation duration: 10s for Pro, 30s for free (ad plays during free)
+    const ANIMATION_DURATION = isPro ? 10000 : 30000;
     const STAGE_COUNT = 5;
-    const STAGE_DELAY = Math.floor(ANIMATION_DURATION / STAGE_COUNT); // 3000ms per stage
+    const STAGE_DELAY = Math.floor(ANIMATION_DURATION / STAGE_COUNT);
     return new Promise((resolve) => {
       setIsExporting(true);
       exportProgress.setValue(0);
@@ -5839,24 +5999,24 @@ function AppContent() {
                 <View style={[proStyles.iconWrap, { backgroundColor: 'rgba(221, 198, 22, 0.15)' }]}>
                   <MaterialIcons name="check-circle" size={32} color={THEME.primary} />
                 </View>
-                <Text style={[proStyles.title, { fontSize: 22 }]}>Saved! 🎉</Text>
-                <Text style={[proStyles.desc, { marginBottom: 16 }]}>Image beautifully saved to your gallery</Text>
+                <Text style={[proStyles.title, { fontSize: 22 }]}>{exportConfig?.saveSuccess?.title || 'Saved! 🎉'}</Text>
+                <Text style={[proStyles.desc, { marginBottom: 16 }]}>{exportConfig?.saveSuccess?.description || 'Image beautifully saved to your gallery'}</Text>
                 
                 <View style={{ backgroundColor: THEME.bgBase, borderRadius: 16, padding: 16, width: '100%', alignItems: 'center', marginBottom: 20, borderWidth: 1, borderColor: 'rgba(221, 198, 22, 0.2)' }}>
-                  <Text style={{ color: THEME.textMuted, fontSize: 12, fontWeight: '500', marginBottom: 8, letterSpacing: 0.5 }}>Tag us on social media</Text>
-                  <Text style={{ color: THEME.primary, fontSize: 18, fontWeight: '700', letterSpacing: 0.5, marginBottom: 10 }}>@acchukannada</Text>
+                  <Text style={{ color: THEME.textMuted, fontSize: 12, fontWeight: '500', marginBottom: 8, letterSpacing: 0.5 }}>{exportConfig?.saveSuccess?.socialPrompt || 'Tag us on social media'}</Text>
+                  <Text style={{ color: THEME.primary, fontSize: 18, fontWeight: '700', letterSpacing: 0.5, marginBottom: 10 }}>{exportConfig?.saveSuccess?.socialHandle || '@acchukannada'}</Text>
                   <View style={{ width: 40, height: 1, backgroundColor: 'rgba(221, 198, 22, 0.3)', marginBottom: 10 }} />
-                  <Text style={{ color: THEME.textMain, fontSize: 22, fontFamily: 'Padyakke', textAlign: 'center', letterSpacing: 1 }}>ಜೈ ಕನ್ನಡ</Text>
-                  <Text style={{ color: THEME.textMuted, fontSize: 11, fontFamily: 'ATSSmooth', marginTop: 4, letterSpacing: 0.8 }}>jai kannada</Text>
+                  <Text style={{ color: THEME.textMain, fontSize: 22, fontFamily: 'Padyakke', textAlign: 'center', letterSpacing: 1 }}>{exportConfig?.saveSuccess?.kannadaText || 'ಜೈ ಕನ್ನಡ'}</Text>
+                  <Text style={{ color: THEME.textMuted, fontSize: 11, fontFamily: 'ATSSmooth', marginTop: 4, letterSpacing: 0.8 }}>{exportConfig?.saveSuccess?.kannadaSubtext || 'jai kannada'}</Text>
                 </View>
                 
                 <View style={{ flexDirection: 'row', alignItems: 'center', marginBottom: 16 }}>
                   <Text style={{ color: THEME.textMuted, fontSize: 11 }}>Use </Text>
-                  <Text style={{ color: THEME.primary, fontSize: 12, fontWeight: '700' }}>#acchukannada</Text>
+                  <Text style={{ color: THEME.primary, fontSize: 12, fontWeight: '700' }}>{exportConfig?.saveSuccess?.hashtag || '#acchukannada'}</Text>
                 </View>
                 
                 <TouchableOpacity style={proStyles.btn} onPress={() => setSaveSuccessVisible(false)}>
-                  <Text style={proStyles.btnText}>Done</Text>
+                  <Text style={proStyles.btnText}>{exportConfig?.saveSuccess?.doneButtonText || 'Done'}</Text>
                 </TouchableOpacity>
               </View>
             </TouchableWithoutFeedback>
@@ -5903,21 +6063,26 @@ function AppContent() {
         transparent={false}
         animationType="slide"
         statusBarTranslucent
-        onRequestClose={() => { setPaywallVisible(false); setCrownModalVisible(false); setTextSubTab(prevTextSubTab.current); if (prevPackId.current) setActivePackId(prevPackId.current); }}
+        onRequestClose={() => { setPaywallVisible(false); setCrownModalVisible(false); setProWelcomeVisible(false); setTextSubTab(prevTextSubTab.current); if (prevPackId.current) setActivePackId(prevPackId.current); }}
       >
         {(() => {
-          const MAIN_PLANS = [
-            { id: 'weekly',  label: 'ಸಾಪ್ತಾಹಿಕ', price: '₹29',  per: '/ವಾರಕ್ಕೆ',  billing: 'ಒಮ್ಮೆ ಮಾತ್ರ', badge: null },
-            { id: 'monthly', label: 'ಮಾಸಿಕ',    price: '₹59',  per: '/ತಿಂಗಳಿಗೆ', billing: 'ಪ್ರತಿ ತಿಂಗಳು ಬಿಲ್ ಮಾಡಲಾಗುತ್ತದೆ', badge: 'ಜನಪ್ರಿಯ' },
-            { id: 'yearly',  label: 'ವಾರ್ಷಿಕ',  price: '₹499', per: '/ವರ್ಷಕ್ಕೆ', billing: 'ಪ್ರತಿ ವರ್ಷ ಬಿಲ್ ಮಾಡಲಾಗುತ್ತದೆ', badge: 'ಅತ್ಯುತ್ತಮ ಮೌಲ್ಯ' },
-          ];
-          const EXTRA_PLANS = [
-            { id: 'lifetime', label: 'ಜೀವಿತಾವಧಿ ಸುಪ್ರೀಮ್', price: '₹4999', per: '',            billing: 'ಒಮ್ಮೆ ಮಾತ್ರ · ಶಾಶ್ವತವಾಗಿ' },
-          ];
+          const REMOTE_PLANS = paywallConfig?.plans;
+          const MAIN_PLANS = REMOTE_PLANS
+            ? REMOTE_PLANS.filter((p: any) => p.id !== 'lifetime')
+            : [
+              { id: 'weekly',  label: 'ಸಾಪ್ತಾಹಿಕ', price: '₹29',  per: '/ವಾರಕ್ಕೆ',  billing: 'ಒಮ್ಮೆ ಮಾತ್ರ', badge: null },
+              { id: 'monthly', label: 'ಮಾಸಿಕ',    price: '₹59',  per: '/ತಿಂಗಳಿಗೆ', billing: 'ಪ್ರತಿ ತಿಂಗಳು ಬಿಲ್ ಮಾಡಲಾಗುತ್ತದೆ', badge: 'ಜನಪ್ರಿಯ' },
+              { id: 'yearly',  label: 'ವಾರ್ಷಿಕ',  price: '₹499', per: '/ವರ್ಷಕ್ಕೆ', billing: 'ಪ್ರತಿ ವರ್ಷ ಬಿಲ್ ಮಾಡಲಾಗುತ್ತದೆ', badge: 'ಅತ್ಯುತ್ತಮ ಮೌಲ್ಯ' },
+            ];
+          const EXTRA_PLANS = REMOTE_PLANS
+            ? REMOTE_PLANS.filter((p: any) => p.id === 'lifetime')
+            : [
+              { id: 'lifetime', label: 'ಜೀವಿತಾವಧಿ ಸುಪ್ರೀಮ್', price: '₹4999', per: '',            billing: 'ಒಮ್ಮೆ ಮಾತ್ರ · ಶಾಶ್ವತವಾಗಿ' },
+            ];
           const ALL_PLANS = [...MAIN_PLANS, ...EXTRA_PLANS];
-          const selectedPlanData = ALL_PLANS.find(p => p.id === selectedPlan) || MAIN_PLANS[2];
-          const closePaywall = () => { setPaywallVisible(false); setCrownModalVisible(false); setTextSubTab(prevTextSubTab.current); if (prevPackId.current) setActivePackId(prevPackId.current); };
-          const FEATURES: { icon: any; label: string; sub: string }[] = [
+          const selectedPlanData = ALL_PLANS.find(p => p.id === selectedPlan) || MAIN_PLANS[2] || MAIN_PLANS[0];
+          const closePaywall = () => { setPaywallVisible(false); setCrownModalVisible(false); setProWelcomeVisible(false); setTextSubTab(prevTextSubTab.current); if (prevPackId.current) setActivePackId(prevPackId.current); };
+          const FEATURES: { icon: any; label: string; sub: string }[] = paywallConfig?.features || [
             { icon: 'palette',      label: 'ಎಲ್ಲಾ ಪ್ರೀಮಿಯಂ ಫಿಲ್ಟರ್‌ಗಳು',           sub: '50+ ಸಿನಿಮ್ಯಾಟಿಕ್ ಫಿಲ್ಮ್ ಲುಕ್‌ಗಳು' },
             { icon: 'tune',         label: 'ಸುಧಾರಿತ ಹೊಂದಾಣಿಕೆಗಳು',                sub: 'ಕರ್ವ್ಸ್, HSL, ಕ್ಲಾರಿಟಿ ಮತ್ತು ಇನ್ನಷ್ಟು' },
             { icon: 'person',       label: 'ಸಬ್ಜೆಕ್ಟ್ ಸೆಗ್ಮೆಂಟೇಶನ್',               sub: 'ಸಬ್ಜೆಕ್ಟ್ ಹಿಂದಿರುವ ಟೆಕ್ಸ್ಟ್, ಕಟ್‌ಔಟ್‌ಗಳು' },
@@ -5925,6 +6090,25 @@ function AppContent() {
             { icon: 'photo-camera', label: 'ಲೈವ್ ಫಿಲ್ಟರ್‌ಗಳೊಂದಿಗೆ ಕ್ಯಾಮೆರಾ',      sub: 'ನೈಜ ಸಮಯದಲ್ಲಿ ಶೂಟ್ ಮತ್ತು ಸಂಪಾದಿಸಿ' },
             { icon: 'high-quality', label: 'HD ಎಕ್ಸ್‌ಪೋರ್ಟ್ · ವಾಟರ್‌ಮಾರ್ಕ್ ಇಲ್ಲ',     sub: '4K ವರೆಗೆ, PNG ಮತ್ತು PDF' },
           ];
+
+          // After purchase: show celebration/welcome screen
+          if (proWelcomeVisible) {
+            return (
+              <ProWelcomeScreen
+                purchasedPlanId={purchasedPlanId}
+                allPlans={ALL_PLANS}
+                paywallConfig={paywallConfig}
+                celebrationAnim={celebrationAnim}
+                safeTop={safeTop}
+                safeBottom={safeBottom}
+                onExplore={closePaywall}
+                onUpgrade={(planId) => {
+                  setSelectedPlan(planId);
+                  setProWelcomeVisible(false);
+                }}
+              />
+            );
+          }
           return (
             <View style={{ flex: 1, backgroundColor: '#0a0a0c' }}>
               {/* ── HERO IMAGE (top ~28% of screen) ── */}
@@ -5965,7 +6149,7 @@ function AppContent() {
                     <Text style={{ color: '#fff', fontSize: 20, fontWeight: '900', letterSpacing: 0.2 }}> ಅನ್‌ಲಾಕ್ ಮಾಡಿ</Text>
                   </View>
                   <Text style={{ color: 'rgba(255,255,255,0.5)', fontSize: 11.5, marginTop: 4, textAlign: 'center' }}>
-                    ಎಲ್ಲವನ್ನೂ ಅನ್‌ಲಾಕ್ ಮಾಡಿ. ಮಿತಿಗಳಿಲ್ಲದೆ ರಚಿಸಿ.
+                    {paywallConfig?.subtitle || 'ಎಲ್ಲವನ್ನೂ ಅನ್‌ಲಾಕ್ ಮಾಡಿ. ಮಿತಿಗಳಿಲ್ಲದೆ ರಚಿಸಿ.'}
                   </Text>
                 </View>
 
@@ -5984,7 +6168,7 @@ function AppContent() {
                 {/* MAIN PLANS */}
                 <View style={{ marginTop: 14 }}>
                   <View style={{ flexDirection: 'row', gap: 7, alignItems: 'flex-end' }}>
-                    {MAIN_PLANS.map((plan) => {
+                    {MAIN_PLANS.map((plan: any) => {
                       const isSelected = selectedPlan === plan.id;
                       return (
                         <TouchableOpacity
@@ -6035,7 +6219,7 @@ function AppContent() {
                 {/* EXTRA PLANS */}
                 <View style={{ marginTop: 10 }}>
                   <View style={{ flexDirection: 'row', gap: 6 }}>
-                    {EXTRA_PLANS.map((plan) => {
+                    {EXTRA_PLANS.map((plan: any) => {
                       const isSelected = selectedPlan === plan.id;
                       return (
                         <TouchableOpacity
@@ -6084,7 +6268,7 @@ function AppContent() {
                     style={{ paddingVertical: 13, alignItems: 'center', justifyContent: 'center' }}
                   >
                     <Text style={{ color: '#0a0a0c', fontSize: 15.5, fontWeight: '900', letterSpacing: 0.3 }}>
-                      ಈಗಲೇ Pro ಅನ್‌ಲಾಕ್ ಮಾಡಿ
+                      {paywallConfig?.ctaText || 'ಈಗಲೇ Pro ಅನ್‌ಲಾಕ್ ಮಾಡಿ'}
                     </Text>
                     <Text style={{ color: 'rgba(10,10,12,0.7)', fontSize: 10, fontWeight: '600', marginTop: 1 }}>
                       {selectedPlanData.price}{selectedPlanData.per} · {selectedPlanData.billing}
