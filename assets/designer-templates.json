@@ -1,5 +1,44 @@
 {
-  "version": "1.0",
-  "note": "Designer templates — add templates here to show in the app. Each template has text layers and sticker layers. This is a Pro feature.",
-  "templates": []
+  "version": 1,
+  "templates": [
+    {
+      "id": "tdt_sample_001",
+      "name": "Bold Intro",
+      "category": "Style",
+      "lines": [
+        {
+          "text": "WELCOME",
+          "fontFamily": "ATSSmooth",
+          "fontSize": 48,
+          "color": "#DDC616",
+          "isBold": true,
+          "letterSpacing": 6
+        },
+        {
+          "text": "ಅಚ್ಚು ಕನ್ನಡ",
+          "fontFamily": "Padyakke",
+          "fontSize": 32,
+          "color": "#FFFFFF",
+          "letterSpacing": 2
+        },
+        {
+          "text": "— Made with love —",
+          "fontFamily": "Hubballi",
+          "fontSize": 18,
+          "color": "#888888",
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": [
+        {
+          "src": "https://raw.githubusercontent.com/.../sticker.png",
+          "x": 120,
+          "y": -80,
+          "scale": 0.8,
+          "rotation": -15,
+          "isTintable": false
+        }
+      ]
+    }
+  ]
 }
