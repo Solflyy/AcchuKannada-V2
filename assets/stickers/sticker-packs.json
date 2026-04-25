@@ -64,6 +64,7 @@
     {
       "id": "local",
       "name": "ಆಡುಭಾಷೆ",
+      "isPremium": true,
       "stickers": [
         { "id": "k1", "src": "HBD01.webp" },
         { "id": "k2", "src": "HBD02.webp" },
