@@ -72,6 +72,25 @@
         { "id": "k3", "src": "HBD03.webp" },
         { "id": "k4", "src": "HBD04.webp" }
       ]
+        },
+    {
+      "id": "Flower",
+      "name": "ಹೂವಿನ ಹಾರ",
+      "isTintable": true,
+      "stickers": [
+        { "id": "l1", "src": "FD001.webp" },
+        { "id": "l2", "src": "FD002.webp" },
+        { "id": "l3", "src": "FD003.webp" },
+        { "id": "l4", "src": "FD004.webp" },
+        { "id": "l5", "src": "FD005.webp" },
+        { "id": "l6", "src": "FD006.webp" },
+        { "id": "l7", "src": "FD007.webp" },
+        { "id": "l8", "src": "FD008.webp" },
+        { "id": "l9", "src": "FD009.webp" },
+        { "id": "l10", "src": "FD010.webp" },
+        { "id": "l11", "src": "FF001.webp" },
+        { "id": "l12", "src": "FF002.webp" }
+      ]
     }
   ]
 }
