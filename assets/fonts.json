@@ -6,6 +6,7 @@
       "name": "ವಿನ್ಯಾಸ",
       "fonts": [
         { "label": "Hubballi", "value": "Hubballi", "file": "Hubballi-Regular.ttf" },
+        { "label": "ಕನ್ನಡ ಕೈ ಬರಹ", "value": "ಕನ್ನಡ ಕೈ ಬರಹ", "file": "DesignigaHandwritting-Regular.ttf" },
         { "label": "Noto Sans", "value": "NotoSans", "file": "NotoSansKannada.ttf" },
         { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
         { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" },
