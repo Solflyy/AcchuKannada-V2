@@ -13,6 +13,7 @@
       "id": "namma_karnataka",
       "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
       "isTintable": true,
+       "isPremium": true,
       "stickers": [
         { "id": "f1", "src": "AKN_C02.webp" },
         { "id": "f2", "src": "AKN_C03.webp" },
