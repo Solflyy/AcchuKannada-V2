@@ -13,7 +13,6 @@
       "id": "namma_karnataka",
       "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
       "isTintable": true,
-       "isPremium": true,
       "stickers": [
         { "id": "f1", "src": "AKN_C02.webp" },
         { "id": "f2", "src": "AKN_C03.webp" },
@@ -56,10 +55,10 @@
       "id": "rajyotsava",
       "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
       "stickers": [
-        { "id": "j1", "src": "KS01.webp" },
-        { "id": "j2", "src": "KS02.webp" },
-        { "id": "j3", "src": "KS03.webp" },
-        { "id": "j4", "src": "KS04.webp" }
+        { "id": "j1", "src": "KN1.webp" },
+        { "id": "j2", "src": "KN2.webp" },
+        { "id": "j3", "src": "KN3.webp" },
+        { "id": "j4", "src": "KN4.webp" }
       ]
     },
     {
