@@ -7,11 +7,11 @@
       "fonts": [
         { "label": "Tiro Kannada Italic", "value": "TiroKannadaItalic", "file": "TiroKannada-Italic.ttf" },
         { "label": "Tiro Kannada Regular", "value": "TiroKannadaRegular", "file": "TiroKannada-Regular.ttf" },
+        { "label": "ಕನ್ನಡ ಕೈ ಬರಹ", "value": "ಕನ್ನಡ ಕೈ ಬರಹ", "file": "DesignigaHandwritting-Regular.ttf" },
         { "label": "Benne Regular", "value": "BenneRegular", "file": "Benne-Regular.ttf" },
         { "label": "Nishchaya", "value": "Nishchaya", "file": "Nishchaya.ttf" },
         { "label": "Kannada Pixel", "value": "KannadaPixel", "file": "KannadaPixel.ttf" },
         { "label": "Kanishka", "value": "Kanishka", "file": "Kanishka.ttf" },
-        { "label": "Devama", "value": "Devama", "file": "Devama.ttf" },
         { "label": "Bandipur One", "value": "BandipurOne", "file": "BandipurOne.ttf" },
         { "label": "Ambarisha 2", "value": "Ambarisha2", "file": "Ambarisha2.ttf" }
       ]
@@ -21,11 +21,13 @@
       "name": "ವಿನ್ಯಾಸ",
       "fonts": [
         { "label": "Hubballi", "value": "Hubballi", "file": "Hubballi-Regular.ttf" },
-        { "label": "ಕನ್ನಡ ಕೈ ಬರಹ", "value": "ಕನ್ನಡ ಕೈ ಬರಹ", "file": "DesignigaHandwritting-Regular.ttf" },
-        { "label": "Noto Sans", "value": "NotoSans", "file": "NotoSansKannada.ttf" },
         { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
         { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" },
-        { "label": "Lohit", "value": "Lohit", "file": "Lohit_Kannada.ttf" }
+        { "label": "Lohit", "value": "Lohit", "file": "Lohit_Kannada.ttf" },
+        { "label": "Akaya", "value": "Akaya", "file": "AkayaKanadaka-Regular.ttf" },
+        { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
+        { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
+        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" }
       ]
     },
     {
@@ -39,11 +41,7 @@
         { "label": "Anek Medium", "value": "Anek-Medium", "file": "AnekKannada-Medium.ttf" },
         { "label": "Anek SemiBold", "value": "Anek-SemiBold", "file": "AnekKannada-SemiBold.ttf" },
         { "label": "Anek Bold", "value": "Anek-Bold", "file": "AnekKannada-Bold.ttf" },
-        { "label": "Anek ExtraBold", "value": "Anek-ExtraBold", "file": "AnekKannada-ExtraBold.ttf" },
-        { "label": "Akaya", "value": "Akaya", "file": "AkayaKanadaka-Regular.ttf" },
-        { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
-        { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
-        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" }
+        { "label": "Anek ExtraBold", "value": "Anek-ExtraBold", "file": "AnekKannada-ExtraBold.ttf" }
       ]
     },
     {
