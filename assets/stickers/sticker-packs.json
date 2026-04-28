@@ -3,7 +3,7 @@
   "packs": [
     {
       "id": "essentials",
-      "name": "Daily Essentials",
+      "name": "ದಿನನಿತ್ಯ",
       "stickers": [
         { "id": "e1", "src": "AKN_C01.webp" },
         { "id": "e2", "src": "KS11.webp" },
@@ -32,13 +32,6 @@
       ]
     },
     {
-      "id": "kundapura",
-      "name": "Kundapura",
-      "stickers": [
-        { "id": "g1", "src": "KS10.webp" }
-      ]
-    },
-    {
       "id": "birthday",
       "name": "ಹುಟ್ಟು ಹಬ್ಬ",
       "stickers": [
@@ -46,14 +39,7 @@
         { "id": "h2", "src": "HBD02.webp" },
         { "id": "h3", "src": "HBD03.webp" },
         { "id": "h4", "src": "HBD04.webp" }
-      ]
-    },
-    {
-      "id": "festival",
-      "name": "ಹಬ್ಬ ಹರಿದಿನ",
-      "stickers": [
-        { "id": "i1", "src": "KS11.webp" }
-      ]
+     ]
     },
     {
       "id": "rajyotsava",
@@ -94,6 +80,14 @@
         { "id": "l11", "src": "FF001.webp" },
         { "id": "l12", "src": "FF002.webp" }
       ]
+    },
+    {
+      "id": "festival",
+      "name": "ಹಬ್ಬ ಹರಿದಿನ",
+      "stickers": [
+        { "id": "i1", "src": "KS11.webp" }
+      ]
+      
     }
   ]
 }
