@@ -27,7 +27,9 @@
         { "label": "Akaya", "value": "Akaya", "file": "AkayaKanadaka-Regular.ttf" },
         { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
         { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
-        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" }
+        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" },
+        { "label": "Bandipura", "value": "ATSBandipura", "file": "ATSBandipura-Bold.ttf" },
+        { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "file": "ATSChikkamagaluru-Regular.ttf" }
       ]
     },
     {
@@ -74,8 +76,7 @@
       "id": "karnataka",
       "name": "ಕರ್ನಾಟಕ",
       "fonts": [
-        { "label": "Bandipura", "value": "ATSBandipura", "file": "ATSBandipura-Bold.ttf" },
-        { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "file": "ATSChikkamagaluru-Regular.ttf" }
+        
       ]
     },
     {
@@ -106,64 +107,16 @@
     },
     {
       "id": "acchu_kannada",
-      "name": "ಅಚ್ಚು ಕನ್ನಡ",
+      "name": "ಅಚ್ಚು ಕನ್ನಡ", "isPremium": true
       "fonts": [
-        { "label": "Acchu Font 1", "value": "Acchu1", "file": "Acchu1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "karavali",
-      "name": "ಕರಾವಳಿ",
-      "fonts": [
-        { "label": "Karavali Font 1", "value": "Karavali1", "file": "Karavali1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "malenaadu",
-      "name": "ಮಲೆನಾಡು",
-      "fonts": [
-        { "label": "Malenaadu Font 1", "value": "Malenaadu1", "file": "Malenaadu1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "samudra",
-      "name": "ಸಮುದ್ರ",
-      "fonts": [
-        { "label": "Samudra Font 1", "value": "Samudra1", "file": "Samudra1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "bayaluseeme",
-      "name": "ಬಯಲುಸೀಮೆ",
-      "fonts": [
-        { "label": "Bayaluseeme Font 1", "value": "Bayaluseeme1", "file": "Bayaluseeme1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "uttara_kannada",
-      "name": "ಉತ್ತರ ಕನ್ನಡ",
-      "fonts": [
-        { "label": "UK Font 1", "value": "UK1", "file": "UK1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "baadami",
-      "name": "ಬಾದಾಮಿ",
-      "fonts": [
-        { "label": "Baadami Font 1", "value": "Baadami1", "file": "Baadami1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "chalukya",
-      "name": "ಚಾಲುಕ್ಯ",
-      "fonts": [
-        { "label": "Chalukya Font 1", "value": "Chalukya1", "file": "Chalukya1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "hampe",
-      "name": "ಹಂಪಿ",
-      "fonts": [
+        { "label": "Acchu Font 1", "value": "Acchu1", "file": "Acchu1.ttf", "isPremium": true },
+        { "label": "Karavali Font 1", "value": "Karavali1", "file": "Karavali1.ttf", "isPremium": true },
+        { "label": "Malenaadu Font 1", "value": "Malenaadu1", "file": "Malenaadu1.ttf", "isPremium": true },
+        { "label": "Samudra Font 1", "value": "Samudra1", "file": "Samudra1.ttf", "isPremium": true },
+        { "label": "Bayaluseeme Font 1", "value": "Bayaluseeme1", "file": "Bayaluseeme1.ttf", "isPremium": true },
+        { "label": "UK Font 1", "value": "UK1", "file": "UK1.ttf", "isPremium": true },
+        { "label": "Baadami Font 1", "value": "Baadami1", "file": "Baadami1.ttf", "isPremium": true },
+        { "label": "Chalukya Font 1", "value": "Chalukya1", "file": "Chalukya1.ttf", "isPremium": true },
         { "label": "Hampe Font 1", "value": "Hampe1", "file": "Hampe1.ttf", "isPremium": true }
       ]
     }
