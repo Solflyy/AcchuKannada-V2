@@ -6,7 +6,11 @@
       "name": "Daily Essentials",
       "stickers": [
         { "id": "e1", "src": "AKN_C01.webp" },
-        { "id": "e2", "src": "KS11.webp" }
+        { "id": "e2", "src": "KS11.webp" },
+        { "id": "e3", "src": "DE1.webp" },
+        { "id": "e4", "src": "DE2.webp" },
+        { "id": "e5", "src": "DE3.webp" },
+        { "id": "e6", "src": "DE4.webp" }
       ]
     },
     {
