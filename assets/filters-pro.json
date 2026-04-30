@@ -2,6 +2,7 @@
   {
     "id": "pro_cin1",
     "label": "Teal&Orange",
+    "category": "ಸಿನೆಮ್ಯಾಟಿಕ್",
     "previewColor": "#E87040",
     "defaultStrength": 1,
     "matrix": [
@@ -14,6 +15,7 @@
   {
     "id": "pro_cin2",
     "label": "Blade",
+    "category": "ಸಿನೆಮ್ಯಾಟಿಕ್",
     "previewColor": "#50A0A0",
     "defaultStrength": 1,
     "matrix": [
@@ -26,6 +28,7 @@
   {
     "id": "pro_cin3",
     "label": "Matrix",
+    "category": "ಸಿನೆಮ್ಯಾಟಿಕ್",
     "previewColor": "#40A060",
     "defaultStrength": 1,
     "matrix": [
@@ -38,6 +41,7 @@
   {
     "id": "pro_pt1",
     "label": "Soft Glow",
+    "category": "ಭಾವಚಿತ್ರ",
     "previewColor": "#F0C8A0",
     "defaultStrength": 1,
     "matrix": [
@@ -50,6 +54,7 @@
   {
     "id": "pro_pt2",
     "label": "Porcelain",
+    "category": "ಭಾವಚಿತ್ರ",
     "previewColor": "#E8D0D0",
     "defaultStrength": 1,
     "matrix": [
@@ -62,6 +67,7 @@
   {
     "id": "pro_fd1",
     "label": "Warm Plate",
+    "category": "ಆಹಾರ",
     "previewColor": "#E8A050",
     "defaultStrength": 1,
     "matrix": [
@@ -74,6 +80,7 @@
   {
     "id": "pro_fd2",
     "label": "Fresh",
+    "category": "ಆಹಾರ",
     "previewColor": "#80C060",
     "defaultStrength": 1,
     "matrix": [
@@ -86,6 +93,7 @@
   {
     "id": "pro_tr1",
     "label": "Golden Hour",
+    "category": "ಪ್ರವಾಸ",
     "previewColor": "#E89030",
     "defaultStrength": 1,
     "matrix": [
@@ -98,6 +106,7 @@
   {
     "id": "pro_tr2",
     "label": "Azure",
+    "category": "ಪ್ರವಾಸ",
     "previewColor": "#4090C0",
     "defaultStrength": 1,
     "matrix": [
@@ -110,6 +119,7 @@
   {
     "id": "pro_md1",
     "label": "Shadows",
+    "category": "ಮೂಡಿ",
     "previewColor": "#3A3A5A",
     "defaultStrength": 1,
     "matrix": [
@@ -122,6 +132,7 @@
   {
     "id": "pro_md2",
     "label": "Ember",
+    "category": "ಮೂಡಿ",
     "previewColor": "#A04030",
     "defaultStrength": 1,
     "matrix": [
@@ -134,6 +145,7 @@
   {
     "id": "pro_md3",
     "label": "Mist",
+    "category": "ಮೂಡಿ",
     "previewColor": "#7080A0",
     "defaultStrength": 1,
     "matrix": [
@@ -146,6 +158,7 @@
   {
     "id": "fs_portra400",
     "label": "Portra 400",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#E8C8A0",
     "defaultStrength": 1,
     "matrix": [
@@ -158,6 +171,7 @@
   {
     "id": "fs_portra800",
     "label": "Portra 800",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#D4A070",
     "defaultStrength": 1,
     "matrix": [
@@ -170,6 +184,7 @@
   {
     "id": "fs_ektar",
     "label": "Ektar 100",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#E06030",
     "defaultStrength": 1,
     "matrix": [
@@ -182,6 +197,7 @@
   {
     "id": "fs_cinestill",
     "label": "CineStill 800T",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#4080A0",
     "defaultStrength": 1,
     "matrix": [
@@ -194,6 +210,7 @@
   {
     "id": "fs_pro400h",
     "label": "Pro 400H",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#A0C8C0",
     "defaultStrength": 1,
     "matrix": [
@@ -206,6 +223,7 @@
   {
     "id": "fs_velvia",
     "label": "Velvia 50",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#2080A0",
     "defaultStrength": 1,
     "matrix": [
@@ -218,6 +236,7 @@
   {
     "id": "fs_leica",
     "label": "Leica M",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#7A7060",
     "defaultStrength": 1,
     "matrix": [
@@ -230,6 +249,7 @@
   {
     "id": "fs_trix",
     "label": "Tri-X 400",
+    "category": "ಫಿಲ್ಮ್",
     "previewColor": "#505050",
     "defaultStrength": 1,
     "matrix": [
@@ -242,6 +262,7 @@
   {
     "id": "pro_fx1",
     "label": "Flair",
+    "category": "ಎಫೆಕ್ಟ್ಸ್",
     "previewColor": "#F0A858",
     "defaultStrength": 1,
     "matrix": [
@@ -254,6 +275,7 @@
   {
     "id": "pro_fx2",
     "label": "Film Burn",
+    "category": "ಎಫೆಕ್ಟ್ಸ್",
     "previewColor": "#D84020",
     "defaultStrength": 1,
     "matrix": [
@@ -266,6 +288,7 @@
   {
     "id": "pro_fx3",
     "label": "Glare",
+    "category": "ಎಫೆಕ್ಟ್ಸ್",
     "previewColor": "#F8F0D0",
     "defaultStrength": 1,
     "matrix": [
@@ -278,6 +301,7 @@
   {
     "id": "acchu_prakriti",
     "label": "Prakriti",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#8B5A2B",
     "defaultStrength": 1.0,
     "matrix": [
@@ -290,6 +314,7 @@
   {
     "id": "acchu_chalanachitra",
     "label": "Chalanachitra",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#F4A460",
     "defaultStrength": 1.0,
     "matrix": [
@@ -302,6 +327,7 @@
   {
     "id": "acchu_sagara",
     "label": "Sagara Sahasa",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#008B8B",
     "defaultStrength": 1.0,
     "matrix": [
@@ -314,6 +340,7 @@
   {
     "id": "acchu_shakti",
     "label": "Shakti",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#FF4500",
     "defaultStrength": 1.0,
     "matrix": [
@@ -326,6 +353,7 @@
   {
     "id": "acchu_ekatva",
     "label": "Ekatva",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#778899",
     "defaultStrength": 1.0,
     "matrix": [
@@ -338,6 +366,7 @@
   {
     "id": "acchu_neon_raatri",
     "label": "Neon Raatri",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#FF3300",
     "defaultStrength": 1.0,
     "matrix": [
@@ -350,6 +379,7 @@
   {
     "id": "acchu_suvarna_belaku",
     "label": "Suvarna Belaku",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#FFA500",
     "defaultStrength": 1.0,
     "matrix": [
@@ -362,6 +392,7 @@
   {
     "id": "acchu_chitra_kanasu",
     "label": "Chitra Kanasu",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#008080",
     "defaultStrength": 1.0,
     "matrix": [
@@ -374,6 +405,7 @@
   {
     "id": "acchu_nishabda_neeli",
     "label": "Nishabda Neeli",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#1A2B4C",
     "defaultStrength": 1.0,
     "matrix": [
@@ -386,6 +418,7 @@
   {
     "id": "acchu_hasiru_chaye",
     "label": "Hasiru Chaye",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#2E8B57",
     "defaultStrength": 1.0,
     "matrix": [
