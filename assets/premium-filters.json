@@ -151,5 +151,50 @@
     "defaultStrength": 1.0,
     "colorMatrix": [0.8, 0.1, 0.1, 0.0, 0.0, 0.1, 0.9, 0.1, 0.0, 0.0, 0.1, 0.1, 1.1, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
     "shadowMatrix": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "acchu_neon_raatri",
+    "label": "Neon Raatri",
+    "category": "Acchu Kannada",
+    "previewColor": "#FF3300",
+    "defaultStrength": 1.0,
+    "colorMatrix": [1.4, 0.0, 0.0, 0.0, 0.1, 0.0, 0.8, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [0.9, 0.0, 0.0, 0.0, -0.05, 0.0, 0.85, 0.0, 0.0, -0.05, 0.0, 0.0, 1.15, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "acchu_suvarna_belaku",
+    "label": "Suvarna Belaku",
+    "category": "Acchu Kannada",
+    "previewColor": "#FFA500",
+    "defaultStrength": 1.0,
+    "colorMatrix": [1.2, 0.1, 0.0, 0.0, 0.15, 0.0, 1.1, 0.1, 0.0, 0.05, 0.0, 0.0, 0.7, 0.0, -0.1, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [1.1, 0.0, 0.0, 0.0, 0.1, 0.0, 1.05, 0.0, 0.0, 0.05, 0.0, 0.0, 0.8, 0.0, -0.05, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "acchu_chitra_kanasu",
+    "label": "Chitra Kanasu",
+    "category": "Acchu Kannada",
+    "previewColor": "#008080",
+    "defaultStrength": 0.9,
+    "colorMatrix": [1.15, 0.0, 0.0, 0.0, 0.05, 0.0, 1.05, 0.1, 0.0, 0.0, 0.0, 0.1, 1.25, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [0.95, 0.0, 0.0, 0.0, -0.05, 0.0, 1.1, 0.0, 0.0, 0.05, 0.0, 0.0, 1.2, 0.0, 0.15, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "acchu_nishabda_neeli",
+    "label": "Nishabda Neeli",
+    "category": "Acchu Kannada",
+    "previewColor": "#1A2B4C",
+    "defaultStrength": 1.0,
+    "colorMatrix": [0.75, 0.0, 0.0, 0.0, -0.1, 0.0, 0.85, 0.0, 0.0, -0.05, 0.0, 0.0, 1.35, 0.0, 0.15, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [0.8, 0.0, 0.0, 0.0, -0.1, 0.0, 0.9, 0.0, 0.0, -0.1, 0.0, 0.0, 1.2, 0.0, 0.1, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "acchu_hasiru_chaye",
+    "label": "Hasiru Chaye",
+    "category": "Acchu Kannada",
+    "previewColor": "#2E8B57",
+    "defaultStrength": 0.85,
+    "colorMatrix": [0.9, 0.0, 0.0, 0.0, -0.05, 0.0, 1.25, 0.0, 0.0, 0.1, 0.0, 0.0, 1.05, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+    "shadowMatrix": [0.85, 0.0, 0.0, 0.0, -0.1, 0.0, 1.15, 0.0, 0.0, 0.05, 0.0, 0.0, 0.9, 0.0, -0.05, 0.0, 0.0, 0.0, 1.0, 0.0]
   }
 ]
