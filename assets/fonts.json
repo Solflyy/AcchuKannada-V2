@@ -3,7 +3,7 @@
   "categories": [
     {
       "id": "newly_added",
-      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು (Newly Added)",
+      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು",
       "fonts": [
         { "label": "Tiro Kannada Italic", "value": "TiroKannadaItalic", "file": "TiroKannada-Italic.ttf" },
         { "label": "Tiro Kannada Regular", "value": "TiroKannadaRegular", "file": "TiroKannada-Regular.ttf" },
