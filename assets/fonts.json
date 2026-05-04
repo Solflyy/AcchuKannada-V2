@@ -66,10 +66,14 @@
       "name": "ಬೆಂಗಳೂರು SERIES",
       "fonts": [
         { "label": "Smooth", "value": "ATSSmooth", "file": "ATSBengaluru-SmoothRegular.ttf" },
-        { "label": "Dot", "value": "ATSDot", "file": "ATSDotRegular.ttf" },
-        { "label": "LED", "value": "ATSLED", "file": "ATSLEDRegular.ttf" },
-        { "label": "Pixel", "value": "ATSPixel", "file": "ATSPixelRegular.ttf" },
-        { "label": "Square", "value": "ATSSquare", "file": "ATSSquareRegular.ttf" }
+        { "label": "Dot", "value": "ATSDot", "file": "ATSBengaluru-DotRegular.ttf" },
+        { "label": "Dot Bold", "value": "ATSDotBold", "file": "ATSBengaluru-DotBold.ttf" },
+        { "label": "LED", "value": "ATSLED", "file": "ATSBengaluru-LEDRegular.ttf" },
+        { "label": "LED Bold", "value": "ATSLEDBold", "file": "ATSBengaluru-LEDBold.ttf" },
+        { "label": "Pixel", "value": "ATSPixel", "file": "ATSBengaluru-PixelRegular.ttf" },
+        { "label": "Pixel Bold", "value": "ATSPixelBold", "file": "ATSBengaluru-PixelBold.ttf" },
+        { "label": "Square", "value": "ATSSquare", "file": "ATSBengaluru-SquareRegular.ttf" },
+        { "label": "Square Bold", "value": "ATSSquareBold", "file": "ATSBengaluru-SquareBold.ttf" }
       ]
     },
     {
