@@ -147,6 +147,7 @@
         { "label": "Noto Sans Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada-Bold.ttf" },
         { "label": "Noto Sans Extra Bold", "value": "NotoSansKannadaExtraBold", "file": "NotoSansKannada-ExtraBold.ttf" },
         { "label": "Noto Sans Black", "value": "NotoSansKannadaBlack", "file": "NotoSansKannada-Black.ttf" },
+        
         { "label": "Noto Sans Condensed Thin", "value": "NotoSansKannadaCondensedThin", "file": "NotoSansKannada_Condensed-Thin.ttf" },
         { "label": "Noto Sans Condensed Extra Light", "value": "NotoSansKannadaCondensedExtraLight", "file": "NotoSansKannada_Condensed-ExtraLight.ttf" },
         { "label": "Noto Sans Condensed Light", "value": "NotoSansKannadaCondensedLight", "file": "NotoSansKannada_Condensed-Light.ttf" },
@@ -156,6 +157,7 @@
         { "label": "Noto Sans Condensed Bold", "value": "NotoSansKannadaCondensedBold", "file": "NotoSansKannada_Condensed-Bold.ttf" },
         { "label": "Noto Sans Condensed Extra Bold", "value": "NotoSansKannadaCondensedExtraBold", "file": "NotoSansKannada_Condensed-ExtraBold.ttf" },
         { "label": "Noto Sans Condensed Black", "value": "NotoSansKannadaCondensedBlack", "file": "NotoSansKannada_Condensed-Black.ttf" },
+        
         { "label": "Noto Sans Extra Condensed Thin", "value": "NotoSansKannadaExtraCondensedThin", "file": "NotoSansKannada_ExtraCondensed-Thin.ttf" },
         { "label": "Noto Sans Extra Condensed Extra Light", "value": "NotoSansKannadaExtraCondensedExtraLight", "file": "NotoSansKannada_ExtraCondensed-ExtraLight.ttf" },
         { "label": "Noto Sans Extra Condensed Light", "value": "NotoSansKannadaExtraCondensedLight", "file": "NotoSansKannada_ExtraCondensed-Light.ttf" },
@@ -165,6 +167,7 @@
         { "label": "Noto Sans Extra Condensed Bold", "value": "NotoSansKannadaExtraCondensedBold", "file": "NotoSansKannada_ExtraCondensed-Bold.ttf" },
         { "label": "Noto Sans Extra Condensed Extra Bold", "value": "NotoSansKannadaExtraCondensedExtraBold", "file": "NotoSansKannada_ExtraCondensed-ExtraBold.ttf" },
         { "label": "Noto Sans Extra Condensed Black", "value": "NotoSansKannadaExtraCondensedBlack", "file": "NotoSansKannada_ExtraCondensed-Black.ttf" },
+        
         { "label": "Noto Sans Semi Condensed Thin", "value": "NotoSansKannadaSemiCondensedThin", "file": "NotoSansKannada_SemiCondensed-Thin.ttf" },
         { "label": "Noto Sans Semi Condensed Extra Light", "value": "NotoSansKannadaSemiCondensedExtraLight", "file": "NotoSansKannada_SemiCondensed-ExtraLight.ttf" },
         { "label": "Noto Sans Semi Condensed Light", "value": "NotoSansKannadaSemiCondensedLight", "file": "NotoSansKannada_SemiCondensed-Light.ttf" },
@@ -174,6 +177,7 @@
         { "label": "Noto Sans Semi Condensed Bold", "value": "NotoSansKannadaSemiCondensedBold", "file": "NotoSansKannada_SemiCondensed-Bold.ttf" },
         { "label": "Noto Sans Semi Condensed Extra Bold", "value": "NotoSansKannadaSemiCondensedExtraBold", "file": "NotoSansKannada_SemiCondensed-ExtraBold.ttf" },
         { "label": "Noto Sans Semi Condensed Black", "value": "NotoSansKannadaSemiCondensedBlack", "file": "NotoSansKannada_SemiCondensed-Black.ttf" },
+        
         { "label": "Noto Serif Thin", "value": "NotoSerifKannadaThin", "file": "NotoSerifKannada-Thin.ttf" },
         { "label": "Noto Serif Extra Light", "value": "NotoSerifKannadaExtraLight", "file": "NotoSerifKannada-ExtraLight.ttf" },
         { "label": "Noto Serif Light", "value": "NotoSerifKannadaLight", "file": "NotoSerifKannada-Light.ttf" },
