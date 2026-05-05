@@ -27,51 +27,6 @@
         { "label": "Hubballi", "value": "Hubballi", "file": "Hubballi-Regular.ttf" },
         { "label": "Lohit", "value": "Lohit", "file": "Lohit_Kannada.ttf" },
         { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
-        { "label": "Thin", "value": "NotoSansKannadaThin", "file": "NotoSansKannada-Thin.ttf" },
-        { "label": "Extra Light", "value": "NotoSansKannadaExtraLight", "file": "NotoSansKannada-ExtraLight.ttf" },
-        { "label": "Light", "value": "NotoSansKannadaLight", "file": "NotoSansKannada-Light.ttf" },
-        { "label": "Regular", "value": "NotoSansKannadaRegular", "file": "NotoSansKannada-Regular.ttf" },
-        { "label": "Medium", "value": "NotoSansKannadaMedium", "file": "NotoSansKannada-Medium.ttf" },
-        { "label": "Semi Bold", "value": "NotoSansKannadaSemiBold", "file": "NotoSansKannada-SemiBold.ttf" },
-        { "label": "Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada-Bold.ttf" },
-        { "label": "Extra Bold", "value": "NotoSansKannadaExtraBold", "file": "NotoSansKannada-ExtraBold.ttf" },
-        { "label": "Black", "value": "NotoSansKannadaBlack", "file": "NotoSansKannada-Black.ttf" },
-        { "label": "Thin", "value": "NotoSansKannadaCondensedThin", "file": "NotoSansKannada_Condensed-Thin.ttf" },
-        { "label": "Extra Light", "value": "NotoSansKannadaCondensedExtraLight", "file": "NotoSansKannada_Condensed-ExtraLight.ttf" },
-        { "label": "Light", "value": "NotoSansKannadaCondensedLight", "file": "NotoSansKannada_Condensed-Light.ttf" },
-        { "label": "Regular", "value": "NotoSansKannadaCondensedRegular", "file": "NotoSansKannada_Condensed-Regular.ttf" },
-        { "label": "Medium", "value": "NotoSansKannadaCondensedMedium", "file": "NotoSansKannada_Condensed-Medium.ttf" },
-        { "label": "Semi Bold", "value": "NotoSansKannadaCondensedSemiBold", "file": "NotoSansKannada_Condensed-SemiBold.ttf" },
-        { "label": "Bold", "value": "NotoSansKannadaCondensedBold", "file": "NotoSansKannada_Condensed-Bold.ttf" },
-        { "label": "Extra Bold", "value": "NotoSansKannadaCondensedExtraBold", "file": "NotoSansKannada_Condensed-ExtraBold.ttf" },
-        { "label": "Black", "value": "NotoSansKannadaCondensedBlack", "file": "NotoSansKannada_Condensed-Black.ttf" },
-        { "label": "Thin", "value": "NotoSansKannadaExtraCondensedThin", "file": "NotoSansKannada_ExtraCondensed-Thin.ttf" },
-        { "label": "Extra Light", "value": "NotoSansKannadaExtraCondensedExtraLight", "file": "NotoSansKannada_ExtraCondensed-ExtraLight.ttf" },
-        { "label": "Light", "value": "NotoSansKannadaExtraCondensedLight", "file": "NotoSansKannada_ExtraCondensed-Light.ttf" },
-        { "label": "Regular", "value": "NotoSansKannadaExtraCondensedRegular", "file": "NotoSansKannada_ExtraCondensed-Regular.ttf" },
-        { "label": "Medium", "value": "NotoSansKannadaExtraCondensedMedium", "file": "NotoSansKannada_ExtraCondensed-Medium.ttf" },
-        { "label": "Semi Bold", "value": "NotoSansKannadaExtraCondensedSemiBold", "file": "NotoSansKannada_ExtraCondensed-SemiBold.ttf" },
-        { "label": "Bold", "value": "NotoSansKannadaExtraCondensedBold", "file": "NotoSansKannada_ExtraCondensed-Bold.ttf" },
-        { "label": "Extra Bold", "value": "NotoSansKannadaExtraCondensedExtraBold", "file": "NotoSansKannada_ExtraCondensed-ExtraBold.ttf" },
-        { "label": "Black", "value": "NotoSansKannadaExtraCondensedBlack", "file": "NotoSansKannada_ExtraCondensed-Black.ttf" },
-        { "label": "Thin", "value": "NotoSansKannadaSemiCondensedThin", "file": "NotoSansKannada_SemiCondensed-Thin.ttf" },
-        { "label": "Extra Light", "value": "NotoSansKannadaSemiCondensedExtraLight", "file": "NotoSansKannada_SemiCondensed-ExtraLight.ttf" },
-        { "label": "Light", "value": "NotoSansKannadaSemiCondensedLight", "file": "NotoSansKannada_SemiCondensed-Light.ttf" },
-        { "label": "Regular", "value": "NotoSansKannadaSemiCondensedRegular", "file": "NotoSansKannada_SemiCondensed-Regular.ttf" },
-        { "label": "Medium", "value": "NotoSansKannadaSemiCondensedMedium", "file": "NotoSansKannada_SemiCondensed-Medium.ttf" },
-        { "label": "Semi Bold", "value": "NotoSansKannadaSemiCondensedSemiBold", "file": "NotoSansKannada_SemiCondensed-SemiBold.ttf" },
-        { "label": "Bold", "value": "NotoSansKannadaSemiCondensedBold", "file": "NotoSansKannada_SemiCondensed-Bold.ttf" },
-        { "label": "Extra Bold", "value": "NotoSansKannadaSemiCondensedExtraBold", "file": "NotoSansKannada_SemiCondensed-ExtraBold.ttf" },
-        { "label": "Black", "value": "NotoSansKannadaSemiCondensedBlack", "file": "NotoSansKannada_SemiCondensed-Black.ttf" },
-        { "label": "Thin", "value": "NotoSerifKannadaThin", "file": "NotoSerifKannada-Thin.ttf" },  
-        { "label": "Extra Light", "value": "NotoSerifKannadaExtraLight", "file": "NotoSerifKannada-ExtraLight.ttf" },
-        { "label": "Light", "value": "NotoSerifKannadaLight", "file": "NotoSerifKannada-Light.ttf" },  
-        { "label": "Regular", "value": "NotoSerifKannadaRegular", "file": "NotoSerifKannada-Regular.ttf" },
-        { "label": "Medium", "value": "NotoSerifKannadaMedium", "file": "NotoSerifKannada-Medium.ttf" },
-        { "label": "Semi Bold", "value": "NotoSerifKannadaSemiBold", "file": "NotoSerifKannada-SemiBold.ttf" },
-        { "label": "Bold", "value": "NotoSerifKannadaBold", "file": "NotoSerifKannada-Bold.ttf" },
-        { "label": "Extra Bold", "value": "NotoSerifKannadaExtraBold", "file": "NotoSerifKannada-ExtraBold.ttf" },
-        { "label": "Black", "value": "NotoSerifKannadaBlack", "file": "NotoSerifKannada-Black.ttf" },
         { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
         { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" },
         { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" }
@@ -178,6 +133,82 @@
         { "label": "OpenSans", "value": "OpenSans", "file": "OpenSans.ttf" },
         { "label": "PlayfairDisplay", "value": "PlayfairDisplay", "file": "PlayfairDisplay.ttf" }
       ]
+      },
+  {
+    "id": "noto_sans_kannada",
+    "name": "Noto Sans Kannada SERIES",
+    "fonts": [
+      { "label": "Black", "value": "NotoSansKannadaBlack", "file": "NotoSansKannada-Black.ttf" },
+      { "label": "Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada-Bold.ttf" },
+      { "label": "Extra Bold", "value": "NotoSansKannadaExtraBold", "file": "NotoSansKannada-ExtraBold.ttf" },
+      { "label": "Extra Light", "value": "NotoSansKannadaExtraLight", "file": "NotoSansKannada-ExtraLight.ttf" },
+      { "label": "Light", "value": "NotoSansKannadaLight", "file": "NotoSansKannada-Light.ttf" },
+      { "label": "Medium", "value": "NotoSansKannadaMedium", "file": "NotoSansKannada-Medium.ttf" },
+      { "label": "Regular", "value": "NotoSansKannadaRegular", "file": "NotoSansKannada-Regular.ttf" },
+      { "label": "Semi Bold", "value": "NotoSansKannadaSemiBold", "file": "NotoSansKannada-SemiBold.ttf" },
+      { "label": "Thin", "value": "NotoSansKannadaThin", "file": "NotoSansKannada-Thin.ttf" }
+    ]
+  },
+  {
+    "id": "noto_sans_kannada_condensed",
+    "name": "Noto Sans Kannada Condensed SERIES",
+    "fonts": [
+      { "label": "Black", "value": "NotoSansKannadaCondensedBlack", "file": "NotoSansKannada_Condensed-Black.ttf" },
+      { "label": "Bold", "value": "NotoSansKannadaCondensedBold", "file": "NotoSansKannada_Condensed-Bold.ttf" },
+      { "label": "Extra Bold", "value": "NotoSansKannadaCondensedExtraBold", "file": "NotoSansKannada_Condensed-ExtraBold.ttf" },
+      { "label": "Extra Light", "value": "NotoSansKannadaCondensedExtraLight", "file": "NotoSansKannada_Condensed-ExtraLight.ttf" },
+      { "label": "Light", "value": "NotoSansKannadaCondensedLight", "file": "NotoSansKannada_Condensed-Light.ttf" },
+      { "label": "Medium", "value": "NotoSansKannadaCondensedMedium", "file": "NotoSansKannada_Condensed-Medium.ttf" },
+      { "label": "Regular", "value": "NotoSansKannadaCondensedRegular", "file": "NotoSansKannada_Condensed-Regular.ttf" },
+      { "label": "Semi Bold", "value": "NotoSansKannadaCondensedSemiBold", "file": "NotoSansKannada_Condensed-SemiBold.ttf" },
+      { "label": "Thin", "value": "NotoSansKannadaCondensedThin", "file": "NotoSansKannada_Condensed-Thin.ttf" }
+    ]
+  },
+  {
+    "id": "noto_sans_kannada_extra_condensed",
+    "name": "Noto Sans Kannada ExtraCondensed SERIES",
+    "fonts": [
+      { "label": "Black", "value": "NotoSansKannadaExtraCondensedBlack", "file": "NotoSansKannada_ExtraCondensed-Black.ttf" },
+      { "label": "Bold", "value": "NotoSansKannadaExtraCondensedBold", "file": "NotoSansKannada_ExtraCondensed-Bold.ttf" },
+      { "label": "Extra Bold", "value": "NotoSansKannadaExtraCondensedExtraBold", "file": "NotoSansKannada_ExtraCondensed-ExtraBold.ttf" },
+      { "label": "Extra Light", "value": "NotoSansKannadaExtraCondensedExtraLight", "file": "NotoSansKannada_ExtraCondensed-ExtraLight.ttf" },
+      { "label": "Light", "value": "NotoSansKannadaExtraCondensedLight", "file": "NotoSansKannada_ExtraCondensed-Light.ttf" },
+      { "label": "Medium", "value": "NotoSansKannadaExtraCondensedMedium", "file": "NotoSansKannada_ExtraCondensed-Medium.ttf" },
+      { "label": "Regular", "value": "NotoSansKannadaExtraCondensedRegular", "file": "NotoSansKannada_ExtraCondensed-Regular.ttf" },
+      { "label": "Semi Bold", "value": "NotoSansKannadaExtraCondensedSemiBold", "file": "NotoSansKannada_ExtraCondensed-SemiBold.ttf" },
+      { "label": "Thin", "value": "NotoSansKannadaExtraCondensedThin", "file": "NotoSansKannada_ExtraCondensed-Thin.ttf" }
+    ]
+  },
+  {
+    "id": "noto_sans_kannada_semi_condensed",
+    "name": "Noto Sans Kannada SemiCondensed SERIES",
+    "fonts": [
+      { "label": "Black", "value": "NotoSansKannadaSemiCondensedBlack", "file": "NotoSansKannada_SemiCondensed-Black.ttf" },
+      { "label": "Bold", "value": "NotoSansKannadaSemiCondensedBold", "file": "NotoSansKannada_SemiCondensed-Bold.ttf" },
+      { "label": "Extra Bold", "value": "NotoSansKannadaSemiCondensedExtraBold", "file": "NotoSansKannada_SemiCondensed-ExtraBold.ttf" },
+      { "label": "Extra Light", "value": "NotoSansKannadaSemiCondensedExtraLight", "file": "NotoSansKannada_SemiCondensed-ExtraLight.ttf" },
+      { "label": "Light", "value": "NotoSansKannadaSemiCondensedLight", "file": "NotoSansKannada_SemiCondensed-Light.ttf" },
+      { "label": "Medium", "value": "NotoSansKannadaSemiCondensedMedium", "file": "NotoSansKannada_SemiCondensed-Medium.ttf" },
+      { "label": "Regular", "value": "NotoSansKannadaSemiCondensedRegular", "file": "NotoSansKannada_SemiCondensed-Regular.ttf" },
+      { "label": "Semi Bold", "value": "NotoSansKannadaSemiCondensedSemiBold", "file": "NotoSansKannada_SemiCondensed-SemiBold.ttf" },
+      { "label": "Thin", "value": "NotoSansKannadaSemiCondensedThin", "file": "NotoSansKannada_SemiCondensed-Thin.ttf" }
+    ]
+  },
+  {
+    "id": "noto_serif_kannada",
+    "name": "Noto Serif Kannada SERIES",
+    "fonts": [
+      { "label": "Black", "value": "NotoSerifKannadaBlack", "file": "NotoSerifKannada-Black.ttf" },
+      { "label": "Bold", "value": "NotoSerifKannadaBold", "file": "NotoSerifKannada-Bold.ttf" },
+      { "label": "Extra Bold", "value": "NotoSerifKannadaExtraBold", "file": "NotoSerifKannada-ExtraBold.ttf" },
+      { "label": "Extra Light", "value": "NotoSerifKannadaExtraLight", "file": "NotoSerifKannada-ExtraLight.ttf" },
+      { "label": "Light", "value": "NotoSerifKannadaLight", "file": "NotoSerifKannada-Light.ttf" },
+      { "label": "Medium", "value": "NotoSerifKannadaMedium", "file": "NotoSerifKannada-Medium.ttf" },
+      { "label": "Regular", "value": "NotoSerifKannadaRegular", "file": "NotoSerifKannada-Regular.ttf" },
+      { "label": "Semi Bold", "value": "NotoSerifKannadaSemiBold", "file": "NotoSerifKannada-SemiBold.ttf" },
+      { "label": "Thin", "value": "NotoSerifKannadaThin", "file": "NotoSerifKannada-Thin.ttf" }
+    ]
+  }
     },
     {
       "id": "acchu_kannada",
