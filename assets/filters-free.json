@@ -245,5 +245,187 @@
       0.3, 0.72, 0.14, 0, 0.02,
       0, 0, 0, 1, 0
     ]
+  },
+  {
+    "id": "cam_brownie",
+    "label": "Brownie 1900",
+    "category": "ವಿಂಟೇಜ್",
+    "previewColor": "#8C6A4B",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.60, 0.30, 0.10, 0, 0.10,
+      0.40, 0.50, 0.10, 0, 0.05,
+      0.20, 0.30, 0.40, 0, 0.00,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_leica_m3",
+    "label": "Leica M3",
+    "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
+    "previewColor": "#555555",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.35, 0.50, 0.15, 0, 0.05,
+      0.35, 0.50, 0.15, 0, 0.05,
+      0.35, 0.50, 0.15, 0, 0.05,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_nikon_f",
+    "label": "Nikon F",
+    "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
+    "previewColor": "#A4B09A",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.10, 0.00, 0.00, 0, 0.00,
+      0.00, 1.05, 0.00, 0, 0.00,
+      0.00, 0.00, 1.05, 0, 0.00,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_canon_ae1",
+    "label": "Canon AE-1",
+    "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
+    "previewColor": "#D9A86C",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.10, 0.05, 0.00, 0, 0.05,
+      0.00, 1.00, 0.05, 0, 0.02,
+      0.00, 0.00, 0.90, 0, -0.02,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_pentax_k1000",
+    "label": "K1000",
+    "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
+    "previewColor": "#8F9D87",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.95, 0.00, 0.00, 0, 0.00,
+      0.00, 1.00, 0.00, 0, 0.00,
+      0.00, 0.00, 0.95, 0, 0.00,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_olympus_om1",
+    "label": "Olympus OM-1",
+    "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
+    "previewColor": "#6E8CA0",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.95, 0.00, 0.00, 0, 0.00,
+      0.00, 1.05, 0.00, 0, 0.00,
+      0.00, 0.00, 1.10, 0, 0.05,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_sx70",
+    "label": "Polaroid SX-70",
+    "category": "ಇನ್ಸ್ಟಂಟ್",
+    "previewColor": "#E2C792",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.10, 0.00, 0.00, 0, 0.08,
+      0.00, 0.90, 0.00, 0, 0.05,
+      0.00, 0.00, 0.80, 0, 0.10,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_contax_t2",
+    "label": "Contax T2",
+    "category": "ಪಾಯಿಂಟ್ & ಶೂಟ್",
+    "previewColor": "#D94255",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.15, 0.00, 0.00, 0, 0.02,
+      0.00, 1.10, 0.00, 0, 0.02,
+      0.00, 0.00, 1.15, 0, 0.02,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_kodak_kb10",
+    "label": "Kodak KB10",
+    "category": "ಪಾಯಿಂಟ್ & ಶೂಟ್",
+    "previewColor": "#E5D07B",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.00, 0.00, 0.10, 0, 0.05,
+      0.00, 0.95, 0.00, 0, 0.02,
+      0.00, 0.00, 0.85, 0, -0.02,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_kodak_hawkeye",
+    "label": "Hawkeye",
+    "category": "ವಿಂಟೇಜ್",
+    "previewColor": "#999999",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.50, 0.40, 0.10, 0, 0.05,
+      0.50, 0.40, 0.10, 0, 0.05,
+      0.50, 0.40, 0.10, 0, 0.05,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_nikon_f100",
+    "label": "Nikon F100",
+    "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
+    "previewColor": "#2A6EBB",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.15, -0.05, 0.00, 0, 0.00,
+      -0.05, 1.15, 0.00, 0, 0.00,
+      0.00, -0.05, 1.15, 0, 0.00,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_stereo_realist",
+    "label": "Realist 3D",
+    "category": "ವಿಶೇಷ",
+    "previewColor": "#C95A49",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.20, 0.10, 0.00, 0, 0.05,
+      0.00, 1.10, 0.00, 0, 0.00,
+      0.00, 0.00, 0.90, 0, -0.05,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_ricohmatic_44",
+    "label": "Ricohmatic 44",
+    "category": "ವಿಂಟೇಜ್",
+    "previewColor": "#B2C2AD",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.90, 0.05, 0.00, 0, 0.08,
+      0.00, 0.90, 0.05, 0, 0.08,
+      0.00, 0.00, 0.90, 0, 0.08,
+      0, 0, 0, 1, 0
+    ]
+  },
+  {
+    "id": "cam_nikonos_v",
+    "label": "Nikonos V",
+    "category": "ವಿಶೇಷ",
+    "previewColor": "#228B8B",
+    "defaultStrength": 1.0,
+    "matrix": [
+      0.80, 0.00, 0.00, 0, -0.05,
+      0.00, 1.10, 0.10, 0, 0.05,
+      0.00, 0.10, 1.25, 0, 0.10,
+      0, 0, 0, 1, 0
+    ]
   }
 ]
