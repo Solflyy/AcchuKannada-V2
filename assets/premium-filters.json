@@ -37,7 +37,7 @@
   },
   {
     "id": "teal_orange",
-    "label": "Teal & Orange",
+    "label": "ಕೇಸರಿ ಕಿರಣ",
     "category": "Cinematic",
     "previewColor": "#40E0D0",
     "defaultStrength": 0.9,
@@ -109,7 +109,7 @@
   },
   {
     "id": "acchu_prakriti",
-    "label": "Prakriti",
+    "label": "ಪ್ರಕೃತಿ",
     "category": "Acchu Kannada",
     "previewColor": "#8B5A2B",
     "defaultStrength": 1.0,
@@ -118,7 +118,7 @@
   },
   {
     "id": "acchu_chalanachitra",
-    "label": "Chalanachitra",
+    "label": "ಚಲನಚಿತ್ರ",
     "category": "Acchu Kannada",
     "previewColor": "#F4A460",
     "defaultStrength": 1.0,
@@ -127,7 +127,7 @@
   },
   {
     "id": "acchu_sagara",
-    "label": "Sagara Sahasa",
+    "label": "ಸಾಗರ ಸಾಹಸ",
     "category": "Acchu Kannada",
     "previewColor": "#008B8B",
     "defaultStrength": 1.0,
@@ -136,7 +136,7 @@
   },
   {
     "id": "acchu_shakti",
-    "label": "Shakti",
+    "label": "ಶಕ್ತಿ",
     "category": "Acchu Kannada",
     "previewColor": "#FF4500",
     "defaultStrength": 1.0,
@@ -145,7 +145,7 @@
   },
   {
     "id": "acchu_ekatva",
-    "label": "Ekatva",
+    "label": "ಏಕತ್ವ",
     "category": "Acchu Kannada",
     "previewColor": "#778899",
     "defaultStrength": 1.0,
@@ -154,7 +154,7 @@
   },
   {
     "id": "acchu_neon_raatri",
-    "label": "Neon Raatri",
+    "label": "ನಿಯಾನ್ ರಾತ್ರಿ",
     "category": "Acchu Kannada",
     "previewColor": "#FF3300",
     "defaultStrength": 1.0,
@@ -163,7 +163,7 @@
   },
   {
     "id": "acchu_suvarna_belaku",
-    "label": "Suvarna Belaku",
+    "label": "ಸುವರ್ಣ ಬೆಳಕು",
     "category": "Acchu Kannada",
     "previewColor": "#FFA500",
     "defaultStrength": 1.0,
@@ -172,7 +172,7 @@
   },
   {
     "id": "acchu_chitra_kanasu",
-    "label": "Chitra Kanasu",
+    "label": "ಚಿತ್ರ ಕನಸು",
     "category": "Acchu Kannada",
     "previewColor": "#008080",
     "defaultStrength": 0.9,
@@ -181,7 +181,7 @@
   },
   {
     "id": "acchu_nishabda_neeli",
-    "label": "Nishabda Neeli",
+    "label": "ನಿಶಬ್ದ ನೀಲಿ",
     "category": "Acchu Kannada",
     "previewColor": "#1A2B4C",
     "defaultStrength": 1.0,
@@ -190,7 +190,7 @@
   },
   {
     "id": "acchu_hasiru_chaye",
-    "label": "Hasiru Chaye",
+    "label": "ಹಸಿರು ಛಾಯೆ",
     "category": "Acchu Kannada",
     "previewColor": "#2E8B57",
     "defaultStrength": 0.85,
