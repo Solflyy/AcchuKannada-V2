@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "acchu_kannada_brand",
+      "label": "ಅಚ್ಚು ಕನ್ನಡ ಬಣ್ಣಗಳು (Acchu Kannada)",
+      "colors": ["#E5E6EB", "#DDC616", "#9D0D0D", "#18191B", "#010101"]
+    },
+    {
+      "id": "basic",
+      "label": "ಮೂಲ ಬಣ್ಣಗಳು (Basic)",
+      "colors": ["#FFFFFF", "#E9CD2D", "#F48D2A", "#E52326", "#12A549", "#3F96D5", "#000000"]
+    },
+    {
+      "id": "aesthetic_earth",
+      "label": "ಮಣ್ಣಿನ ಸೊಬಗು (Earth Tones)",
+      "colors": ["#D4A373", "#BC8A5F", "#8B5E3C", "#6F4E37", "#4B3621"]
+    },
+    {
+      "id": "cinematic_life",
+      "label": "ಸಿನೆಮ್ಯಾಟಿಕ್ ಲೈಫ್ (Cinematic Life)",
+      "colors": ["#E3E0D5", "#E29D43", "#9CA57B", "#99B9C3", "#8E7D73", "#376E8B", "#D34F3F"]
+    },
+    {
+      "id": "forest_green",
+      "label": "ಕಾಡಿನ ಸೌಂದರ್ಯ (Forest)",
+      "colors": ["#A8D5BA", "#7FB09B", "#5A9367", "#3F6844", "#2E4634"]
+    },
+    {
+      "id": "london_fashion",
+      "label": "ಫ್ಯಾಷನ್ (Fashion)",
+      "colors": ["#F1F2F2", "#CCC9D2", "#9B8047", "#E03C3E", "#006E6D", "#4D3039", "#3F465F"]
+    },
+    {
+      "id": "ocean_blue",
+      "label": "ಸಾಗರದ ನೀಲಿ (Ocean)",
+      "colors": ["#AFEEEE", "#87CEEB", "#4169E1", "#0047AB", "#4B0082", "#000080", "#191970"]
+    },
+    {
+      "id": "royal_sophistication",
+      "label": "ರಾಜ ವೈಭವ (Royal)",
+      "colors": ["#DDBE9E", "#A7BDD3", "#7A573F", "#93262E", "#6C2C2D", "#5D353B", "#123C52"]
+    },
+    {
+      "id": "trend_guide_25_26",
+      "label": "ಟ್ರೆಂಡ್ ಗೈಡ್ 26 (Trend Guide)",
+      "colors": ["#FAFAD2", "#DA8A67", "#FF7518", "#FF2400", "#8DB600", "#0F52BA", "#202020"]
+    }
+  ]
+}

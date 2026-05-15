@@ -1,0 +1,209 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/copilot/create-asset-directory/assets/fonts/",
+  "categories": [
+    {
+      "id": "newly_added",
+      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು",
+      "fonts": [
+        { "label": "Tiro Kannada Italic", "value": "TiroKannadaItalic", "file": "TiroKannada-Italic.ttf" },
+        { "label": "Tiro Kannada Regular", "value": "TiroKannadaRegular", "file": "TiroKannada-Regular.ttf" },
+        { "label": "ಕನ್ನಡ ಕೈ ಬರಹ", "value": "ಕನ್ನಡ ಕೈ ಬರಹ", "file": "DesignigaHandwritting-Regular.ttf" },
+        { "label": "Benne Regular", "value": "BenneRegular", "file": "Benne-Regular.ttf" },
+        { "label": "Nishchaya", "value": "Nishchaya", "file": "Nishchaya.ttf" },
+        { "label": "Kannada Pixel", "value": "KannadaPixel", "file": "KannadaPixel.ttf" },
+        { "label": "Kanishka", "value": "Kanishka", "file": "Kanishka.ttf" },
+        { "label": "Bandipur One", "value": "BandipurOne", "file": "BandipurOne.ttf" },
+        { "label": "Ambarisha 2", "value": "Ambarisha2", "file": "Ambarisha2.ttf" }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "ವಿನ್ಯಾಸ",
+      "fonts": [
+        { "label": "Akaya", "value": "Akaya", "file": "AkayaKanadaka-Regular.ttf" },
+        { "label": "Bandipura", "value": "ATSBandipura", "file": "ATSBandipura-Bold.ttf" },
+        { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "file": "ATSChikkamagaluru-Regular.ttf" },
+        { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
+        { "label": "Hubballi", "value": "Hubballi", "file": "Hubballi-Regular.ttf" },
+        { "label": "Lohit", "value": "Lohit", "file": "Lohit_Kannada.ttf" },
+        { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
+        { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
+        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" },
+        { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" }
+      ]
+    },
+    {
+      "id": "modern",
+      "name": "ಆಧುನಿಕ",
+      "fonts": [
+        { "label": "Anek Thin", "value": "Anek-Thin", "file": "AnekKannada-Thin.ttf" },
+        { "label": "Anek ExtraLight", "value": "Anek-ExtraLight", "file": "AnekKannada-ExtraLight.ttf" },
+        { "label": "Anek Light", "value": "Anek-Light", "file": "AnekKannada-Light.ttf" },
+        { "label": "Anek Regular", "value": "Anek-Regular", "file": "AnekKannada-Regular.ttf" },
+        { "label": "Anek Medium", "value": "Anek-Medium", "file": "AnekKannada-Medium.ttf" },
+        { "label": "Anek SemiBold", "value": "Anek-SemiBold", "file": "AnekKannada-SemiBold.ttf" },
+        { "label": "Anek Bold", "value": "Anek-Bold", "file": "AnekKannada-Bold.ttf" },
+        { "label": "Anek ExtraBold", "value": "Anek-ExtraBold", "file": "AnekKannada-ExtraBold.ttf" },
+        { "label": "Anek Expanded Thin", "value": "AnekExpanded-Thin", "file": "AnekKannada_Expanded-Thin.ttf" },
+        { "label": "Anek Expanded ExtraLight", "value": "AnekExpanded-ExtraLight", "file": "AnekKannada_Expanded-ExtraLight.ttf" },
+        { "label": "Anek Expanded Light", "value": "AnekExpanded-Light", "file": "AnekKannada_Expanded-Light.ttf" },
+        { "label": "Anek Expanded Regular", "value": "AnekExpanded-Regular", "file": "AnekKannada_Expanded-Regular.ttf" },
+        { "label": "Anek Expanded Medium", "value": "AnekExpanded-Medium", "file": "AnekKannada_Expanded-Medium.ttf" },
+        { "label": "Anek Expanded SemiBold", "value": "AnekExpanded-SemiBold", "file": "AnekKannada_Expanded-SemiBold.ttf" },
+        { "label": "Anek Expanded Bold", "value": "AnekExpanded-Bold", "file": "AnekKannada_Expanded-Bold.ttf" },
+        { "label": "Anek Expanded ExtraBold", "value": "AnekExpanded-ExtraBold", "file": "AnekKannada_Expanded-ExtraBold.ttf" },
+        { "label": "Anek SemiExpanded Thin", "value": "AnekSemiExpanded-Thin", "file": "AnekKannada_SemiExpanded-Thin.ttf" },
+        { "label": "Anek SemiExpanded ExtraLight", "value": "AnekSemiExpanded-ExtraLight", "file": "AnekKannada_SemiExpanded-ExtraLight.ttf" },
+        { "label": "Anek SemiExpanded Light", "value": "AnekSemiExpanded-Light", "file": "AnekKannada_SemiExpanded-Light.ttf" },
+        { "label": "Anek SemiExpanded Regular", "value": "AnekSemiExpanded-Regular", "file": "AnekKannada_SemiExpanded-Regular.ttf" },
+        { "label": "Anek SemiExpanded Medium", "value": "AnekSemiExpanded-Medium", "file": "AnekKannada_SemiExpanded-Medium.ttf" },
+        { "label": "Anek SemiExpanded SemiBold", "value": "AnekSemiExpanded-SemiBold", "file": "AnekKannada_SemiExpanded-SemiBold.ttf" },
+        { "label": "Anek SemiExpanded Bold", "value": "AnekSemiExpanded-Bold", "file": "AnekKannada_SemiExpanded-Bold.ttf" },
+        { "label": "Anek SemiExpanded ExtraBold", "value": "AnekSemiExpanded-ExtraBold", "file": "AnekKannada_SemiExpanded-ExtraBold.ttf" },
+        { "label": "Anek Condensed Thin", "value": "AnekCondensed-Thin", "file": "AnekKannada_Condensed-Thin.ttf" },
+        { "label": "Anek Condensed ExtraLight", "value": "AnekCondensed-ExtraLight", "file": "AnekKannada_Condensed-ExtraLight.ttf" },
+        { "label": "Anek Condensed Light", "value": "AnekCondensed-Light", "file": "AnekKannada_Condensed-Light.ttf" },
+        { "label": "Anek Condensed Regular", "value": "AnekCondensed-Regular", "file": "AnekKannada_Condensed-Regular.ttf" },
+        { "label": "Anek Condensed Medium", "value": "AnekCondensed-Medium", "file": "AnekKannada_Condensed-Medium.ttf" },
+        { "label": "Anek Condensed SemiBold", "value": "AnekCondensed-SemiBold", "file": "AnekKannada_Condensed-SemiBold.ttf" },
+        { "label": "Anek Condensed Bold", "value": "AnekCondensed-Bold", "file": "AnekKannada_Condensed-Bold.ttf" },
+        { "label": "Anek Condensed ExtraBold", "value": "AnekCondensed-ExtraBold", "file": "AnekKannada_Condensed-ExtraBold.ttf" },
+        { "label": "Anek SemiCondensed Thin", "value": "AnekSemiCondensed-Thin", "file": "AnekKannada_SemiCondensed-Thin.ttf" },
+        { "label": "Anek SemiCondensed ExtraLight", "value": "AnekSemiCondensed-ExtraLight", "file": "AnekKannada_SemiCondensed-ExtraLight.ttf" },
+        { "label": "Anek SemiCondensed Light", "value": "AnekSemiCondensed-Light", "file": "AnekKannada_SemiCondensed-Light.ttf" },
+        { "label": "Anek SemiCondensed Regular", "value": "AnekSemiCondensed-Regular", "file": "AnekKannada_SemiCondensed-Regular.ttf" },
+        { "label": "Anek SemiCondensed Medium", "value": "AnekSemiCondensed-Medium", "file": "AnekKannada_SemiCondensed-Medium.ttf" },
+        { "label": "Anek SemiCondensed SemiBold", "value": "AnekSemiCondensed-SemiBold", "file": "AnekKannada_SemiCondensed-SemiBold.ttf" },
+        { "label": "Anek SemiCondensed Bold", "value": "AnekSemiCondensed-Bold", "file": "AnekKannada_SemiCondensed-Bold.ttf" },
+        { "label": "Anek SemiCondensed ExtraBold", "value": "AnekSemiCondensed-ExtraBold", "file": "AnekKannada_SemiCondensed-ExtraBold.ttf" }
+      ]
+    },
+    {
+      "id": "kavi",
+      "name": "ಕವಿ",
+      "fonts": [
+        { "label": "Kuvempu", "value": "Kuvempu", "file": "Kar-Kuvempu.ttf" },
+        { "label": "Bendre", "value": "Bendre", "file": "Kar-Da-Raa-Bendre.ttf" },
+        { "label": "Karantha", "value": "Karantha", "file": "Kar-Shivarama-Karantha.ttf" },
+        { "label": "Adiga", "value": "Adiga", "file": "Kar-Gopalakrishna-Adiga.ttf" },
+        { "label": "Karnad", "value": "Karnad", "file": "Kar-Girish-Karnad.ttf" },
+        { "label": "Maasthi", "value": "Maasthi", "file": "Kar-Maasthi.ttf" },
+        { "label": "Narasimha", "value": "Narasimha", "file": "Kar-KS-Narasimhaswamy.ttf" },
+        { "label": "Puthina", "value": "Puthina", "file": "Kar-Puthina.ttf" },
+        { "label": "Puchamthe", "value": "Puchamthe", "file": "Kar-Puchamthe.ttf" }
+      ]
+    },
+    {
+      "id": "bengaluru",
+      "name": "ಬೆಂಗಳೂರು SERIES",
+      "fonts": [
+        { "label": "Smooth", "value": "ATSSmooth", "file": "ATSBengaluru-SmoothRegular.ttf" },
+        { "label": "Dot", "value": "ATSDot", "file": "ATSBengaluru-DotRegular.ttf" },
+        { "label": "Dot Bold", "value": "ATSDotBold", "file": "ATSBengaluru-DotBold.ttf" },
+        { "label": "LED", "value": "ATSLED", "file": "ATSBengaluru-LEDRegular.ttf" },
+        { "label": "LED Bold", "value": "ATSLEDBold", "file": "ATSBengaluru-LEDBold.ttf" },
+        { "label": "Pixel", "value": "ATSPixel", "file": "ATSBengaluru-PixelRegular.ttf" },
+        { "label": "Pixel Bold", "value": "ATSPixelBold", "file": "ATSBengaluru-PixelBold.ttf" },
+        { "label": "Square", "value": "ATSSquare", "file": "ATSBengaluru-SquareRegular.ttf" },
+        { "label": "Square Bold", "value": "ATSSquareBold", "file": "ATSBengaluru-SquareBold.ttf" }
+      ]
+    },
+    {
+      "id": "English",
+      "name": "ಆಂಗ್ಲ",
+      "fonts": [
+        { "label": "Barlow", "value": "Barlow", "file": "Barlow.ttf" },
+        { "label": "InknutAntiqua", "value": "InknutAntiqua", "file": "InknutAntiqua.ttf" },
+        { "label": "Mynerve", "value": "Mynerve", "file": "Mynerve.ttf" },
+        { "label": "Neuton", "value": "Neuton", "file": "Neuton.ttf" },
+        { "label": "SendFlowers", "value": "SendFlowers", "file": "SendFlowers.ttf" },
+        { "label": "Geom", "value": "Geom", "file": "Geom.ttf" },
+        { "label": "Marcellus", "value": "Marcellus", "file": "Marcellus.ttf" },
+        { "label": "GeistMono", "value": "GeistMono", "file": "GeistMono.ttf" },
+        { "label": "ZalandoSans", "value": "ZalandoSans", "file": "ZalandoSans.ttf" },
+        { "label": "Newsreader", "value": "Newsreader", "file": "Newsreader.ttf" },
+        { "label": "Outfit", "value": "Outfit", "file": "Outfit.ttf" },
+        { "label": "BricolageGrotesque", "value": "BricolageGrotesque", "file": "BricolageGrotesque.ttf" },
+        { "label": "InstrumentSerif", "value": "InstrumentSerif", "file": "InstrumentSerif.ttf" },
+        { "label": "Figtree", "value": "Figtree", "file": "Figtree.ttf" },
+        { "label": "GoogleSans", "value": "GoogleSans", "file": "GoogleSans.ttf" },
+        { "label": "DMSans", "value": "DMSans", "file": "DMSans.ttf" },
+        { "label": "Lato", "value": "Lato", "file": "Lato.ttf" },
+        { "label": "LibreBaskerville", "value": "LibreBaskerville", "file": "LibreBaskerville.ttf" },
+        { "label": "OpenSans", "value": "OpenSans", "file": "OpenSans.ttf" },
+        { "label": "PlayfairDisplay", "value": "PlayfairDisplay", "file": "PlayfairDisplay.ttf" }
+      ]
+    },
+    {
+      "id": "noto_all",
+      "name": "ನೋಟೋ",
+      "fonts": [
+        { "label": "Noto Sans Thin", "value": "NotoSansKannadaThin", "file": "NotoSansKannada-Thin.ttf" },
+        { "label": "Noto Sans Extra Light", "value": "NotoSansKannadaExtraLight", "file": "NotoSansKannada-ExtraLight.ttf" },
+        { "label": "Noto Sans Light", "value": "NotoSansKannadaLight", "file": "NotoSansKannada-Light.ttf" },
+        { "label": "Noto Sans Regular", "value": "NotoSansKannadaRegular", "file": "NotoSansKannada-Regular.ttf" },
+        { "label": "Noto Sans Medium", "value": "NotoSansKannadaMedium", "file": "NotoSansKannada-Medium.ttf" },
+        { "label": "Noto Sans Semi Bold", "value": "NotoSansKannadaSemiBold", "file": "NotoSansKannada-SemiBold.ttf" },
+        { "label": "Noto Sans Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada-Bold.ttf" },
+        { "label": "Noto Sans Extra Bold", "value": "NotoSansKannadaExtraBold", "file": "NotoSansKannada-ExtraBold.ttf" },
+        { "label": "Noto Sans Black", "value": "NotoSansKannadaBlack", "file": "NotoSansKannada-Black.ttf" },
+        
+        { "label": "Noto Sans Condensed Thin", "value": "NotoSansKannadaCondensedThin", "file": "NotoSansKannada_Condensed-Thin.ttf" },
+        { "label": "Noto Sans Condensed Extra Light", "value": "NotoSansKannadaCondensedExtraLight", "file": "NotoSansKannada_Condensed-ExtraLight.ttf" },
+        { "label": "Noto Sans Condensed Light", "value": "NotoSansKannadaCondensedLight", "file": "NotoSansKannada_Condensed-Light.ttf" },
+        { "label": "Noto Sans Condensed Regular", "value": "NotoSansKannadaCondensedRegular", "file": "NotoSansKannada_Condensed-Regular.ttf" },
+        { "label": "Noto Sans Condensed Medium", "value": "NotoSansKannadaCondensedMedium", "file": "NotoSansKannada_Condensed-Medium.ttf" },
+        { "label": "Noto Sans Condensed Semi Bold", "value": "NotoSansKannadaCondensedSemiBold", "file": "NotoSansKannada_Condensed-SemiBold.ttf" },
+        { "label": "Noto Sans Condensed Bold", "value": "NotoSansKannadaCondensedBold", "file": "NotoSansKannada_Condensed-Bold.ttf" },
+        { "label": "Noto Sans Condensed Extra Bold", "value": "NotoSansKannadaCondensedExtraBold", "file": "NotoSansKannada_Condensed-ExtraBold.ttf" },
+        { "label": "Noto Sans Condensed Black", "value": "NotoSansKannadaCondensedBlack", "file": "NotoSansKannada_Condensed-Black.ttf" },
+        
+        { "label": "Noto Sans Extra Condensed Thin", "value": "NotoSansKannadaExtraCondensedThin", "file": "NotoSansKannada_ExtraCondensed-Thin.ttf" },
+        { "label": "Noto Sans Extra Condensed Extra Light", "value": "NotoSansKannadaExtraCondensedExtraLight", "file": "NotoSansKannada_ExtraCondensed-ExtraLight.ttf" },
+        { "label": "Noto Sans Extra Condensed Light", "value": "NotoSansKannadaExtraCondensedLight", "file": "NotoSansKannada_ExtraCondensed-Light.ttf" },
+        { "label": "Noto Sans Extra Condensed Regular", "value": "NotoSansKannadaExtraCondensedRegular", "file": "NotoSansKannada_ExtraCondensed-Regular.ttf" },
+        { "label": "Noto Sans Extra Condensed Medium", "value": "NotoSansKannadaExtraCondensedMedium", "file": "NotoSansKannada_ExtraCondensed-Medium.ttf" },
+        { "label": "Noto Sans Extra Condensed Semi Bold", "value": "NotoSansKannadaExtraCondensedSemiBold", "file": "NotoSansKannada_ExtraCondensed-SemiBold.ttf" },
+        { "label": "Noto Sans Extra Condensed Bold", "value": "NotoSansKannadaExtraCondensedBold", "file": "NotoSansKannada_ExtraCondensed-Bold.ttf" },
+        { "label": "Noto Sans Extra Condensed Extra Bold", "value": "NotoSansKannadaExtraCondensedExtraBold", "file": "NotoSansKannada_ExtraCondensed-ExtraBold.ttf" },
+        { "label": "Noto Sans Extra Condensed Black", "value": "NotoSansKannadaExtraCondensedBlack", "file": "NotoSansKannada_ExtraCondensed-Black.ttf" },
+        
+        { "label": "Noto Sans Semi Condensed Thin", "value": "NotoSansKannadaSemiCondensedThin", "file": "NotoSansKannada_SemiCondensed-Thin.ttf" },
+        { "label": "Noto Sans Semi Condensed Extra Light", "value": "NotoSansKannadaSemiCondensedExtraLight", "file": "NotoSansKannada_SemiCondensed-ExtraLight.ttf" },
+        { "label": "Noto Sans Semi Condensed Light", "value": "NotoSansKannadaSemiCondensedLight", "file": "NotoSansKannada_SemiCondensed-Light.ttf" },
+        { "label": "Noto Sans Semi Condensed Regular", "value": "NotoSansKannadaSemiCondensedRegular", "file": "NotoSansKannada_SemiCondensed-Regular.ttf" },
+        { "label": "Noto Sans Semi Condensed Medium", "value": "NotoSansKannadaSemiCondensedMedium", "file": "NotoSansKannada_SemiCondensed-Medium.ttf" },
+        { "label": "Noto Sans Semi Condensed Semi Bold", "value": "NotoSansKannadaSemiCondensedSemiBold", "file": "NotoSansKannada_SemiCondensed-SemiBold.ttf" },
+        { "label": "Noto Sans Semi Condensed Bold", "value": "NotoSansKannadaSemiCondensedBold", "file": "NotoSansKannada_SemiCondensed-Bold.ttf" },
+        { "label": "Noto Sans Semi Condensed Extra Bold", "value": "NotoSansKannadaSemiCondensedExtraBold", "file": "NotoSansKannada_SemiCondensed-ExtraBold.ttf" },
+        { "label": "Noto Sans Semi Condensed Black", "value": "NotoSansKannadaSemiCondensedBlack", "file": "NotoSansKannada_SemiCondensed-Black.ttf" },
+        
+        { "label": "Noto Serif Thin", "value": "NotoSerifKannadaThin", "file": "NotoSerifKannada-Thin.ttf" },
+        { "label": "Noto Serif Extra Light", "value": "NotoSerifKannadaExtraLight", "file": "NotoSerifKannada-ExtraLight.ttf" },
+        { "label": "Noto Serif Light", "value": "NotoSerifKannadaLight", "file": "NotoSerifKannada-Light.ttf" },
+        { "label": "Noto Serif Regular", "value": "NotoSerifKannadaRegular", "file": "NotoSerifKannada-Regular.ttf" },
+        { "label": "Noto Serif Medium", "value": "NotoSerifKannadaMedium", "file": "NotoSerifKannada-Medium.ttf" },
+        { "label": "Noto Serif Semi Bold", "value": "NotoSerifKannadaSemiBold", "file": "NotoSerifKannada-SemiBold.ttf" },
+        { "label": "Noto Serif Bold", "value": "NotoSerifKannadaBold", "file": "NotoSerifKannada-Bold.ttf" },
+        { "label": "Noto Serif Extra Bold", "value": "NotoSerifKannadaExtraBold", "file": "NotoSerifKannada-ExtraBold.ttf" },
+        { "label": "Noto Serif Black", "value": "NotoSerifKannadaBlack", "file": "NotoSerifKannada-Black.ttf" }
+      ]
+    },
+    {
+      "id": "acchu_kannada",
+      "name": "ಅಚ್ಚು ಕನ್ನಡ",
+      "isPremium": true,
+      "fonts": [
+        { "label": "Acchu Font 1", "value": "Acchu1", "file": "Acchu1.ttf", "isPremium": true },
+        { "label": "Karavali Font 1", "value": "Karavali1", "file": "Karavali1.ttf", "isPremium": true },
+        { "label": "Malenaadu Font 1", "value": "Malenaadu1", "file": "Malenaadu1.ttf", "isPremium": true },
+        { "label": "Samudra Font 1", "value": "Samudra1", "file": "Samudra1.ttf", "isPremium": true },
+        { "label": "Bayaluseeme Font 1", "value": "Bayaluseeme1", "file": "Bayaluseeme1.ttf", "isPremium": true },
+        { "label": "UK Font 1", "value": "UK1", "file": "UK1.ttf", "isPremium": true },
+        { "label": "Baadami Font 1", "value": "Baadami1", "file": "Baadami1.ttf", "isPremium": true },
+        { "label": "Chalukya Font 1", "value": "Chalukya1", "file": "Chalukya1.ttf", "isPremium": true },
+        { "label": "Hampe Font 1", "value": "Hampe1", "file": "Hampe1.ttf", "isPremium": true }
+      ]
+    }
+  ]
+}
