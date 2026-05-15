@@ -14,7 +14,7 @@
   },
   {
     "id": "kg1",
-    "label": "KG1",
+    "label": "ಬೆಸುಗೆ",
     "category": "ವಿಂಟೇಜ್",
     "previewColor": "#D4A832",
     "defaultStrength": 1,
@@ -27,7 +27,7 @@
   },
   {
     "id": "kg2",
-    "label": "KG2",
+    "label": "ಹಳದಿ ಬೆಕ್ಕು",
     "category": "ವಿಂಟೇಜ್",
     "previewColor": "#C8915A",
     "defaultStrength": 1,
@@ -40,7 +40,7 @@
   },
   {
     "id": "fs1",
-    "label": "FS1",
+    "label": "ಶ್ವೇತ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#3A8050",
     "defaultStrength": 1,
@@ -53,7 +53,7 @@
   },
   {
     "id": "fs4",
-    "label": "FS4",
+    "label": "ನೀನೆ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#2D7080",
     "defaultStrength": 1,
@@ -66,7 +66,7 @@
   },
   {
     "id": "fs16",
-    "label": "FS16",
+    "label": "ಮೋಡ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#508060",
     "defaultStrength": 1,
@@ -79,7 +79,7 @@
   },
   {
     "id": "av4",
-    "label": "AV4",
+    "label": "ಹಿತ್ತಾಳೆ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#D49020",
     "defaultStrength": 1,
@@ -92,7 +92,7 @@
   },
   {
     "id": "av8",
-    "label": "AV8",
+    "label": "ಆಸರೆ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#C07050",
     "defaultStrength": 1,
@@ -105,7 +105,7 @@
   },
   {
     "id": "av5",
-    "label": "AU5",
+    "label": "ಪ್ರಖರ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#B85040",
     "defaultStrength": 1,
@@ -118,7 +118,7 @@
   },
   {
     "id": "il1",
-    "label": "HP5",
+    "label": "ಕಾಳಿ",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#808080",
     "defaultStrength": 1,
@@ -131,7 +131,7 @@
   },
   {
     "id": "il2",
-    "label": "Delta",
+    "label": "ಕರಿ",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#606060",
     "defaultStrength": 1,
@@ -144,7 +144,7 @@
   },
   {
     "id": "vr1",
-    "label": "VHS",
+    "label": "ವಿ ಹೆಚ್ ಸ್ ",
     "category": "ರೆಟ್ರೊ",
     "previewColor": "#8060A0",
     "defaultStrength": 1,
@@ -157,7 +157,7 @@
   },
   {
     "id": "vr2",
-    "label": "Retro",
+    "label": "ರೆಟ್ರೋ",
     "category": "ರೆಟ್ರೊ",
     "previewColor": "#B08050",
     "defaultStrength": 1,
@@ -170,7 +170,7 @@
   },
   {
     "id": "vr3",
-    "label": "90s",
+    "label": "ತೊಂಬತ್ತು",
     "category": "ರೆಟ್ರೊ",
     "previewColor": "#7B3880",
     "defaultStrength": 1,
@@ -183,7 +183,7 @@
   },
   {
     "id": "bw1",
-    "label": "B&W",
+    "label": "ಹಳೇಕಾಲ",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#909090",
     "defaultStrength": 1,
@@ -196,7 +196,7 @@
   },
   {
     "id": "bw2",
-    "label": "Noir",
+    "label": "ಬೆಳ್ಳಿ",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#404040",
     "defaultStrength": 1,
@@ -209,7 +209,7 @@
   },
   {
     "id": "bw3",
-    "label": "Silver",
+    "label": "ಶ್ಯಾಮ",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#B0B0B0",
     "defaultStrength": 1,
@@ -222,7 +222,7 @@
   },
   {
     "id": "bw4",
-    "label": "Sepia",
+    "label": "ಕಂದು",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#8B7355",
     "defaultStrength": 1,
@@ -235,7 +235,7 @@
   },
   {
     "id": "bw5",
-    "label": "Cyanotype",
+    "label": "ನೀಲ",
     "category": "ಕಪ್ಪು-ಬಿಳುಪು",
     "previewColor": "#4682B4",
     "defaultStrength": 1,
@@ -248,7 +248,7 @@
   },
   {
     "id": "cam_brownie",
-    "label": "Brownie 1900",
+    "label": "ಬ್ರೌನಿ 1900",
     "category": "ವಿಂಟೇಜ್",
     "previewColor": "#8C6A4B",
     "defaultStrength": 1.0,
@@ -261,7 +261,7 @@
   },
   {
     "id": "cam_leica_m3",
-    "label": "Leica M3",
+    "label": "ಲೈಕಾ M3",
     "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
     "previewColor": "#555555",
     "defaultStrength": 1.0,
@@ -274,7 +274,7 @@
   },
   {
     "id": "cam_nikon_f",
-    "label": "Nikon F",
+    "label": "ನಿಕೋನ್ ಎಫ್",
     "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
     "previewColor": "#A4B09A",
     "defaultStrength": 1.0,
@@ -287,7 +287,7 @@
   },
   {
     "id": "cam_canon_ae1",
-    "label": "Canon AE-1",
+    "label": "ಕ್ಯಾನನ್ ಎಇ -1",
     "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
     "previewColor": "#D9A86C",
     "defaultStrength": 1.0,
@@ -300,7 +300,7 @@
   },
   {
     "id": "cam_pentax_k1000",
-    "label": "K1000",
+    "label": "ಸಾವಿರ ಕೆ",
     "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
     "previewColor": "#8F9D87",
     "defaultStrength": 1.0,
@@ -313,7 +313,7 @@
   },
   {
     "id": "cam_olympus_om1",
-    "label": "Olympus OM-1",
+    "label": "ಒಲಿಂಪಸ್ OM-1",
     "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
     "previewColor": "#6E8CA0",
     "defaultStrength": 1.0,
@@ -326,7 +326,7 @@
   },
   {
     "id": "cam_sx70",
-    "label": "Polaroid SX-70",
+    "label": "ಪೋಲಾರಾಯ್ಡ್ SX-70",
     "category": "ಇನ್ಸ್ಟಂಟ್",
     "previewColor": "#E2C792",
     "defaultStrength": 1.0,
@@ -339,7 +339,7 @@
   },
   {
     "id": "cam_contax_t2",
-    "label": "Contax T2",
+    "label": "ಕಾಂಟೆಸ್ T2",
     "category": "ಪಾಯಿಂಟ್ & ಶೂಟ್",
     "previewColor": "#D94255",
     "defaultStrength": 1.0,
@@ -352,7 +352,7 @@
   },
   {
     "id": "cam_kodak_kb10",
-    "label": "Kodak KB10",
+    "label": "ಕೊಡ್ಯಾಕ್ KB10",
     "category": "ಪಾಯಿಂಟ್ & ಶೂಟ್",
     "previewColor": "#E5D07B",
     "defaultStrength": 1.0,
@@ -365,7 +365,7 @@
   },
   {
     "id": "cam_kodak_hawkeye",
-    "label": "Hawkeye",
+    "label": "ಹದ್ದಿನ ಕಣ್ಣು",
     "category": "ವಿಂಟೇಜ್",
     "previewColor": "#999999",
     "defaultStrength": 1.0,
@@ -378,7 +378,7 @@
   },
   {
     "id": "cam_nikon_f100",
-    "label": "Nikon F100",
+    "label": "ನಿಕೋನ್ F100",
     "category": "ಕ್ಲಾಸಿಕ್ ಫಿಲ್ಮ್",
     "previewColor": "#2A6EBB",
     "defaultStrength": 1.0,
@@ -391,7 +391,7 @@
   },
   {
     "id": "cam_stereo_realist",
-    "label": "Realist 3D",
+    "label": "ಬಿಸಿ ಬಿಸಿ",
     "category": "ವಿಶೇಷ",
     "previewColor": "#C95A49",
     "defaultStrength": 1.0,
@@ -404,7 +404,7 @@
   },
   {
     "id": "cam_ricohmatic_44",
-    "label": "Ricohmatic 44",
+    "label": "ಸಪೂರ 44",
     "category": "ವಿಂಟೇಜ್",
     "previewColor": "#B2C2AD",
     "defaultStrength": 1.0,
@@ -417,7 +417,7 @@
   },
   {
     "id": "cam_nikonos_v",
-    "label": "Nikonos V",
+    "label": "ಸಮುದ್ರ",
     "category": "ವಿಶೇಷ",
     "previewColor": "#228B8B",
     "defaultStrength": 1.0,
