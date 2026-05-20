@@ -3,7 +3,7 @@
   "categories": [
     {
       "id": "newly_added",
-      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು (Newly Added)",
+      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು",
       "fonts": [
         { "label": "Karnata GTN Black", "value": "KarnataGTNBlack", "file": "KarnataGTN-Black.ttf" },
         { "label": "Karnata GTN Bold", "value": "KarnataGTNBold", "file": "KarnataGTN-Bold.ttf" },
