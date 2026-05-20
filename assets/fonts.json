@@ -57,7 +57,7 @@
     },
     {
       "id": "noto",
-      "name": "ನೋಟೋ (Noto Family)",
+      "name": "ನೋಟೋ",
       "fonts": [
         { "label": "Noto Sans Kannada Black", "value": "NotoSansKannadaBlack", "file": "NotoSansKannada-Black.ttf" },
         { "label": "Noto Sans Kannada Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada-Bold.ttf" },
