@@ -176,7 +176,7 @@
     },
     {
       "id": "acchu_kannada",
-      "name": "ಅಚ್ಚು ಕನ್ನಡ"(COMING SOON),
+      "name": "ಅಚ್ಚು ಕನ್ನಡ (COMING SOON)",
       "fonts": [
         { "label": "Acchu Font 1", "value": "Acchu1", "file": "Acchu1.ttf", "isPremium": true },
         { "label": "Karavali Font 1", "value": "Karavali1", "file": "Karavali1.ttf", "isPremium": true },
