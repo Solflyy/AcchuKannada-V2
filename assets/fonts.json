@@ -3,7 +3,7 @@
   "categories": [
     {
       "id": "newly_added",
-      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು (Newly Added)",
+      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು",
       "fonts": [
         { "label": "Karnata GTN Black", "value": "KarnataGTNBlack", "file": "KarnataGTN-Black.ttf" },
         { "label": "Karnata GTN Bold", "value": "KarnataGTNBold", "file": "KarnataGTN-Bold.ttf" },
@@ -11,7 +11,6 @@
         { "label": "Karnata GTN Medium", "value": "KarnataGTNMedium", "file": "KarnataGTN-Medium.ttf" },
         { "label": "Karnata GTN Regular", "value": "KarnataGTNRegular", "file": "KarnataGTN-Regular.ttf" },
         { "label": "Karnata GTN SemiBold", "value": "KarnataGTNSemiBold", "file": "KarnataGTN-SemiBold.ttf" },
-        { "label": "Karnata GTN Variable", "value": "KarnataGTNVariable", "file": "KarnataGTN Variable.ttf" },
         { "label": "SRIRAJU Bold", "value": "SRIRAJU_Bold", "file": "SRIRAJU_Bold.ttf" },
         { "label": "SRIRAJU Bold Italic", "value": "SRIRAJU_Bold_Italic", "file": "SRIRAJU_Bold_Italic.ttf" },
         { "label": "SRIRAJU Italic", "value": "SRIRAJU_Italic", "file": "SRIRAJU_Italic.ttf" },
@@ -22,15 +21,9 @@
         { "label": "Tiro Kannada Italic", "value": "TiroKannadaItalic", "file": "TiroKannada-Italic.ttf" },
         { "label": "Tiro Kannada Regular", "value": "TiroKannadaRegular", "file": "TiroKannada-Regular.ttf" },
         { "label": "Benne Regular", "value": "BenneRegular", "file": "Benne-Regular.ttf" },
-        { "label": "PRABI", "value": "PRABI", "file": "PRABI.ttf" },
-        { "label": "Badami Bold", "value": "BadamiBold", "file": "Badami Bold.ttf" },
         { "label": "Nishchaya", "value": "Nishchaya", "file": "Nishchaya.ttf" },
-        { "label": "Kuvempu Praja 1", "value": "KuvempuPraja1", "file": "Kuvempu Praja1.ttf" },
-        { "label": "Kolar Bold", "value": "KolarBold", "file": "Kolar Bold.ttf" },
-        { "label": "Karnata F Kittel 1", "value": "KarnataFKittel1", "file": "Karnata F Kittel (1).ttf" },
         { "label": "Kannada Pixel", "value": "KannadaPixel", "file": "KannadaPixel.ttf" },
         { "label": "Kanishka", "value": "Kanishka", "file": "Kanishka.ttf" },
-        { "label": "Devama", "value": "Devama", "file": "Devama.ttf" },
         { "label": "Bandipur One", "value": "BandipurOne", "file": "BandipurOne.ttf" },
         { "label": "Ambarisha 2", "value": "Ambarisha2", "file": "Ambarisha2.ttf" }
       ]
@@ -60,7 +53,6 @@
         { "label": "Akaya", "value": "Akaya", "file": "AkayaKanadaka-Regular.ttf" },
         { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
         { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
-        { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" }
       ]
     },
     {
