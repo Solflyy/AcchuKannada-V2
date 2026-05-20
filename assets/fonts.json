@@ -11,7 +11,6 @@
         { "label": "Karnata GTN Medium", "value": "KarnataGTNMedium", "file": "KarnataGTN-Medium.ttf" },
         { "label": "Karnata GTN Regular", "value": "KarnataGTNRegular", "file": "KarnataGTN-Regular.ttf" },
         { "label": "Karnata GTN SemiBold", "value": "KarnataGTNSemiBold", "file": "KarnataGTN-SemiBold.ttf" },
-        { "label": "Karnata GTN Variable", "value": "KarnataGTNVariable", "file": "KarnataGTN Variable.ttf" },
         { "label": "SRIRAJU Bold", "value": "SRIRAJU_Bold", "file": "SRIRAJU_Bold.ttf" },
         { "label": "SRIRAJU Bold Italic", "value": "SRIRAJU_Bold_Italic", "file": "SRIRAJU_Bold_Italic.ttf" },
         { "label": "SRIRAJU Italic", "value": "SRIRAJU_Italic", "file": "SRIRAJU_Italic.ttf" },
