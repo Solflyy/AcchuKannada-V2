@@ -42,8 +42,7 @@
         { "label": "Ambarisha Regular", "value": "AmbarishaRegular", "file": "Ambarisha Regular.ttf" },
         { "label": "Karnata F Kittel", "value": "KarnataFKittel", "file": "Karnata F Kittel.ttf" },
         { "label": "Karnata Wesleyan Mission Press", "value": "KarnataWesleyanMissionPress", "file": "KarnataWesleyan MissionPress.ttf" },
-        { "label": "Karnata German Mission Press Typeface", "value": "KarnataGermanMissionPressTypeface", "file": "KarnataGerman MissionPressTypeface.ttf" },
-        { "label": "Dhenu Regular", "value": "DhenuRegular", "file": "Dhenu-Regular.ttf" }
+        { "label": "Karnata German Mission Press Typeface", "value": "KarnataGermanMissionPressTypeface", "file": "KarnataGerman MissionPressTypeface.ttf" }
       ]
     },
     {
