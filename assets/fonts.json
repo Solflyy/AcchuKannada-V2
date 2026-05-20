@@ -25,7 +25,10 @@
         { "label": "Kannada Pixel", "value": "KannadaPixel", "file": "KannadaPixel.ttf" },
         { "label": "Kanishka", "value": "Kanishka", "file": "Kanishka.ttf" },
         { "label": "Bandipur One", "value": "BandipurOne", "file": "BandipurOne.ttf" },
-        { "label": "Ambarisha 2", "value": "Ambarisha2", "file": "Ambarisha2.ttf" }
+        { "label": "Ambarisha 2", "value": "Ambarisha2", "file": "Ambarisha2.ttf" },
+        { "label": "Karnata German Mission Press Typeface", "value": "KarnataGermanMissionPressTypeface", "file": "KarnataGermanMissionPressTypeface.ttf" },
+        { "label": "Anchu Kannada Regular", "value": "AnchuKannadaRegular", "file": "Anchu-Kannada-Regular.ttf" },
+        { "label": "Karnata Wesleyan Mission Press", "value": "KarnataWesleyanMissionPress", "file": "KarnataWesleyanMissionPress.ttf" }
       ]
     },
     {
