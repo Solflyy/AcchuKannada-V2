@@ -3,14 +3,15 @@
   "categories": [
     {
       "id": "newly_added",
-      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು",
+      "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು (Newly Added)",
       "fonts": [
-        { "label": "Karnata GTN Regular", "value": "KarnataGTNRegular", "file": "KarnataGTN-Regular.ttf" },
-        { "label": "Karnata GTN Medium", "value": "KarnataGTNMedium", "file": "KarnataGTN-Medium.ttf" },
-        { "label": "Karnata GTN SemiBold", "value": "KarnataGTNSemiBold", "file": "KarnataGTN-SemiBold.ttf" },
-        { "label": "Karnata GTN Bold", "value": "KarnataGTNBold", "file": "KarnataGTN-Bold.ttf" },
         { "label": "Karnata GTN Black", "value": "KarnataGTNBlack", "file": "KarnataGTN-Black.ttf" },
+        { "label": "Karnata GTN Bold", "value": "KarnataGTNBold", "file": "KarnataGTN-Bold.ttf" },
         { "label": "Karnata GTN ExtraBold", "value": "KarnataGTNExtraBold", "file": "KarnataGTN-ExtraBold.ttf" },
+        { "label": "Karnata GTN Medium", "value": "KarnataGTNMedium", "file": "KarnataGTN-Medium.ttf" },
+        { "label": "Karnata GTN Regular", "value": "KarnataGTNRegular", "file": "KarnataGTN-Regular.ttf" },
+        { "label": "Karnata GTN SemiBold", "value": "KarnataGTNSemiBold", "file": "KarnataGTN-SemiBold.ttf" },
+        { "label": "Karnata GTN Variable", "value": "KarnataGTNVariable", "file": "KarnataGTN Variable.ttf" },
         { "label": "SRIRAJU Bold", "value": "SRIRAJU_Bold", "file": "SRIRAJU_Bold.ttf" },
         { "label": "SRIRAJU Bold Italic", "value": "SRIRAJU_Bold_Italic", "file": "SRIRAJU_Bold_Italic.ttf" },
         { "label": "SRIRAJU Italic", "value": "SRIRAJU_Italic", "file": "SRIRAJU_Italic.ttf" },
@@ -22,8 +23,6 @@
         { "label": "Tiro Kannada Regular", "value": "TiroKannadaRegular", "file": "TiroKannada-Regular.ttf" },
         { "label": "Benne Regular", "value": "BenneRegular", "file": "Benne-Regular.ttf" },
         { "label": "PRABI", "value": "PRABI", "file": "PRABI.ttf" },
-        { "label": "Noto Serif Kannada Bold", "value": "NotoSerifKannadaBold", "file": "NotoSerifKannada Bold.ttf" },
-        { "label": "Noto Sans Kannada Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada Bold.ttf" },
         { "label": "Badami Bold", "value": "BadamiBold", "file": "Badami Bold.ttf" },
         { "label": "Nishchaya", "value": "Nishchaya", "file": "Nishchaya.ttf" },
         { "label": "Kuvempu Praja 1", "value": "KuvempuPraja1", "file": "Kuvempu Praja1.ttf" },
@@ -31,17 +30,9 @@
         { "label": "Karnata F Kittel 1", "value": "KarnataFKittel1", "file": "Karnata F Kittel (1).ttf" },
         { "label": "Kannada Pixel", "value": "KannadaPixel", "file": "KannadaPixel.ttf" },
         { "label": "Kanishka", "value": "Kanishka", "file": "Kanishka.ttf" },
-        { "label": "Hind Mysuru Medium", "value": "HindMysuruMedium", "file": "HindMysuru Medium.ttf" },
-        { "label": "Hind Mysuru Light", "value": "HindMysuruLight", "file": "HindMysuru Light.ttf" },
-        { "label": "Hind Mysuru Bold", "value": "HindMysuruBold", "file": "HindMysuru Bold.ttf" },
         { "label": "Devama", "value": "Devama", "file": "Devama.ttf" },
         { "label": "Bandipur One", "value": "BandipurOne", "file": "BandipurOne.ttf" },
-        { "label": "ANCHU", "value": "ANCHU", "file": "ANCHU.ttf" },
         { "label": "Ambarisha 2", "value": "Ambarisha2", "file": "Ambarisha2.ttf" },
-        { "label": "Ambarisha Regular", "value": "AmbarishaRegular", "file": "Ambarisha Regular.ttf" },
-        { "label": "Karnata F Kittel", "value": "KarnataFKittel", "file": "Karnata F Kittel.ttf" },
-        { "label": "Karnata Wesleyan Mission Press", "value": "KarnataWesleyanMissionPress", "file": "KarnataWesleyan MissionPress.ttf" },
-        { "label": "Karnata German Mission Press Typeface", "value": "KarnataGermanMissionPressTypeface", "file": "KarnataGerman MissionPressTypeface.ttf" }
       ]
     },
     {
@@ -49,7 +40,6 @@
       "name": "ವಿನ್ಯಾಸ",
       "fonts": [
         { "label": "Hubballi", "value": "Hubballi", "file": "Hubballi-Regular.ttf" },
-        { "label": "Noto Sans", "value": "NotoSans", "file": "NotoSansKannada.ttf" },
         { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
         { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" },
         { "label": "Lohit", "value": "Lohit", "file": "Lohit_Kannada.ttf" }
@@ -71,6 +61,57 @@
         { "label": "Gubbi", "value": "Gubbi", "file": "Gubbi.ttf" },
         { "label": "Malige", "value": "Malige", "file": "Malige.ttf" },
         { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" }
+      ]
+    },
+    {
+      "id": "noto",
+      "name": "ನೋಟೋ (Noto Family)",
+      "fonts": [
+        { "label": "Noto Sans Kannada Black", "value": "NotoSansKannadaBlack", "file": "NotoSansKannada-Black.ttf" },
+        { "label": "Noto Sans Kannada Bold", "value": "NotoSansKannadaBold", "file": "NotoSansKannada-Bold.ttf" },
+        { "label": "Noto Sans Kannada ExtraBold", "value": "NotoSansKannadaExtraBold", "file": "NotoSansKannada-ExtraBold.ttf" },
+        { "label": "Noto Sans Kannada ExtraLight", "value": "NotoSansKannadaExtraLight", "file": "NotoSansKannada-ExtraLight.ttf" },
+        { "label": "Noto Sans Kannada Light", "value": "NotoSansKannadaLight", "file": "NotoSansKannada-Light.ttf" },
+        { "label": "Noto Sans Kannada Medium", "value": "NotoSansKannadaMedium", "file": "NotoSansKannada-Medium.ttf" },
+        { "label": "Noto Sans Kannada Regular", "value": "NotoSansKannadaRegular", "file": "NotoSansKannada-Regular.ttf" },
+        { "label": "Noto Sans Kannada SemiBold", "value": "NotoSansKannadaSemiBold", "file": "NotoSansKannada-SemiBold.ttf" },
+        { "label": "Noto Sans Kannada Thin", "value": "NotoSansKannadaThin", "file": "NotoSansKannada-Thin.ttf" },
+        { "label": "Noto Sans Kannada Condensed Black", "value": "NotoSansKannadaCondensedBlack", "file": "NotoSansKannada_Condensed-Black.ttf" },
+        { "label": "Noto Sans Kannada Condensed Bold", "value": "NotoSansKannadaCondensedBold", "file": "NotoSansKannada_Condensed-Bold.ttf" },
+        { "label": "Noto Sans Kannada Condensed ExtraBold", "value": "NotoSansKannadaCondensedExtraBold", "file": "NotoSansKannada_Condensed-ExtraBold.ttf" },
+        { "label": "Noto Sans Kannada Condensed ExtraLight", "value": "NotoSansKannadaCondensedExtraLight", "file": "NotoSansKannada_Condensed-ExtraLight.ttf" },
+        { "label": "Noto Sans Kannada Condensed Light", "value": "NotoSansKannadaCondensedLight", "file": "NotoSansKannada_Condensed-Light.ttf" },
+        { "label": "Noto Sans Kannada Condensed Medium", "value": "NotoSansKannadaCondensedMedium", "file": "NotoSansKannada_Condensed-Medium.ttf" },
+        { "label": "Noto Sans Kannada Condensed Regular", "value": "NotoSansKannadaCondensedRegular", "file": "NotoSansKannada_Condensed-Regular.ttf" },
+        { "label": "Noto Sans Kannada Condensed SemiBold", "value": "NotoSansKannadaCondensedSemiBold", "file": "NotoSansKannada_Condensed-SemiBold.ttf" },
+        { "label": "Noto Sans Kannada Condensed Thin", "value": "NotoSansKannadaCondensedThin", "file": "NotoSansKannada_Condensed-Thin.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed Black", "value": "NotoSansKannadaExtraCondensedBlack", "file": "NotoSansKannada_ExtraCondensed-Black.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed Bold", "value": "NotoSansKannadaExtraCondensedBold", "file": "NotoSansKannada_ExtraCondensed-Bold.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed ExtraBold", "value": "NotoSansKannadaExtraCondensedExtraBold", "file": "NotoSansKannada_ExtraCondensed-ExtraBold.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed ExtraLight", "value": "NotoSansKannadaExtraCondensedExtraLight", "file": "NotoSansKannada_ExtraCondensed-ExtraLight.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed Light", "value": "NotoSansKannadaExtraCondensedLight", "file": "NotoSansKannada_ExtraCondensed-Light.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed Medium", "value": "NotoSansKannadaExtraCondensedMedium", "file": "NotoSansKannada_ExtraCondensed-Medium.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed Regular", "value": "NotoSansKannadaExtraCondensedRegular", "file": "NotoSansKannada_ExtraCondensed-Regular.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed SemiBold", "value": "NotoSansKannadaExtraCondensedSemiBold", "file": "NotoSansKannada_ExtraCondensed-SemiBold.ttf" },
+        { "label": "Noto Sans Kannada ExtraCondensed Thin", "value": "NotoSansKannadaExtraCondensedThin", "file": "NotoSansKannada_ExtraCondensed-Thin.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed Black", "value": "NotoSansKannadaSemiCondensedBlack", "file": "NotoSansKannada_SemiCondensed-Black.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed Bold", "value": "NotoSansKannadaSemiCondensedBold", "file": "NotoSansKannada_SemiCondensed-Bold.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed ExtraBold", "value": "NotoSansKannadaSemiCondensedExtraBold", "file": "NotoSansKannada_SemiCondensed-ExtraBold.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed ExtraLight", "value": "NotoSansKannadaSemiCondensedExtraLight", "file": "NotoSansKannada_SemiCondensed-ExtraLight.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed Light", "value": "NotoSansKannadaSemiCondensedLight", "file": "NotoSansKannada_SemiCondensed-Light.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed Medium", "value": "NotoSansKannadaSemiCondensedMedium", "file": "NotoSansKannada_SemiCondensed-Medium.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed Regular", "value": "NotoSansKannadaSemiCondensedRegular", "file": "NotoSansKannada_SemiCondensed-Regular.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed SemiBold", "value": "NotoSansKannadaSemiCondensedSemiBold", "file": "NotoSansKannada_SemiCondensed-SemiBold.ttf" },
+        { "label": "Noto Sans Kannada SemiCondensed Thin", "value": "NotoSansKannadaSemiCondensedThin", "file": "NotoSansKannada_SemiCondensed-Thin.ttf" },
+        { "label": "Noto Serif Kannada Black", "value": "NotoSerifKannadaBlack", "file": "NotoSerifKannada-Black.ttf" },
+        { "label": "Noto Serif Kannada Bold", "value": "NotoSerifKannadaBold", "file": "NotoSerifKannada-Bold.ttf" },
+        { "label": "Noto Serif Kannada ExtraBold", "value": "NotoSerifKannadaExtraBold", "file": "NotoSerifKannada-ExtraBold.ttf" },
+        { "label": "Noto Serif Kannada ExtraLight", "value": "NotoSerifKannadaExtraLight", "file": "NotoSerifKannada-ExtraLight.ttf" },
+        { "label": "Noto Serif Kannada Light", "value": "NotoSerifKannadaLight", "file": "NotoSerifKannada-Light.ttf" },
+        { "label": "Noto Serif Kannada Medium", "value": "NotoSerifKannadaMedium", "file": "NotoSerifKannada-Medium.ttf" },
+        { "label": "Noto Serif Kannada Regular", "value": "NotoSerifKannadaRegular", "file": "NotoSerifKannada-Regular.ttf" },
+        { "label": "Noto Serif Kannada SemiBold", "value": "NotoSerifKannadaSemiBold", "file": "NotoSerifKannada-SemiBold.ttf" },
+        { "label": "Noto Serif Kannada Thin", "value": "NotoSerifKannadaThin", "file": "NotoSerifKannada-Thin.ttf" }
       ]
     },
     {
@@ -135,64 +176,16 @@
     },
     {
       "id": "acchu_kannada",
-      "name": "ಅಚ್ಚು ಕನ್ನಡ",
+      "name": "ಅಚ್ಚು ಕನ್ನಡ"(COMING SOON),
       "fonts": [
-        { "label": "Acchu Font 1", "value": "Acchu1", "file": "Acchu1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "karavali",
-      "name": "ಕರಾವಳಿ",
-      "fonts": [
-        { "label": "Karavali Font 1", "value": "Karavali1", "file": "Karavali1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "malenaadu",
-      "name": "ಮಲೆನಾಡು",
-      "fonts": [
-        { "label": "Malenaadu Font 1", "value": "Malenaadu1", "file": "Malenaadu1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "samudra",
-      "name": "ಸಮುದ್ರ",
-      "fonts": [
-        { "label": "Samudra Font 1", "value": "Samudra1", "file": "Samudra1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "bayaluseeme",
-      "name": "ಬಯಲುಸೀಮೆ",
-      "fonts": [
-        { "label": "Bayaluseeme Font 1", "value": "Bayaluseeme1", "file": "Bayaluseeme1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "uttara_kannada",
-      "name": "ಉತ್ತರ ಕನ್ನಡ",
-      "fonts": [
-        { "label": "UK Font 1", "value": "UK1", "file": "UK1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "baadami",
-      "name": "ಬಾದಾಮಿ",
-      "fonts": [
-        { "label": "Baadami Font 1", "value": "Baadami1", "file": "Baadami1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "chalukya",
-      "name": "ಚಾಲುಕ್ಯ",
-      "fonts": [
-        { "label": "Chalukya Font 1", "value": "Chalukya1", "file": "Chalukya1.ttf", "isPremium": true }
-      ]
-    },
-    {
-      "id": "hampe",
-      "name": "ಹಂಪಿ",
-      "fonts": [
+        { "label": "Acchu Font 1", "value": "Acchu1", "file": "Acchu1.ttf", "isPremium": true },
+        { "label": "Karavali Font 1", "value": "Karavali1", "file": "Karavali1.ttf", "isPremium": true },
+        { "label": "Malenaadu Font 1", "value": "Malenaadu1", "file": "Malenaadu1.ttf", "isPremium": true },
+        { "label": "Samudra Font 1", "value": "Samudra1", "file": "Samudra1.ttf", "isPremium": true },
+        { "label": "Bayaluseeme Font 1", "value": "Bayaluseeme1", "file": "Bayaluseeme1.ttf", "isPremium": true },
+        { "label": "UK Font 1", "value": "UK1", "file": "UK1.ttf", "isPremium": true },
+        { "label": "Baadami Font 1", "value": "Baadami1", "file": "Baadami1.ttf", "isPremium": true },
+        { "label": "Chalukya Font 1", "value": "Chalukya1", "file": "Chalukya1.ttf", "isPremium": true },
         { "label": "Hampe Font 1", "value": "Hampe1", "file": "Hampe1.ttf", "isPremium": true }
       ]
     }
