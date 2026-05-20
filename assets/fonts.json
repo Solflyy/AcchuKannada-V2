@@ -6,12 +6,6 @@
       "name": "ಹೊಸ ಸೇರ್ಪಡೆಗಳು",
       "fonts": [
         { "label": "Karnata GTN Black", "value": "KarnataGTNBlack", "file": "KarnataGTN-Black.ttf" },
-        { "label": "SRIRAJUO", "value": "SRIRAJUO", "file": "SRIRAJUO.ttf" },
-        { "label": "SRIRAUOI", "value": "SRIRAUOI", "file": "SRIRAUOI.ttf" },
-        { "label": "SRIRAJUR", "value": "SRIRAJUR", "file": "SRIRAJUR.ttf" },
-        { "label": "SRIRAJUI", "value": "SRIRAJUI", "file": "SRIRAJUI.ttf" },
-        { "label": "SRIRAJUB", "value": "SRIRAJUB", "file": "SRIRAJUB.ttf" },
-        { "label": "SRIRAJBI", "value": "SRIRAJBI", "file": "SRIRAJBI.ttf" },
         { "label": "Tiro Kannada Italic", "value": "TiroKannadaItalic", "file": "TiroKannada-Italic.ttf" },
         { "label": "Tiro Kannada Regular", "value": "TiroKannadaRegular", "file": "TiroKannada-Regular.ttf" },
         { "label": "ಕನ್ನಡ ಕೈ ಬರಹ", "value": "ಕನ್ನಡ ಕೈ ಬರಹ", "file": "DesignigaHandwritting-Regular.ttf" },
@@ -37,6 +31,18 @@
         { "label": "Padyakke", "value": "Padyakke", "file": "PadyakkeExpandedOne-Regular.ttf" },
         { "label": "Patrick Hand", "value": "PatrickHand", "file": "PatrickHand-Regular.ttf" },
         { "label": "Tunga", "value": "Tunga", "file": "Tunga.ttf" }
+      ]
+    },
+    {
+      "id": "sriraj",
+      "name": "ಶ್ರೀರಾಜ್ (SriRaj)",
+      "fonts": [
+        { "label": "SRIRAJUO", "value": "SRIRAJUO", "file": "SRIRAJUO.ttf" },
+        { "label": "SRIRAUOI", "value": "SRIRAUOI", "file": "SRIRAUOI.ttf" },
+        { "label": "SRIRAJUR", "value": "SRIRAJUR", "file": "SRIRAJUR.ttf" },
+        { "label": "SRIRAJUI", "value": "SRIRAJUI", "file": "SRIRAJUI.ttf" },
+        { "label": "SRIRAJUB", "value": "SRIRAJUB", "file": "SRIRAJUB.ttf" },
+        { "label": "SRIRAJBI", "value": "SRIRAJBI", "file": "SRIRAJBI.ttf" }
       ]
     },
     {
