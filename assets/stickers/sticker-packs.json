@@ -104,7 +104,6 @@
     {
       "id": "comic_bubbles",
       "name": "ಕಾಮಿಕ್ ಬಬಲ್ಸ್",
-      "isTintable": true,
       "stickers": [
         { "id": "cb1", "src": "CO01.webp" },
         { "id": "cb2", "src": "CO02.webp" },
