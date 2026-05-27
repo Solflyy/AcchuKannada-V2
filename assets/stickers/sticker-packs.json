@@ -39,7 +39,7 @@
         { "id": "h2", "src": "HBD02.webp" },
         { "id": "h3", "src": "HBD03.webp" },
         { "id": "h4", "src": "HBD04.webp" }
-     ]
+      ]
     },
     {
       "id": "rajyotsava",
@@ -51,17 +51,6 @@
         { "id": "j4", "src": "KN4.webp" }
       ]
     },
-    {
-      "id": "local",
-      "name": "ಆಡುಭಾಷೆ",
-      "isPremium": true,
-      "stickers": [
-        { "id": "k1", "src": "HBD01.webp" },
-        { "id": "k2", "src": "HBD02.webp" },
-        { "id": "k3", "src": "HBD03.webp" },
-        { "id": "k4", "src": "HBD04.webp" }
-      ]
-        },
     {
       "id": "Flower",
       "name": "ಹೂವಿನ ಹಾರ",
@@ -88,6 +77,78 @@
         { "id": "i1", "src": "DV01.webp" },
         { "id": "i2", "src": "DV02.webp" },
         { "id": "i3", "src": "DV03.webp" }
+      ]
+    },
+    {
+      "id": "shapes",
+      "name": "ಆಕಾರಗಳು",
+      "isTintable": true,
+      "stickers": [
+        { "id": "s1", "src": "S01.webp" },
+        { "id": "s2", "src": "S2.webp" },
+        { "id": "s3", "src": "S03.webp" },
+        { "id": "s4", "src": "S04.webp" },
+        { "id": "s5", "src": "S05.webp" },
+        { "id": "s6", "src": "S06.webp" },
+        { "id": "s7", "src": "S07.webp" },
+        { "id": "s8", "src": "S08.webp" },
+        { "id": "s9", "src": "S09.webp" },
+        { "id": "s10", "src": "S10.webp" },
+        { "id": "s11", "src": "S11.webp" },
+        { "id": "s12", "src": "S12.webp" },
+        { "id": "s13", "src": "S13.webp" },
+        { "id": "s14", "src": "S14.webp" },
+        { "id": "s15", "src": "S15.webp" }
+      ]
+    },
+    {
+      "id": "comic_bubbles",
+      "name": "ಕಾಮಿಕ್ ಬಬಲ್ಸ್",
+      "isTintable": true,
+      "stickers": [
+        { "id": "cb1", "src": "CO01.webp" },
+        { "id": "cb2", "src": "CO02.webp" },
+        { "id": "cb3", "src": "CO03.webp" },
+        { "id": "cb4", "src": "CO04.webp" },
+        { "id": "cb5", "src": "CO05.webp" },
+        { "id": "cb6", "src": "CO06.webp" },
+        { "id": "cb7", "src": "CO07.webp" },
+        { "id": "cb8", "src": "CO08.webp" }
+      ]
+    },
+    {
+      "id": "markers",
+      "name": "ಗುರುತುಗಳು",
+      "isTintable": true,
+      "stickers": [
+        { "id": "mk1", "src": "MK01.webp" },
+        { "id": "mk2", "src": "MK02.webp" },
+        { "id": "mk3", "src": "MK03.webp" },
+        { "id": "mk4", "src": "MK04.webp" },
+        { "id": "mk5", "src": "MK05.webp" },
+        { "id": "mk6", "src": "MK06.webp" },
+        { "id": "mk7", "src": "MK07.webp" }
+      ]
+    },
+    {
+      "id": "sp_pack",
+      "name": "ಆಕಾರ",
+      "stickers": [
+        { "id": "sp1", "src": "SP01.webp" },
+        { "id": "sp2", "src": "SP02.webp" },
+        { "id": "sp3", "src": "SP03.webp" },
+        { "id": "sp4", "src": "SP04.webp" },
+        { "id": "sp5", "src": "SP05.webp" },
+        { "id": "sp6", "src": "SP06.webp" },
+        { "id": "sp7", "src": "SP07.webp" },
+        { "id": "sp8", "src": "SP08.webp" },
+        { "id": "sp9", "src": "SP09.webp" },
+        { "id": "sp10", "src": "SP10.webp" },
+        { "id": "sp11", "src": "SP11.webp" },
+        { "id": "sp12", "src": "SP12.webp" },
+        { "id": "sp13", "src": "SP13.webp" },
+        { "id": "sp14", "src": "SP14.webp" },
+        { "id": "sp15", "src": "SP15.webp" }
       ]
     }
   ]
