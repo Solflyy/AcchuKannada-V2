@@ -1,7 +1,7 @@
 [
   {
     "id": "pro_cin1",
-    "label": "Teal&Orange",
+    "label": "ಸಂಧ್ಯಾ ರಂಗು",
     "category": "ಸಿನೆಮ್ಯಾಟಿಕ್",
     "previewColor": "#E87040",
     "defaultStrength": 1,
@@ -14,7 +14,7 @@
   },
   {
     "id": "pro_cin2",
-    "label": "Blade",
+    "label": "ತೀಕ್ಷ್ಣ ಛಾಯೆ",
     "category": "ಸಿನೆಮ್ಯಾಟಿಕ್",
     "previewColor": "#50A0A0",
     "defaultStrength": 1,
@@ -27,7 +27,7 @@
   },
   {
     "id": "pro_cin3",
-    "label": "Matrix",
+    "label": "ಮಾಯಾಜಾಲ",
     "category": "ಸಿನೆಮ್ಯಾಟಿಕ್",
     "previewColor": "#40A060",
     "defaultStrength": 1,
@@ -40,7 +40,7 @@
   },
   {
     "id": "pro_pt1",
-    "label": "Soft Glow",
+    "label": "ಮೃದು ಕಾಂತಿ",
     "category": "ಭಾವಚಿತ್ರ",
     "previewColor": "#F0C8A0",
     "defaultStrength": 1,
@@ -53,7 +53,7 @@
   },
   {
     "id": "pro_pt2",
-    "label": "Porcelain",
+    "label": "ಸ್ಫಟಿಕ ರೂಪ",
     "category": "ಭಾವಚಿತ್ರ",
     "previewColor": "#E8D0D0",
     "defaultStrength": 1,
@@ -66,7 +66,7 @@
   },
   {
     "id": "pro_fd1",
-    "label": "Warm Plate",
+    "label": "ಬಿಸಿ ಸ್ವಾದ",
     "category": "ಆಹಾರ",
     "previewColor": "#E8A050",
     "defaultStrength": 1,
@@ -79,7 +79,7 @@
   },
   {
     "id": "pro_fd2",
-    "label": "Fresh",
+    "label": "ತಾಜಾತನ",
     "category": "ಆಹಾರ",
     "previewColor": "#80C060",
     "defaultStrength": 1,
@@ -92,7 +92,7 @@
   },
   {
     "id": "pro_tr1",
-    "label": "Golden Hour",
+    "label": "ಹೊಂಬಿಸಿಲು",
     "category": "ಪ್ರವಾಸ",
     "previewColor": "#E89030",
     "defaultStrength": 1,
@@ -105,7 +105,7 @@
   },
   {
     "id": "pro_tr2",
-    "label": "Azure",
+    "label": "ನೀಲಾಕಾಶ",
     "category": "ಪ್ರವಾಸ",
     "previewColor": "#4090C0",
     "defaultStrength": 1,
@@ -118,7 +118,7 @@
   },
   {
     "id": "pro_md1",
-    "label": "Shadows",
+    "label": "ಕಗ್ಗತ್ತಲು",
     "category": "ಮೂಡಿ",
     "previewColor": "#3A3A5A",
     "defaultStrength": 1,
@@ -131,7 +131,7 @@
   },
   {
     "id": "pro_md2",
-    "label": "Ember",
+    "label": "ಕೆಂಡದ ಹೊಳಪು",
     "category": "ಮೂಡಿ",
     "previewColor": "#A04030",
     "defaultStrength": 1,
@@ -144,7 +144,7 @@
   },
   {
     "id": "pro_md3",
-    "label": "Mist",
+    "label": "ತುಷಾರ",
     "category": "ಮೂಡಿ",
     "previewColor": "#7080A0",
     "defaultStrength": 1,
@@ -157,7 +157,7 @@
   },
   {
     "id": "fs_portra400",
-    "label": "Portra 400",
+    "label": "ಸುಂದರ ವದನ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#E8C8A0",
     "defaultStrength": 1,
@@ -170,7 +170,7 @@
   },
   {
     "id": "fs_portra800",
-    "label": "Portra 800",
+    "label": "ಇರುಳಿನ ಕಾಂತಿ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#D4A070",
     "defaultStrength": 1,
@@ -183,7 +183,7 @@
   },
   {
     "id": "fs_ektar",
-    "label": "Ektar 100",
+    "label": "ವರ್ಣಮಯ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#E06030",
     "defaultStrength": 1,
@@ -196,7 +196,7 @@
   },
   {
     "id": "fs_cinestill",
-    "label": "CineStill 800T",
+    "label": "ರಾತ್ರಿ ದೀಪ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#4080A0",
     "defaultStrength": 1,
@@ -209,7 +209,7 @@
   },
   {
     "id": "fs_pro400h",
-    "label": "Pro 400H",
+    "label": "ಶೀತಲ ಛಾಯೆ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#A0C8C0",
     "defaultStrength": 1,
@@ -222,7 +222,7 @@
   },
   {
     "id": "fs_velvia",
-    "label": "Velvia 50",
+    "label": "ಸಿರಿಗಂಧ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#2080A0",
     "defaultStrength": 1,
@@ -235,7 +235,7 @@
   },
   {
     "id": "fs_leica",
-    "label": "Leica M",
+    "label": "ಪುರಾತನ ಶೈಲಿ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#7A7060",
     "defaultStrength": 1,
@@ -248,7 +248,7 @@
   },
   {
     "id": "fs_trix",
-    "label": "Tri-X 400",
+    "label": "ಕಾರ್ಮೋಡ",
     "category": "ಫಿಲ್ಮ್",
     "previewColor": "#505050",
     "defaultStrength": 1,
@@ -261,7 +261,7 @@
   },
   {
     "id": "pro_fx1",
-    "label": "Flair",
+    "label": "ಬೆಳಕಿನಾಟ",
     "category": "ಎಫೆಕ್ಟ್ಸ್",
     "previewColor": "#F0A858",
     "defaultStrength": 1,
@@ -274,7 +274,7 @@
   },
   {
     "id": "pro_fx2",
-    "label": "Film Burn",
+    "label": "ಬೆಳಕಿನ ಸೋರಿಕೆ",
     "category": "ಎಫೆಕ್ಟ್ಸ್",
     "previewColor": "#D84020",
     "defaultStrength": 1,
@@ -287,7 +287,7 @@
   },
   {
     "id": "pro_fx3",
-    "label": "Glare",
+    "label": "ತೇಜಸ್ಸು",
     "category": "ಎಫೆಕ್ಟ್ಸ್",
     "previewColor": "#F8F0D0",
     "defaultStrength": 1,
@@ -300,7 +300,7 @@
   },
   {
     "id": "acchu_prakriti",
-    "label": "Prakriti",
+    "label": "ನೈಸರ್ಗಿಕ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#8B5A2B",
     "defaultStrength": 1.0,
@@ -313,7 +313,7 @@
   },
   {
     "id": "acchu_chalanachitra",
-    "label": "Chalanachitra",
+    "label": "ಚಿತ್ರಪಟ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#F4A460",
     "defaultStrength": 1.0,
@@ -326,7 +326,7 @@
   },
   {
     "id": "acchu_sagara",
-    "label": "Sagara Sahasa",
+    "label": "ಕಡಲ ಅಲೆ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#008B8B",
     "defaultStrength": 1.0,
@@ -339,7 +339,7 @@
   },
   {
     "id": "acchu_shakti",
-    "label": "Shakti",
+    "label": "ಚೈತನ್ಯ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#FF4500",
     "defaultStrength": 1.0,
@@ -352,7 +352,7 @@
   },
   {
     "id": "acchu_ekatva",
-    "label": "Ekatva",
+    "label": "ಸಮಾಗಮ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#778899",
     "defaultStrength": 1.0,
@@ -365,7 +365,7 @@
   },
   {
     "id": "acchu_neon_raatri",
-    "label": "Neon Raatri",
+    "label": "ಬಣ್ಣದ ಇರುಳು ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#FF3300",
     "defaultStrength": 1.0,
@@ -378,7 +378,7 @@
   },
   {
     "id": "acchu_suvarna_belaku",
-    "label": "Suvarna Belaku",
+    "label": "ಚಿನ್ನದ ಕಿರಣ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#FFA500",
     "defaultStrength": 1.0,
@@ -391,7 +391,7 @@
   },
   {
     "id": "acchu_chitra_kanasu",
-    "label": "Chitra Kanasu",
+    "label": "ಸಿನಿಮಾ ಕನಸು ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#008080",
     "defaultStrength": 1.0,
@@ -404,7 +404,7 @@
   },
   {
     "id": "acchu_nishabda_neeli",
-    "label": "Nishabda Neeli",
+    "label": "ಮೌನ ನೀಲಿ ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#1A2B4C",
     "defaultStrength": 1.0,
@@ -417,7 +417,7 @@
   },
   {
     "id": "acchu_hasiru_chaye",
-    "label": "Hasiru Chaye",
+    "label": "ಹಸಿರು ಸೊಬಗು ಪ್ರೊ",
     "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
     "previewColor": "#2E8B57",
     "defaultStrength": 1.0,
@@ -426,6 +426,19 @@
       0.0, 1.25, 0.0, 0.0, 0.1, 
       0.0, 0.0, 1.05, 0.0, 0.0, 
       0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "acchu_karavali_bisilu",
+    "label": "ಕರಾವಳಿ ಉಷ್ಣತೆ ಪ್ರೊ",
+    "category": "ಅಚ್ಚು ಫಿಲ್ಟರ್ ಪ್ರೊ",
+    "previewColor": "#9CA076",
+    "defaultStrength": 1.0,
+    "matrix": [
+      1.15, 0.10, 0.00, 0.00, 0.06,
+      0.00, 1.10, 0.05, 0.00, 0.04,
+      0.00, 0.00, 0.85, 0.00, -0.02,
+      0.00, 0.00, 0.00, 1.00, 0.00
     ]
   }
 ]
