@@ -44,6 +44,21 @@
       "id": "trend_guide_25_26",
       "label": "ಟ್ರೆಂಡ್ ಗೈಡ್ 26 (Trend Guide)",
       "colors": ["#FAFAD2", "#DA8A67", "#FF7518", "#FF2400", "#8DB600", "#0F52BA", "#202020"]
+    },
+    {
+      "id": "behr_color_trends_2026",
+      "label": "ಬೆಹರ್ ಕಲರ್ ಟ್ರೆಂಡ್ಸ್ 2026 (Behr Color Trends 2026)",
+      "colors": ["#E4DBD3", "#AEC0BE", "#CBA88E", "#677876", "#78908A", "#A46754", "#C5C1B5", "#E1D5C2", "#F1EDE2", "#748392", "#643F40", "#A1988A", "#D4A96B", "#B2B7A0", "#384C58", "#6D676B", "#56463D", "#A18C75", "#797C63", "#4A4B4B"]
+    },
+    {
+      "id": "all_paint_color_trends_2026",
+      "label": "2026 ಪೇಂಟ್ ಕಲರ್ ಟ್ರೆಂಡ್ಸ್ (2026 Paint Color Trends)",
+      "colors": ["#C4CFD5", "#A8C4C1", "#A5B9B5", "#AABBB8", "#9EAC9E", "#9DB395", "#98AC8D", "#6C8D8E", "#2A4B50", "#E1DFBE", "#C8BE63", "#9FA45A", "#80856C", "#6C6E5C", "#5D5B4D", "#545140", "#5C6B59", "#4A5B5E", "#EBE1D3", "#E5D7C6", "#DCD0C9", "#D6C9B5", "#D8C9B5", "#C2B6B0", "#C2B6AF", "#B6A68F", "#9B8E88", "#B86F63", "#B1655D", "#B35845", "#A1665D", "#8C4331", "#753428", "#6D3223", "#663833", "#533334"]
+    },
+    {
+      "id": "colours_of_the_year_2026",
+      "label": "2026 ವರ್ಷದ ಬಣ್ಣಗಳು (2026 Colours of the Year)",
+      "colors": ["#E8E7E3", "#59514F", "#D4A86C", "#B4A38A", "#4B5947", "#9EACA1", "#C2B5B4", "#E3D8C8", "#9E5E55", "#71352A", "#5D7571"]
     }
   ]
 }
