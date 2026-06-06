@@ -73,5 +73,21 @@
   { "id": "sun-beam", "name": "ಸೂರ್ಯನ ಕಿರಣ", "colors": ["#FFF200", "#F9FF00"] },
   { "id": "golden-hour", "name": "ಸುವರ್ಣ ಘಳಿಗೆ", "colors": ["#FFE700", "#E3FF00"] },
   { "id": "yellow-daisy", "name": "ಹಳದಿ ಹೂವು", "colors": ["#FFE980", "#FFD000"] },
-  { "id": "morning-light", "name": "ಬೆಳಗಿನ ಬೆಳಕು", "colors": ["#FFE350", "#FFF880"] }
+  { "id": "morning-light", "name": "ಬೆಳಗಿನ ಬೆಳಕು", "colors": ["#FFE350", "#FFF880"] },
+  { "id": "sky-wave", "name": "ಆಕಾಶದ ಅಲೆ", "colors": ["#4facfe", "#00f2fe"] },
+  { "id": "green-breeze", "name": "ಹಸಿರು ತಂಗಾಳಿ", "colors": ["#43e97b", "#38f9d7"] },
+  { "id": "soft-blue", "name": "ಮೃದು ನೀಲಿ", "colors": ["#e0c3fc", "#8ec5fc"] },
+  { "id": "coral-pink", "name": "ಹವಳದ ಗುಲಾಬಿ", "colors": ["#ff758c", "#ff7eb3"] },
+  { "id": "orange-sunshine", "name": "ಕಿತ್ತಳೆ ಬಿಸಿಲು", "colors": ["#f6d365", "#fda085"] },
+  { "id": "purple-mist", "name": "ನೇರಳೆ ಮಂಜು", "colors": ["#a18cd1", "#fbc2eb"] },
+  { "id": "warm-red", "name": "ಬೆಚ್ಚಗಿನ ಕೆಂಪು", "colors": ["#ff5858", "#f857a6"] },
+  { "id": "dark-ocean", "name": "ಕತ್ತಲ ಕಡಲು", "colors": ["#29323c", "#485563"] },
+  { "id": "royal-blue-deep", "name": "ರಾಜ ನೀಲಿ", "colors": ["#1e3c72", "#2a5298"] },
+  { "id": "lemon-green", "name": "ತಾಜಾ ನಿಂಬೆ", "colors": ["#d4fc79", "#96e6a1"] },
+  { "id": "peach-flower", "name": "ಪೀಚ್ ಹೂವು", "colors": ["#ff9a9e", "#fecfef"] },
+  { "id": "lavender-dream", "name": "ಲ್ಯಾವೆಂಡರ್ ಕನಸು", "colors": ["#c471ed", "#f64f59"] },
+  { "id": "yellow-sun", "name": "ಹಳದಿ ಹೊಳಪು", "colors": ["#ffb347", "#ffcc33"] },
+  { "id": "dark-red", "name": "ಕಡು ಕೆಂಪು", "colors": ["#800020", "#C00000"] },
+  { "id": "deep-purple", "name": "ಕಡು ನೇರಳೆ", "colors": ["#41295a", "#2F0743"] },
+  { "id": "pink-morning", "name": "ಗುಲಾಬಿ ಮುಂಜಾನೆ", "colors": ["#ff7e5f", "#feb47b"] }
 ]
