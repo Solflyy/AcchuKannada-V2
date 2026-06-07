@@ -1,64 +1,67 @@
 {
   "categories": [
     {
-      "id": "acchu_kannada_brand",
-      "label": "ಅಚ್ಚು ಕನ್ನಡ ಬಣ್ಣಗಳು (Acchu Kannada)",
-      "colors": ["#E5E6EB", "#DDC616", "#9D0D0D", "#18191B", "#010101"]
+      "id": "midnight_shadows",
+      "label": "ಗಾಢ ರಾತ್ರಿ ಮತ್ತು ನೆರಳುಗಳು (Midnight & Shadows)",
+      "colors": [
+        "#010101", "#000000", "#18191B", "#202020", "#4A4B4B", "#59514F", 
+        "#191970", "#000080", "#4B0082", "#123C52", "#384C58", "#2A4B50", "#3F465F"
+      ]
     },
     {
-      "id": "basic",
-      "label": "ಮೂಲ ಬಣ್ಣಗಳು (Basic)",
-      "colors": ["#FFFFFF", "#E9CD2D", "#F48D2A", "#E52326", "#12A549", "#3F96D5", "#000000"]
+      "id": "earth_clay",
+      "label": "ಮಣ್ಣು ಮತ್ತು ಮಡಿಕೆ (Earth & Clay)",
+      "colors": [
+        "#4B3621", "#56463D", "#6F4E37", "#7A573F", "#8B5E3C", "#BC8A5F", 
+        "#A18C75", "#B6A68F", "#CBA88E", "#D4A373", "#B86F63", "#B1655D", 
+        "#B35845", "#A1665D", "#8C4331", "#753428", "#6D3223", "#663833", 
+        "#533334", "#71352A", "#643F40", "#5D353B", "#6C2C2D", "#93262E", "#4D3039"
+      ]
     },
     {
-      "id": "aesthetic_earth",
-      "label": "ಮಣ್ಣಿನ ಸೊಬಗು (Earth Tones)",
-      "colors": ["#D4A373", "#BC8A5F", "#8B5E3C", "#6F4E37", "#4B3621"]
+      "id": "forest_whispers",
+      "label": "ಕಾಡಿನ ಪಿಸುಮಾತು (Forest Whispers)",
+      "colors": [
+        "#12A549", "#2E4634", "#3F6844", "#5A9367", "#7FB09B", "#A8D5BA", 
+        "#4B5947", "#5C6B59", "#4A5B5E", "#5D5B4D", "#6C6E5C", "#80856C", 
+        "#9CA57B", "#9FA45A", "#B2B7A0", "#797C63", "#8DB600", "#98AC8D", 
+        "#9DB395", "#9EAC9E", "#9EACA1", "#AABBB8", "#A5B9B5", "#A8C4C1", 
+        "#AEC0BE", "#677876", "#78908A", "#5D7571", "#006E6D"
+      ]
     },
     {
-      "id": "cinematic_life",
-      "label": "ಸಿನೆಮ್ಯಾಟಿಕ್ ಲೈಫ್ (Cinematic Life)",
-      "colors": ["#E3E0D5", "#E29D43", "#9CA57B", "#99B9C3", "#8E7D73", "#376E8B", "#D34F3F"]
+      "id": "golden_hour",
+      "label": "ಸುವರ್ಣ ಘಳಿಗೆ (Golden Hour)",
+      "colors": [
+        "#DDC616", "#E9CD2D", "#C8BE63", "#E1DFBE", "#D4A86C", "#D4A96B", 
+        "#E29D43", "#9B8047", "#B4A38A", "#DDBE9E", "#E5D7C6", "#EBE1D3", "#FAFAD2"
+      ]
     },
     {
-      "id": "forest_green",
-      "label": "ಕಾಡಿನ ಸೌಂದರ್ಯ (Forest)",
-      "colors": ["#A8D5BA", "#7FB09B", "#5A9367", "#3F6844", "#2E4634"]
+      "id": "ocean_sky",
+      "label": "ಸಾಗರ ಮತ್ತು ಆಕಾಶ (Ocean & Sky)",
+      "colors": [
+        "#0047AB", "#0F52BA", "#4169E1", "#3F96D5", "#376E8B", "#87CEEB", 
+        "#AFEEEE", "#99B9C3", "#A7BDD3", "#C4CFD5", "#6C8D8E"
+      ]
     },
     {
-      "id": "london_fashion",
-      "label": "ಫ್ಯಾಷನ್ (Fashion)",
-      "colors": ["#F1F2F2", "#CCC9D2", "#9B8047", "#E03C3E", "#006E6D", "#4D3039", "#3F465F"]
+      "id": "crimson_embers",
+      "label": "ಕೆಂಪು ಮತ್ತು ಕೆಂಡ (Crimson & Embers)",
+      "colors": [
+        "#9D0D0D", "#E52326", "#FF2400", "#E03C3E", "#D34F3F", "#FF7518", 
+        "#F48D2A", "#DA8A67", "#A46754", "#9E5E55"
+      ]
     },
     {
-      "id": "ocean_blue",
-      "label": "ಸಾಗರದ ನೀಲಿ (Ocean)",
-      "colors": ["#AFEEEE", "#87CEEB", "#4169E1", "#0047AB", "#4B0082", "#000080", "#191970"]
-    },
-    {
-      "id": "royal_sophistication",
-      "label": "ರಾಜ ವೈಭವ (Royal)",
-      "colors": ["#DDBE9E", "#A7BDD3", "#7A573F", "#93262E", "#6C2C2D", "#5D353B", "#123C52"]
-    },
-    {
-      "id": "trend_guide_25_26",
-      "label": "ಟ್ರೆಂಡ್ ಗೈಡ್ 26 (Trend Guide)",
-      "colors": ["#FAFAD2", "#DA8A67", "#FF7518", "#FF2400", "#8DB600", "#0F52BA", "#202020"]
-    },
-    {
-      "id": "behr_color_trends_2026",
-      "label": "ಬೆಹರ್ ಕಲರ್ ಟ್ರೆಂಡ್ಸ್ 2026 (Behr Color Trends 2026)",
-      "colors": ["#E4DBD3", "#AEC0BE", "#CBA88E", "#677876", "#78908A", "#A46754", "#C5C1B5", "#E1D5C2", "#F1EDE2", "#748392", "#643F40", "#A1988A", "#D4A96B", "#B2B7A0", "#384C58", "#6D676B", "#56463D", "#A18C75", "#797C63", "#4A4B4B"]
-    },
-    {
-      "id": "all_paint_color_trends_2026",
-      "label": "2026 ಪೇಂಟ್ ಕಲರ್ ಟ್ರೆಂಡ್ಸ್ (2026 Paint Color Trends)",
-      "colors": ["#C4CFD5", "#A8C4C1", "#A5B9B5", "#AABBB8", "#9EAC9E", "#9DB395", "#98AC8D", "#6C8D8E", "#2A4B50", "#E1DFBE", "#C8BE63", "#9FA45A", "#80856C", "#6C6E5C", "#5D5B4D", "#545140", "#5C6B59", "#4A5B5E", "#EBE1D3", "#E5D7C6", "#DCD0C9", "#D6C9B5", "#D8C9B5", "#C2B6B0", "#C2B6AF", "#B6A68F", "#9B8E88", "#B86F63", "#B1655D", "#B35845", "#A1665D", "#8C4331", "#753428", "#6D3223", "#663833", "#533334"]
-    },
-    {
-      "id": "colours_of_the_year_2026",
-      "label": "2026 ವರ್ಷದ ಬಣ್ಣಗಳು (2026 Colours of the Year)",
-      "colors": ["#E8E7E3", "#59514F", "#D4A86C", "#B4A38A", "#4B5947", "#9EACA1", "#C2B5B4", "#E3D8C8", "#9E5E55", "#71352A", "#5D7571"]
+      "id": "whispering_clouds",
+      "label": "ಮೋಡಗಳ ಪಿಸುಮಾತು (Whispering Clouds)",
+      "colors": [
+        "#FFFFFF", "#F1F2F2", "#E5E6EB", "#E8E7E3", "#F1EDE2", "#E4DBD3", 
+        "#E1D5C2", "#E3D8C8", "#DCD0C9", "#D6C9B5", "#D8C9B5", "#C5C1B5", 
+        "#C2B6B0", "#C2B6AF", "#C2B5B4", "#CCC9D2", "#A1988A", "#9B8E88", 
+        "#8E7D73", "#748392", "#6D676B"
+      ]
     }
   ]
 }
