@@ -2,45 +2,387 @@
   "version": 1,
   "templates": [
     {
-      "id": "tdt_munjane_001",
-      "name": "Munjane Greetings",
-      "category": "Style",
+      "id": "tdt_travel_coastal_001",
+      "name": "Coastal Wanderlust",
+      "category": "Premium",
+      "textShape": "wave",
+      "textCurveAmount": 1.0,
+      "shadowColor": "#004080",
+      "shadowBlur": 4,
+      "shadowDistance": 4,
+      "shadowAngle": 45,
+      "shadowOpacity": 0.6,
       "lines": [
         {
-          "text": "ಮುಂಜಾನೆ",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 64,
-          "color": "#FF5CA8",
+          "text": "ಕಡಲ ತೀರದ ಪಯಣ",
+          "fontFamily": "Padyakke",
+          "fontSize": 56,
+          "color": "#00E5FF",
           "isBold": true,
           "letterSpacing": 2
         },
         {
-          "text": "ಶುಭ ನಮನಗಳು",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 36,
-          "color": "#FFB800",
-          "isBold": true,
-          "letterSpacing": 1
-        },
-        {
-          "text": "ನಿಮ್ಮ ದಿನ ಚೆನ್ನಾಗಿರಲಿ",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 36,
-          "color": "#FFB800",
+          "text": "ಅಲೆಯಂತೆ ಅಲೆಮಾರಿಯ ಮನ...",
+          "fontFamily": "Hubballi",
+          "fontSize": 30,
+          "color": "#FFFFFF",
           "isBold": false,
           "letterSpacing": 1
         }
       ],
-      "stickers": [
+      "stickers": []
+    },
+    {
+      "id": "tdt_nature_mist_002",
+      "name": "Misty Mountains",
+      "category": "Premium",
+      "textBgColor": "#1B3A20",
+      "textBgPaddingX": 20,
+      "textBgPaddingY": 12,
+      "textBgEdge": "rounded",
+      "textStroke": 2,
+      "textStrokeColor": "#A5D6A7",
+      "lines": [
         {
-          "src": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/FD002.webp",
-          "x": 190,
-          "y": 15,
-          "scale": 1.0,
-          "rotation": 0,
-          "isTintable": true
+          "text": "ಮಲೆನಾಡ ಮಂಜಲ್ಲಿ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 48,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಹಸಿರಿನ ಉಸಿರು",
+          "fontFamily": "Hubballi",
+          "fontSize": 28,
+          "color": "#A5D6A7",
+          "isBold": true,
+          "letterSpacing": 2
         }
-      ]
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_cinema_popart_003",
+      "name": "Cinematic 3D",
+      "category": "Premium",
+      "textShape": "arc",
+      "textCurveAmount": 1.2,
+      "shadowColor": "#000000",
+      "shadowBlur": 0,
+      "shadowDistance": 8,
+      "shadowAngle": 135,
+      "shadowOpacity": 1.0,
+      "textStroke": 3,
+      "textStrokeColor": "#000000",
+      "lines": [
+        {
+          "text": "ಬಣ್ಣದ ಬದುಕು",
+          "fontFamily": "Padyakke",
+          "fontSize": 64,
+          "color": "#FFC107",
+          "isBold": true,
+          "letterSpacing": 2
+        },
+        {
+          "text": "ಕ್ಯಾಮೆರಾ ಕಣ್ಣಲ್ಲಿ...",
+          "fontFamily": "Padyakke",
+          "fontSize": 40,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_quote_dvg_004",
+      "name": "DVG Kagga Wisdom",
+      "category": "Premium",
+      "textBgColor": "#2D241E",
+      "textBgPaddingX": 24,
+      "textBgPaddingY": 16,
+      "textBgEdge": "square",
+      "shadowColor": "#000000",
+      "shadowBlur": 10,
+      "shadowDistance": 5,
+      "shadowAngle": 90,
+      "shadowOpacity": 0.5,
+      "lines": [
+        {
+          "text": "ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ...",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 42,
+          "color": "#E6C280",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು.",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 42,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1
+        },
+        {
+          "text": "— ಡಿ.ವಿ.ಜಿ",
+          "fontFamily": "Hubballi",
+          "fontSize": 24,
+          "color": "#AAAAAA",
+          "isBold": false,
+          "letterSpacing": 2
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_roadtrip_005",
+      "name": "Highway Roadtrip",
+      "category": "Premium",
+      "textStroke": 4,
+      "textStrokeColor": "#F9A825",
+      "shadowColor": "#000000",
+      "shadowBlur": 0,
+      "shadowDistance": 6,
+      "shadowAngle": 135,
+      "shadowOpacity": 0.8,
+      "lines": [
+        {
+          "text": "ದಾರಿ ಯಾವುದಯ್ಯ",
+          "fontFamily": "Padyakke",
+          "fontSize": 50,
+          "color": "#212121",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಊರು ಯಾವುದಯ್ಯ",
+          "fontFamily": "Padyakke",
+          "fontSize": 50,
+          "color": "#212121",
+          "isBold": true,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_quote_basavanna_006",
+      "name": "Vachana Classic",
+      "category": "Premium",
+      "textBgColor": "#4A148C",
+      "textBgPaddingX": 15,
+      "textBgPaddingY": 15,
+      "textBgEdge": "circle",
+      "textStroke": 1,
+      "textStrokeColor": "#FFFFFF",
+      "lines": [
+        {
+          "text": "ಕಳಬೇಡ, ಕೊಲಬೇಡ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 45,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ.",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 40,
+          "color": "#E1BEE7",
+          "isBold": false,
+          "letterSpacing": 1
+        },
+        {
+          "text": "— ಬಸವಣ್ಣ",
+          "fontFamily": "Hubballi",
+          "fontSize": 20,
+          "color": "#B39DDB",
+          "isBold": false,
+          "letterSpacing": 2
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_romantic_bendre_007",
+      "name": "Bendre Love",
+      "category": "Premium",
+      "textShape": "wave",
+      "textCurveAmount": -0.8,
+      "shadowColor": "#D81B60",
+      "shadowBlur": 15,
+      "shadowDistance": 0,
+      "shadowAngle": 0,
+      "shadowOpacity": 0.5,
+      "lines": [
+        {
+          "text": "ಒಲವೇ ವಿಸ್ಮಯ",
+          "fontFamily": "Padyakke",
+          "fontSize": 60,
+          "color": "#FFC0CB",
+          "isBold": true,
+          "letterSpacing": 2
+        },
+        {
+          "text": "ಬದುಕಿನ ಅತಿಮಧುರ ಕಾವ್ಯ...",
+          "fontFamily": "Hubballi",
+          "fontSize": 28,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_popart_boom_008",
+      "name": "Super Pop Art",
+      "category": "Premium",
+      "textShape": "arc",
+      "textCurveAmount": 1.8,
+      "shadowColor": "#D50000",
+      "shadowBlur": 0,
+      "shadowDistance": 10,
+      "shadowAngle": 120,
+      "shadowOpacity": 1.0,
+      "textStroke": 4,
+      "textStrokeColor": "#FFFFFF",
+      "lines": [
+        {
+          "text": "ಸಂಭ್ರಮ!",
+          "fontFamily": "Padyakke",
+          "fontSize": 72,
+          "color": "#FFEA00",
+          "isBold": true,
+          "letterSpacing": 4
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_evening_sunset_009",
+      "name": "Golden Sunset",
+      "category": "Premium",
+      "shadowColor": "#E65100",
+      "shadowBlur": 8,
+      "shadowDistance": 3,
+      "shadowAngle": 90,
+      "shadowOpacity": 0.7,
+      "lines": [
+        {
+          "text": "ಮುಸ್ಸಂಜೆಯ ಮಾತು",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 52,
+          "color": "#FFB300",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಮೌನವೇ ಅತಿಮಧುರ ಸಂಗೀತ",
+          "fontFamily": "Hubballi",
+          "fontSize": 26,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_monsoon_rain_010",
+      "name": "Monsoon Memories",
+      "category": "Premium",
+      "textShape": "wave",
+      "textCurveAmount": 1.5,
+      "textStroke": 1,
+      "textStrokeColor": "#81D4FA",
+      "textBgColor": "#01579B",
+      "textBgPaddingX": 10,
+      "textBgPaddingY": 10,
+      "textBgEdge": "rounded",
+      "lines": [
+        {
+          "text": "ಸುರಿವ ಮಳೆಯಲಿ",
+          "fontFamily": "Padyakke",
+          "fontSize": 48,
+          "color": "#E1F5FE",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಬಿಸಿ ಬಿಸಿ ಕಾಫಿ, ಹಳೇ ನೆನಪು...",
+          "fontFamily": "Hubballi",
+          "fontSize": 28,
+          "color": "#B3E5FC",
+          "isBold": false,
+          "letterSpacing": 0
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_friendship_sneha_011",
+      "name": "Forever Friends",
+      "category": "Premium",
+      "textShape": "arc",
+      "textCurveAmount": -1.2,
+      "shadowColor": "#000000",
+      "shadowBlur": 5,
+      "shadowDistance": 2,
+      "shadowAngle": 45,
+      "shadowOpacity": 0.9,
+      "lines": [
+        {
+          "text": "ಜೀವದ ಗೆಳೆಯ",
+          "fontFamily": "Padyakke",
+          "fontSize": 55,
+          "color": "#64DD17",
+          "isBold": true,
+          "letterSpacing": 2
+        },
+        {
+          "text": "ಜೊತೆಯಲಿ ನೀನಿದ್ದರೆ ಹೆಜ್ಜೆಗೆ ಬಲ",
+          "fontFamily": "Hubballi",
+          "fontSize": 26,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_motivation_morning_012",
+      "name": "Morning Power",
+      "category": "Premium",
+      "textStroke": 2,
+      "textStrokeColor": "#212121",
+      "shadowColor": "#FF6D00",
+      "shadowBlur": 0,
+      "shadowDistance": 6,
+      "shadowAngle": 135,
+      "shadowOpacity": 1.0,
+      "lines": [
+        {
+          "text": "ಹೊಸ ದಿನ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 60,
+          "color": "#FAFAFA",
+          "isBold": true,
+          "letterSpacing": 2
+        },
+        {
+          "text": "ಹೊಸ ಭರವಸೆ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 50,
+          "color": "#FFD600",
+          "isBold": true,
+          "letterSpacing": 2
+        }
+      ],
+      "stickers": []
     }
   ]
 }
