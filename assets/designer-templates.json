@@ -2,41 +2,43 @@
   "version": 1,
   "templates": [
     {
-      "id": "tdt_sample_001",
-      "name": "Bold Intro",
+      "id": "tdt_munjane_001",
+      "name": "Munjane Greetings",
       "category": "Style",
       "lines": [
         {
-          "text": "WELCOME",
-          "fontFamily": "ATSSmooth",
-          "fontSize": 48,
-          "color": "#DDC616",
+          "text": "ಮುಂಜಾನೆ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 64,
+          "color": "#FF5CA8",
           "isBold": true,
-          "letterSpacing": 6
-        },
-        {
-          "text": "ಅಚ್ಚು ಕನ್ನಡ",
-          "fontFamily": "Padyakke",
-          "fontSize": 32,
-          "color": "#FFFFFF",
           "letterSpacing": 2
         },
         {
-          "text": "— COMING SOON —",
-          "fontFamily": "Hubballi",
-          "fontSize": 18,
-          "color": "#888888",
+          "text": "ಶುಭ ನಮನಗಳು",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 36,
+          "color": "#FFB800",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ನಿಮ್ಮ ದಿನ ಚೆನ್ನಾಗಿರಲಿ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 36,
+          "color": "#FFB800",
+          "isBold": false,
           "letterSpacing": 1
         }
       ],
       "stickers": [
         {
-          "src": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/FF001.webp",
-          "x": 120,
-          "y": -80,
-          "scale": 0.8,
-          "rotation": -15,
-          "isTintable": false
+          "src": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/FD002.webp",
+          "x": 190,
+          "y": 15,
+          "scale": 1.0,
+          "rotation": 0,
+          "isTintable": true
         }
       ]
     }
