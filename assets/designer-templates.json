@@ -2,29 +2,74 @@
   "version": 1,
   "templates": [
     {
-      "id": "tdt_travel_coastal_001",
-      "name": "Coastal Wanderlust",
+      "id": "tdt_wedding_quote_013",
+      "name": "True Marriage Bond",
       "category": "Premium",
-      "textShape": "wave",
-      "textCurveAmount": 1.0,
-      "shadowColor": "#004080",
-      "shadowBlur": 4,
+      
+      "textStroke": 2,
+      "textStrokeColor": "#3E0A18",
+      
+      "shadowColor": "#000000",
+      "shadowBlur": 8,
       "shadowDistance": 4,
-      "shadowAngle": 45,
+      "shadowAngle": 135,
       "shadowOpacity": 0.6,
+      
       "lines": [
         {
-          "text": "ಕಡಲ ತೀರದ ಪಯಣ",
-          "fontFamily": "Padyakke",
-          "fontSize": 56,
-          "color": "#00E5FF",
+          "text": "ಮಂಟಪದಲ್ಲಾಗುವ ಮದುವೆ ಜಗತ್ತಿಗೆ ತೋರಿಸುವುದಕ್ಕಾದರೆ.",
+          "fontFamily": "Hubballi",
+          "fontSize": 26,
+          "color": "#E0E0E0",
+          "isBold": false,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಮನಸಿನಲ್ಲಾಗುವ ಮದುವೆ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 42,
+          "color": "#FFD700",
           "isBold": true,
           "letterSpacing": 2
         },
         {
-          "text": "ಅಲೆಯಂತೆ ಅಲೆಮಾರಿಯ ಮನ...",
+          "text": "ಜೀವಮಾನದುದ್ದಕ್ಕೂ ಭಾಂದವ್ಯ ಗಟ್ಟಿಯಾಗಿರುವುದಕ್ಕೆ.",
           "fontFamily": "Hubballi",
-          "fontSize": 30,
+          "fontSize": 26,
+          "color": "#E0E0E0",
+          "isBold": false,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_time_quote_014",
+      "name": "Value of Time",
+      "category": "Premium",
+      
+      "textShape": "wave",
+      "textCurveAmount": -1.0,
+      
+      "shadowColor": "#0D47A1",
+      "shadowBlur": 10,
+      "shadowDistance": 4,
+      "shadowAngle": 90,
+      "shadowOpacity": 0.6,
+      
+      "lines": [
+        {
+          "text": "ಕಾಲ ಯಾರಿಗಾಗಿಯೂ ಕಾಯುವುದಿಲ್ಲ,",
+          "fontFamily": "Padyakke",
+          "fontSize": 45,
+          "color": "#90CAF9",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಕಳೆದು ಹೋದ ಸಮಯ ಮರಳಿ ಬರುವುದಿಲ್ಲ.",
+          "fontFamily": "Hubballi",
+          "fontSize": 32,
           "color": "#FFFFFF",
           "isBold": false,
           "letterSpacing": 1
@@ -33,320 +78,128 @@
       "stickers": []
     },
     {
-      "id": "tdt_nature_mist_002",
-      "name": "Misty Mountains",
+      "id": "tdt_mother_love_015",
+      "name": "Mother's Love",
       "category": "Premium",
-      "textBgColor": "#1B3A20",
-      "textBgPaddingX": 20,
-      "textBgPaddingY": 12,
-      "textBgEdge": "rounded",
+      
       "textStroke": 2,
-      "textStrokeColor": "#A5D6A7",
+      "textStrokeColor": "#AD1457",
+      
+      "shadowColor": "#F06292",
+      "shadowBlur": 15,
+      "shadowDistance": 0,
+      "shadowAngle": 0,
+      "shadowOpacity": 0.8,
+      
       "lines": [
         {
-          "text": "ಮಲೆನಾಡ ಮಂಜಲ್ಲಿ",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 48,
-          "color": "#FFFFFF",
-          "isBold": true,
+          "text": "ಭೂಮಿಗಿಂತ ಭಾರವಾದದ್ದು",
+          "fontFamily": "Hubballi",
+          "fontSize": 36,
+          "color": "#FCE4EC",
+          "isBold": false,
           "letterSpacing": 1
         },
         {
-          "text": "ಹಸಿರಿನ ಉಸಿರು",
-          "fontFamily": "Hubballi",
-          "fontSize": 28,
-          "color": "#A5D6A7",
+          "text": "ತಾಯಿಯ ಪ್ರೀತಿ",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 64,
+          "color": "#FFFFFF",
           "isBold": true,
           "letterSpacing": 2
+        },
+        {
+          "text": "ಆಕಾಶಕ್ಕಿಂತ ಮಿಗಿಲಾದದ್ದು ತಾಯಿಯ ಮಮತೆ.",
+          "fontFamily": "Hubballi",
+          "fontSize": 30,
+          "color": "#FCE4EC",
+          "isBold": false,
+          "letterSpacing": 1
         }
       ],
       "stickers": []
     },
     {
-      "id": "tdt_cinema_popart_003",
-      "name": "Cinematic 3D",
+      "id": "tdt_hardwork_success_016",
+      "name": "Hardwork Pop-Art",
       "category": "Premium",
-      "textShape": "arc",
-      "textCurveAmount": 1.2,
-      "shadowColor": "#000000",
+      
+      "shadowColor": "#1B5E20",
       "shadowBlur": 0,
       "shadowDistance": 8,
       "shadowAngle": 135,
       "shadowOpacity": 1.0,
+      
       "textStroke": 3,
-      "textStrokeColor": "#000000",
+      "textStrokeColor": "#1B5E20",
+      
       "lines": [
         {
-          "text": "ಬಣ್ಣದ ಬದುಕು",
-          "fontFamily": "Padyakke",
-          "fontSize": 64,
-          "color": "#FFC107",
-          "isBold": true,
-          "letterSpacing": 2
-        },
-        {
-          "text": "ಕ್ಯಾಮೆರಾ ಕಣ್ಣಲ್ಲಿ...",
-          "fontFamily": "Padyakke",
-          "fontSize": 40,
-          "color": "#FFFFFF",
-          "isBold": true,
-          "letterSpacing": 1
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_quote_dvg_004",
-      "name": "DVG Kagga Wisdom",
-      "category": "Premium",
-      "textBgColor": "#2D241E",
-      "textBgPaddingX": 24,
-      "textBgPaddingY": 16,
-      "textBgEdge": "square",
-      "shadowColor": "#000000",
-      "shadowBlur": 10,
-      "shadowDistance": 5,
-      "shadowAngle": 90,
-      "shadowOpacity": 0.5,
-      "lines": [
-        {
-          "text": "ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ...",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 42,
-          "color": "#E6C280",
-          "isBold": true,
-          "letterSpacing": 1
-        },
-        {
-          "text": "ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು.",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 42,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1
-        },
-        {
-          "text": "— ಡಿ.ವಿ.ಜಿ",
-          "fontFamily": "Hubballi",
-          "fontSize": 24,
-          "color": "#AAAAAA",
-          "isBold": false,
-          "letterSpacing": 2
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_roadtrip_005",
-      "name": "Highway Roadtrip",
-      "category": "Premium",
-      "textStroke": 4,
-      "textStrokeColor": "#F9A825",
-      "shadowColor": "#000000",
-      "shadowBlur": 0,
-      "shadowDistance": 6,
-      "shadowAngle": 135,
-      "shadowOpacity": 0.8,
-      "lines": [
-        {
-          "text": "ದಾರಿ ಯಾವುದಯ್ಯ",
-          "fontFamily": "Padyakke",
-          "fontSize": 50,
-          "color": "#212121",
-          "isBold": true,
-          "letterSpacing": 1
-        },
-        {
-          "text": "ಊರು ಯಾವುದಯ್ಯ",
-          "fontFamily": "Padyakke",
-          "fontSize": 50,
-          "color": "#212121",
-          "isBold": true,
-          "letterSpacing": 1
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_quote_basavanna_006",
-      "name": "Vachana Classic",
-      "category": "Premium",
-      "textBgColor": "#4A148C",
-      "textBgPaddingX": 15,
-      "textBgPaddingY": 15,
-      "textBgEdge": "circle",
-      "textStroke": 1,
-      "textStrokeColor": "#FFFFFF",
-      "lines": [
-        {
-          "text": "ಕಳಬೇಡ, ಕೊಲಬೇಡ",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 45,
-          "color": "#FFFFFF",
-          "isBold": true,
-          "letterSpacing": 1
-        },
-        {
-          "text": "ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ.",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 40,
-          "color": "#E1BEE7",
-          "isBold": false,
-          "letterSpacing": 1
-        },
-        {
-          "text": "— ಬಸವಣ್ಣ",
-          "fontFamily": "Hubballi",
-          "fontSize": 20,
-          "color": "#B39DDB",
-          "isBold": false,
-          "letterSpacing": 2
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_romantic_bendre_007",
-      "name": "Bendre Love",
-      "category": "Premium",
-      "textShape": "wave",
-      "textCurveAmount": -0.8,
-      "shadowColor": "#D81B60",
-      "shadowBlur": 15,
-      "shadowDistance": 0,
-      "shadowAngle": 0,
-      "shadowOpacity": 0.5,
-      "lines": [
-        {
-          "text": "ಒಲವೇ ವಿಸ್ಮಯ",
-          "fontFamily": "Padyakke",
-          "fontSize": 60,
-          "color": "#FFC0CB",
-          "isBold": true,
-          "letterSpacing": 2
-        },
-        {
-          "text": "ಬದುಕಿನ ಅತಿಮಧುರ ಕಾವ್ಯ...",
-          "fontFamily": "Hubballi",
-          "fontSize": 28,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_popart_boom_008",
-      "name": "Super Pop Art",
-      "category": "Premium",
-      "textShape": "arc",
-      "textCurveAmount": 1.8,
-      "shadowColor": "#D50000",
-      "shadowBlur": 0,
-      "shadowDistance": 10,
-      "shadowAngle": 120,
-      "shadowOpacity": 1.0,
-      "textStroke": 4,
-      "textStrokeColor": "#FFFFFF",
-      "lines": [
-        {
-          "text": "ಸಂಭ್ರಮ!",
-          "fontFamily": "Padyakke",
-          "fontSize": 72,
-          "color": "#FFEA00",
-          "isBold": true,
-          "letterSpacing": 4
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_evening_sunset_009",
-      "name": "Golden Sunset",
-      "category": "Premium",
-      "shadowColor": "#E65100",
-      "shadowBlur": 8,
-      "shadowDistance": 3,
-      "shadowAngle": 90,
-      "shadowOpacity": 0.7,
-      "lines": [
-        {
-          "text": "ಮುಸ್ಸಂಜೆಯ ಮಾತು",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 52,
-          "color": "#FFB300",
-          "isBold": true,
-          "letterSpacing": 1
-        },
-        {
-          "text": "ಮೌನವೇ ಅತಿಮಧುರ ಸಂಗೀತ",
-          "fontFamily": "Hubballi",
-          "fontSize": 26,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_monsoon_rain_010",
-      "name": "Monsoon Memories",
-      "category": "Premium",
-      "textShape": "wave",
-      "textCurveAmount": 1.5,
-      "textStroke": 1,
-      "textStrokeColor": "#81D4FA",
-      "textBgColor": "#01579B",
-      "textBgPaddingX": 10,
-      "textBgPaddingY": 10,
-      "textBgEdge": "rounded",
-      "lines": [
-        {
-          "text": "ಸುರಿವ ಮಳೆಯಲಿ",
-          "fontFamily": "Padyakke",
-          "fontSize": 48,
-          "color": "#E1F5FE",
-          "isBold": true,
-          "letterSpacing": 1
-        },
-        {
-          "text": "ಬಿಸಿ ಬಿಸಿ ಕಾಫಿ, ಹಳೇ ನೆನಪು...",
-          "fontFamily": "Hubballi",
-          "fontSize": 28,
-          "color": "#B3E5FC",
-          "isBold": false,
-          "letterSpacing": 0
-        }
-      ],
-      "stickers": []
-    },
-    {
-      "id": "tdt_friendship_sneha_011",
-      "name": "Forever Friends",
-      "category": "Premium",
-      "textShape": "arc",
-      "textCurveAmount": -1.2,
-      "shadowColor": "#000000",
-      "shadowBlur": 5,
-      "shadowDistance": 2,
-      "shadowAngle": 45,
-      "shadowOpacity": 0.9,
-      "lines": [
-        {
-          "text": "ಜೀವದ ಗೆಳೆಯ",
+          "text": "ಬೆವರು ಸುರಿಸದೆ",
           "fontFamily": "Padyakke",
           "fontSize": 55,
-          "color": "#64DD17",
+          "color": "#C8E6C9",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಸಿಕ್ಕ ಯಶಸ್ಸು",
+          "fontFamily": "Padyakke",
+          "fontSize": 70,
+          "color": "#FFEB3B",
           "isBold": true,
           "letterSpacing": 2
         },
         {
-          "text": "ಜೊತೆಯಲಿ ನೀನಿದ್ದರೆ ಹೆಜ್ಜೆಗೆ ಬಲ",
+          "text": "ಹೆಚ್ಚು ಕಾಲ ಉಳಿಯುವುದಿಲ್ಲ.",
           "fontFamily": "Hubballi",
-          "fontSize": 26,
+          "fontSize": 32,
           "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 1
+        }
+      ],
+      "stickers": []
+    },
+    {
+      "id": "tdt_smile_wealth_017",
+      "name": "Smile is Wealth",
+      "category": "Premium",
+      
+      "textShape": "arc",
+      "textCurveAmount": 1.2,
+      
+      "textStroke": 3,
+      "textStrokeColor": "#E65100",
+      
+      "shadowColor": "#000000",
+      "shadowBlur": 0,
+      "shadowDistance": 5,
+      "shadowAngle": 135,
+      "shadowOpacity": 0.8,
+      
+      "lines": [
+        {
+          "text": "ನಿಮ್ಮ ನಗುವು",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 50,
+          "color": "#FFE082",
+          "isBold": true,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಇನ್ನೊಬ್ಬರ ಮುಖದಲ್ಲಿ ನಗು ತರುವಂತಿರಲಿ,",
+          "fontFamily": "Hubballi",
+          "fontSize": 28,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1
+        },
+        {
+          "text": "ಅದೇ ನಿಜವಾದ ಸಂಪತ್ತು.",
+          "fontFamily": "SRIRAJU - 4",
+          "fontSize": 36,
+          "color": "#FFE082",
           "isBold": false,
           "letterSpacing": 1
         }
@@ -354,32 +207,43 @@
       "stickers": []
     },
     {
-      "id": "tdt_motivation_morning_012",
-      "name": "Morning Power",
+      "id": "tdt_nature_breath_018",
+      "name": "Nature's Breath",
       "category": "Premium",
+      
       "textStroke": 2,
-      "textStrokeColor": "#212121",
-      "shadowColor": "#FF6D00",
-      "shadowBlur": 0,
-      "shadowDistance": 6,
-      "shadowAngle": 135,
-      "shadowOpacity": 1.0,
+      "textStrokeColor": "#004D40",
+      
+      "shadowColor": "#000000",
+      "shadowBlur": 10,
+      "shadowDistance": 4,
+      "shadowAngle": 90,
+      "shadowOpacity": 0.7,
+      
       "lines": [
         {
-          "text": "ಹೊಸ ದಿನ",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 60,
-          "color": "#FAFAFA",
+          "text": "ಗಿಡ ಮರಗಳ ಉಸಿರೇ",
+          "fontFamily": "Padyakke",
+          "fontSize": 48,
+          "color": "#B2DFDB",
           "isBold": true,
           "letterSpacing": 2
         },
         {
-          "text": "ಹೊಸ ಭರವಸೆ",
-          "fontFamily": "SRIRAJU - 4",
-          "fontSize": 50,
-          "color": "#FFD600",
+          "text": "ನಮ್ಮೆಲ್ಲರ ಉಸಿರು.",
+          "fontFamily": "Padyakke",
+          "fontSize": 48,
+          "color": "#FFFFFF",
           "isBold": true,
           "letterSpacing": 2
+        },
+        {
+          "text": "ಪ್ರಕೃತಿಯೇ ದೇವರಿರುವ ನೆಲೆ.",
+          "fontFamily": "Hubballi",
+          "fontSize": 26,
+          "color": "#E0F2F1",
+          "isBold": false,
+          "letterSpacing": 1
         }
       ],
       "stickers": []
