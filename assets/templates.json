@@ -16,7 +16,7 @@
           "scale": 1,
           "rotation": 0,
           "color": "#FBBF24",
-          "fontFamily": "Mukta-Bold",
+          "fontFamily": "Karnata GTN",
           "fontSize": 48,
           "isBold": true,
           "shadowColor": "#000000",
@@ -51,13 +51,104 @@
           "scale": 1,
           "rotation": 0,
           "color": "#FFFFFF",
-          "fontFamily": "TiroKannada-Regular",
+          "fontFamily": "SRIRAJU",
           "fontSize": 42,
           "textBgColor": "gradient:#DC2626,#FBBF24",
           "textBgPaddingX": 16,
           "textBgPaddingY": 8,
           "textBgEdge": "rounded",
           "textBgOpacity": 1
+        }
+      ]
+    },
+    {
+      "id": "ugadi_01",
+      "name": "Ugadi Festival",
+      "isPro": false,
+      "previewImg": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/previews/ugadi_01.jpg",
+      "bgImage": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/backgrounds/ugadi_bg.jpg",
+      "elements": [
+        {
+          "id": "text_1",
+          "type": "text",
+          "content": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+          "x": 0,
+          "y": -120,
+          "scale": 1.1,
+          "rotation": 0,
+          "color": "#16A34A",
+          "fontFamily": "Kannada Kai Baraha",
+          "fontSize": 46,
+          "shadowColor": "#FFFFFF",
+          "shadowBlur": 5
+        },
+        {
+          "id": "image_1",
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/bevu_bella.png",
+          "x": 0,
+          "y": 80,
+          "scale": 1.2,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "id": "dasara_01",
+      "name": "Mysuru Dasara",
+      "isPro": true,
+      "previewImg": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/previews/dasara_01.jpg",
+      "bgImage": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/backgrounds/dasara_bg.jpg",
+      "elements": [
+        {
+          "id": "text_1",
+          "type": "text",
+          "content": "ನಾಡಹಬ್ಬ ದಸರಾ ಶುಭಾಶಯಗಳು",
+          "x": 0,
+          "y": -160,
+          "scale": 1,
+          "rotation": 0,
+          "color": "#FFD700",
+          "fontFamily": "Karnata GTN",
+          "fontSize": 52,
+          "isBold": true,
+          "shadowColor": "#000000",
+          "shadowBlur": 15
+        },
+        {
+          "id": "image_1",
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/elephant_ambari.png",
+          "x": 0,
+          "y": 40,
+          "scale": 1.8,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "id": "sankranti_01",
+      "name": "Makara Sankranti",
+      "isPro": false,
+      "previewImg": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/previews/sankranti_01.jpg",
+      "bgImage": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/backgrounds/sankranti_bg.jpg",
+      "elements": [
+        {
+          "id": "text_1",
+          "type": "text",
+          "content": "ಮಕರ ಸಂಕ್ರಾಂತಿ ಶುಭಾಶಯಗಳು",
+          "x": 0,
+          "y": -90,
+          "scale": 1,
+          "rotation": 0,
+          "color": "#FFFFFF",
+          "fontFamily": "SRIRAJU",
+          "fontSize": 40,
+          "textBgColor": "#D97706",
+          "textBgPaddingX": 20,
+          "textBgPaddingY": 10,
+          "textBgEdge": "rounded",
+          "textBgOpacity": 0.9
         }
       ]
     }
