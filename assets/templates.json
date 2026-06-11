@@ -1,0 +1,65 @@
+{
+  "templates": [
+    {
+      "id": "deepavali_01",
+      "name": "Deepavali Festival",
+      "isPro": true,
+      "previewImg": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/previews/deepavali_01.jpg",
+      "bgImage": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/backgrounds/deepavali_bg.jpg",
+      "elements": [
+        {
+          "id": "text_1",
+          "type": "text",
+          "content": "ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+          "x": 0,
+          "y": -150,
+          "scale": 1,
+          "rotation": 0,
+          "color": "#FBBF24",
+          "fontFamily": "Mukta-Bold",
+          "fontSize": 48,
+          "isBold": true,
+          "shadowColor": "#000000",
+          "shadowBlur": 10,
+          "textShape": "arc",
+          "textCurveAmount": 15
+        },
+        {
+          "id": "image_1",
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/diya_glow.png",
+          "x": 0,
+          "y": 50,
+          "scale": 1.5,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "id": "rajyotsava_01",
+      "name": "Rajyotsava Banner",
+      "isPro": false,
+      "previewImg": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/previews/rajyotsava_01.jpg",
+      "bgImage": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/backgrounds/rajyotsava_bg.jpg",
+      "elements": [
+        {
+          "id": "text_1",
+          "type": "text",
+          "content": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು",
+          "x": 0,
+          "y": -100,
+          "scale": 1,
+          "rotation": 0,
+          "color": "#FFFFFF",
+          "fontFamily": "TiroKannada-Regular",
+          "fontSize": 42,
+          "textBgColor": "gradient:#DC2626,#FBBF24",
+          "textBgPaddingX": 16,
+          "textBgPaddingY": 8,
+          "textBgEdge": "rounded",
+          "textBgOpacity": 1
+        }
+      ]
+    }
+  ]
+}
