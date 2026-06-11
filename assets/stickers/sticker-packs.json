@@ -1,0 +1,154 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/",
+  "packs": [
+    {
+      "id": "essentials",
+      "name": "ದಿನನಿತ್ಯ",
+      "stickers": [
+        { "id": "e1", "src": "AKN_C01.webp" },
+        { "id": "e2", "src": "KS11.webp" },
+        { "id": "e3", "src": "DE1.webp" },
+        { "id": "e4", "src": "DE2.webp" },
+        { "id": "e5", "src": "DE3.webp" },
+        { "id": "e6", "src": "DE4.webp" }
+      ]
+    },
+    {
+      "id": "namma_karnataka",
+      "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
+      "isTintable": true,
+      "stickers": [
+        { "id": "f1", "src": "AKN_C02.webp" },
+        { "id": "f2", "src": "AKN_C03.webp" },
+        { "id": "f3", "src": "KS01.webp" },
+        { "id": "f4", "src": "KS02.webp" },
+        { "id": "f5", "src": "KS03.webp" },
+        { "id": "f6", "src": "KS04.webp" },
+        { "id": "f7", "src": "KS05.webp" },
+        { "id": "f8", "src": "KS06.webp" },
+        { "id": "f9", "src": "KS07.webp" },
+        { "id": "f10", "src": "KS08.webp" },
+        { "id": "f11", "src": "KS09.webp" }
+      ]
+    },
+    {
+      "id": "birthday",
+      "name": "ಹುಟ್ಟು ಹಬ್ಬ",
+      "stickers": [
+        { "id": "h1", "src": "HBD01.webp" },
+        { "id": "h2", "src": "HBD02.webp" },
+        { "id": "h3", "src": "HBD03.webp" },
+        { "id": "h4", "src": "HBD04.webp" }
+      ]
+    },
+    {
+      "id": "rajyotsava",
+      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
+      "stickers": [
+        { "id": "j1", "src": "KN1.webp" },
+        { "id": "j2", "src": "KN2.webp" },
+        { "id": "j3", "src": "KN3.webp" },
+        { "id": "j4", "src": "KN4.webp" }
+      ]
+    },
+    {
+      "id": "Flower",
+      "name": "ಹೂವಿನ ಹಾರ",
+      "isTintable": true,
+      "stickers": [
+        { "id": "l1", "src": "FD001.webp" },
+        { "id": "l2", "src": "FD002.webp" },
+        { "id": "l3", "src": "FD003.webp" },
+        { "id": "l4", "src": "FD004.webp" },
+        { "id": "l5", "src": "FD005.webp" },
+        { "id": "l6", "src": "FD006.webp" },
+        { "id": "l7", "src": "FD007.webp" },
+        { "id": "l8", "src": "FD008.webp" },
+        { "id": "l9", "src": "FD009.webp" },
+        { "id": "l10", "src": "FD010.webp" },
+        { "id": "l11", "src": "FF001.webp" },
+        { "id": "l12", "src": "FF002.webp" }
+      ]
+    },
+    {
+      "id": "festival",
+      "name": "ಹಬ್ಬ ಹರಿದಿನ",
+      "stickers": [
+        { "id": "i1", "src": "DV01.webp" },
+        { "id": "i2", "src": "DV02.webp" },
+        { "id": "i3", "src": "DV03.webp" }
+      ]
+    },
+    {
+      "id": "shapes",
+      "name": "ಆಕಾರಗಳು",
+      "isTintable": true,
+      "stickers": [
+        { "id": "s1", "src": "S01.webp" },
+        { "id": "s2", "src": "S2.webp" },
+        { "id": "s3", "src": "S03.webp" },
+        { "id": "s4", "src": "S04.webp" },
+        { "id": "s5", "src": "S05.webp" },
+        { "id": "s6", "src": "S06.webp" },
+        { "id": "s7", "src": "S07.webp" },
+        { "id": "s8", "src": "S08.webp" },
+        { "id": "s9", "src": "S09.webp" },
+        { "id": "s10", "src": "S10.webp" },
+        { "id": "s11", "src": "S11.webp" },
+        { "id": "s12", "src": "S12.webp" },
+        { "id": "s13", "src": "S13.webp" },
+        { "id": "s14", "src": "S14.webp" },
+        { "id": "s15", "src": "S15.webp" }
+      ]
+    },
+    {
+      "id": "comic_bubbles",
+      "name": "ಕಾಮಿಕ್ ಬಬಲ್ಸ್",
+      "stickers": [
+        { "id": "cb1", "src": "CO01.webp" },
+        { "id": "cb2", "src": "CO02.webp" },
+        { "id": "cb3", "src": "CO03.webp" },
+        { "id": "cb4", "src": "CO04.webp" },
+        { "id": "cb5", "src": "CO05.webp" },
+        { "id": "cb6", "src": "CO06.webp" },
+        { "id": "cb7", "src": "CO07.webp" },
+        { "id": "cb8", "src": "CO08.webp" }
+      ]
+    },
+    {
+      "id": "markers",
+      "name": "ಗುರುತುಗಳು",
+      "isTintable": true,
+      "stickers": [
+        { "id": "mk1", "src": "MK01.webp" },
+        { "id": "mk2", "src": "MK02.webp" },
+        { "id": "mk3", "src": "MK03.webp" },
+        { "id": "mk4", "src": "MK04.webp" },
+        { "id": "mk5", "src": "MK05.webp" },
+        { "id": "mk6", "src": "MK06.webp" },
+        { "id": "mk7", "src": "MK07.webp" }
+      ]
+    },
+    {
+      "id": "sp_pack",
+      "name": "ಆಕಾರ",
+      "stickers": [
+        { "id": "sp1", "src": "SP01.webp" },
+        { "id": "sp2", "src": "SP02.webp" },
+        { "id": "sp3", "src": "SP03.webp" },
+        { "id": "sp4", "src": "SP04.webp" },
+        { "id": "sp5", "src": "SP05.webp" },
+        { "id": "sp6", "src": "SP06.webp" },
+        { "id": "sp7", "src": "SP07.webp" },
+        { "id": "sp8", "src": "SP08.webp" },
+        { "id": "sp9", "src": "SP09.webp" },
+        { "id": "sp10", "src": "SP10.webp" },
+        { "id": "sp11", "src": "SP11.webp" },
+        { "id": "sp12", "src": "SP12.webp" },
+        { "id": "sp13", "src": "SP13.webp" },
+        { "id": "sp14", "src": "SP14.webp" },
+        { "id": "sp15", "src": "SP15.webp" }
+      ]
+    }
+  ]
+}
