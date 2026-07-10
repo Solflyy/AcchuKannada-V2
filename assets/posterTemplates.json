@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "golden_title",
+      "name": "ಚಿನ್ನದ ಶೀರ್ಷಿಕೆ",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#D4AF37",
+      "gradientColors": ["#1a1200", "#3d2e00"],
+      "filterId": "lush",
+      "filterStrength": 0.7,
+      "adjustments": { "brightness": 0.05, "contrast": 0.15, "vignette": 0.45, "shadows": 0.2, "saturation": 0.1 },
+      "textLines": [
+        {
+          "text": "ಶೀರ್ಷಿಕೆ ಇಲ್ಲಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 48,
+          "color": "#FFD700",
+          "isBold": true,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.62,
+          "align": "center"
+        },
+        {
+          "text": "ಉಪಶೀರ್ಷಿಕೆ ಇಲ್ಲಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 20,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 3,
+          "xNorm": 0.5,
+          "yNorm": 0.75,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "dark_drama",
+      "name": "ಡಾರ್ಕ್ ಡ್ರಾಮ",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#FF4444",
+      "gradientColors": ["#1a0000", "#0a0000"],
+      "filterId": "noir",
+      "filterStrength": 0.85,
+      "adjustments": { "contrast": 0.3, "shadows": -0.15, "highlights": -0.1, "vignette": 0.6 },
+      "textLines": [
+        {
+          "text": "ಧೈರ್ಯದ ಮಾತು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 52,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.55,
+          "align": "center"
+        },
+        {
+          "text": "ಕನ್ನಡ ಕ್ರಿಯೇಟರ್",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 22,
+          "color": "#FF4444",
+          "isBold": false,
+          "letterSpacing": 4,
+          "xNorm": 0.5,
+          "yNorm": 0.67,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "minimal_clean",
+      "name": "ಮಿನಿಮಲ್ ಕ್ಲೀನ್",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#FFFFFF",
+      "gradientColors": ["#0a0a0a", "#1a1a1a"],
+      "filterId": "none",
+      "filterStrength": 0,
+      "adjustments": { "brightness": -0.05, "contrast": 0.05, "vignette": 0.25 },
+      "textLines": [
+        {
+          "text": "ಸರಳ ಸೊಬಗು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 44,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 5,
+          "xNorm": 0.5,
+          "yNorm": 0.65,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "cinema_strip",
+      "name": "ಸಿನಿಮಾ ಸ್ಟ್ರಿಪ್",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#FF6B00",
+      "gradientColors": ["#0a0500", "#1a0d00"],
+      "filterId": "cine",
+      "filterStrength": 0.8,
+      "adjustments": { "contrast": 0.2, "temp": -0.1, "vignette": 0.4, "fade": 0.05 },
+      "textLines": [
+        {
+          "text": "ಶೀರ್ಷಿಕೆ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 54,
+          "color": "#FF6B00",
+          "isBold": true,
+          "letterSpacing": 0,
+          "xNorm": 0.3,
+          "yNorm": 0.42,
+          "align": "left"
+        },
+        {
+          "text": "ವಿವರಣೆ ಇಲ್ಲಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 24,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.3,
+          "yNorm": 0.62,
+          "align": "left"
+        },
+        {
+          "text": "ವಾಚ್ ನೌ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 18,
+          "color": "#FFD700",
+          "isBold": false,
+          "letterSpacing": 3,
+          "xNorm": 0.3,
+          "yNorm": 0.75,
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "id": "festival_poster",
+      "name": "ಹಬ್ಬದ ಪೋಸ್ಟರ್",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#FF8C00",
+      "gradientColors": ["#1a0800", "#2a1200"],
+      "filterId": "vivid",
+      "filterStrength": 0.75,
+      "adjustments": { "saturation": 0.3, "vibrance": 0.2, "brightness": 0.05, "vignette": 0.3 },
+      "textLines": [
+        {
+          "text": "ಹಬ್ಬದ ಶುಭಾಶಯ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 46,
+          "color": "#FFD700",
+          "isBold": true,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.6,
+          "align": "center"
+        },
+        {
+          "text": "ನಿಮ್ಮ ಹೆಸರು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 22,
+          "color": "#FF8C00",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.73,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "quote_card",
+      "name": "ಉಕ್ತಿ ಕಾರ್ಡ್",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#C0A060",
+      "gradientColors": ["#080810", "#101020"],
+      "filterId": "matte",
+      "filterStrength": 0.6,
+      "adjustments": { "fade": 0.15, "contrast": 0.1, "brightness": -0.05, "vignette": 0.5 },
+      "textLines": [
+        {
+          "text": "❝",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 60,
+          "color": "#C0A060",
+          "isBold": false,
+          "letterSpacing": 0,
+          "xNorm": 0.5,
+          "yNorm": 0.38,
+          "align": "center"
+        },
+        {
+          "text": "ಇಲ್ಲಿ ಉಕ್ತಿ ಬರೆಯಿರಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 32,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.5,
+          "align": "center"
+        },
+        {
+          "text": "— ನಿಮ್ಮ ಹೆಸರು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 20,
+          "color": "#C0A060",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.63,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "news_headline",
+      "name": "ಸುದ್ದಿ ಶೀರ್ಷಿಕೆ",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#E53935",
+      "gradientColors": ["#0a0000", "#1a0000"],
+      "filterId": "none",
+      "filterStrength": 0,
+      "adjustments": { "contrast": 0.25, "saturation": -0.1, "vignette": 0.3 },
+      "textLines": [
+        {
+          "text": "ಮುಖ್ಯ ಸುದ್ದಿ ಇಲ್ಲಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 60,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 0,
+          "xNorm": 0.5,
+          "yNorm": 0.5,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "retro_vibe",
+      "name": "ರೆಟ್ರೋ ಶೈಲಿ",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#E8C970",
+      "gradientColors": ["#1a1000", "#2a1a00"],
+      "filterId": "vintage",
+      "filterStrength": 0.8,
+      "adjustments": { "temp": 0.2, "fade": 0.2, "grain": 0.2, "grainSize": 0.3, "vignette": 0.4 },
+      "textLines": [
+        {
+          "text": "ಹಳೆಯ ಸೊಗಸು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 42,
+          "color": "#E8C970",
+          "isBold": true,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.6,
+          "align": "center"
+        },
+        {
+          "text": "ಕ್ಲಾಸಿಕ್ ಸ್ಟೈಲ್",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 20,
+          "color": "#FFF8DC",
+          "isBold": false,
+          "letterSpacing": 5,
+          "xNorm": 0.5,
+          "yNorm": 0.74,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "nature_mood",
+      "name": "ಪ್ರಕೃತಿ ಮೂಡ್",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#4CAF50",
+      "gradientColors": ["#001a00", "#002a00"],
+      "filterId": "earthy",
+      "filterStrength": 0.65,
+      "adjustments": { "temp": -0.05, "saturation": 0.15, "shadows": 0.1, "vignette": 0.35 },
+      "textLines": [
+        {
+          "text": "ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 40,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.65,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "fb_cover",
+      "name": "ಫೇಸ್‌ಬುಕ್ ಕವರ್",
+      "category": "Facebook Cover",
+      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
+      "accentColor": "#1877F2",
+      "gradientColors": ["#000a1a", "#001025"],
+      "filterId": "cool",
+      "filterStrength": 0.5,
+      "adjustments": { "temp": -0.15, "contrast": 0.1, "vignette": 0.3 },
+      "textLines": [
+        {
+          "text": "ಪುಟದ ಹೆಸರು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 50,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.45,
+          "align": "center"
+        },
+        {
+          "text": "ಟ್ಯಾಗ್‌ಲೈನ್ ಇಲ್ಲಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 22,
+          "color": "#87CEEB",
+          "isBold": false,
+          "letterSpacing": 3,
+          "xNorm": 0.5,
+          "yNorm": 0.65,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "urban_style",
+      "name": "ಅರ್ಬನ್ ಸ್ಟೈಲ್",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#9C27B0",
+      "gradientColors": ["#080010", "#100020"],
+      "filterId": "fade",
+      "filterStrength": 0.55,
+      "adjustments": { "contrast": 0.2, "saturation": -0.15, "vignette": 0.5, "fade": 0.1 },
+      "textLines": [
+        {
+          "text": "ನಗರದ ಬದುಕು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 50,
+          "color": "#FFFFFF",
+          "isBold": true,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.52,
+          "align": "center"
+        },
+        {
+          "text": "ಸ್ಟ್ರೀಟ್ ಸ್ಟೈಲ್",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 22,
+          "color": "#9C27B0",
+          "isBold": false,
+          "letterSpacing": 6,
+          "xNorm": 0.5,
+          "yNorm": 0.64,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "celebration",
+      "name": "ಸಂಭ್ರಮ",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#FFD700",
+      "gradientColors": ["#1a1000", "#2a1800"],
+      "filterId": "golden",
+      "filterStrength": 0.7,
+      "adjustments": { "brightness": 0.1, "saturation": 0.25, "vibrance": 0.2, "temp": 0.15, "vignette": 0.3 },
+      "textLines": [
+        {
+          "text": "ಅಭಿನಂದನೆಗಳು",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 44,
+          "color": "#FFD700",
+          "isBold": true,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.58,
+          "align": "center"
+        },
+        {
+          "text": "ನಿಮ್ಮ ಸಂದೇಶ ಇಲ್ಲಿ",
+          "fontFamily": "NotoSerifKannada",
+          "fontSize": 22,
+          "color": "#FFF8DC",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.71,
+          "align": "center"
+        }
+      ]
+    }
+  ]
+}
