@@ -2,303 +2,502 @@
   "version": 1,
   "templates": [
     {
-      "id": "golden_title",
-      "name": "ಚಿನ್ನದ ಶೀರ್ಷಿಕೆ",
+      "id": "ig_post_vintage_memory",
+      "name": "ಹಳೆಯ ನೆನಪು",
       "category": "Instagram Post",
       "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#D4AF37",
-      "gradientColors": ["#1a1200", "#3d2e00"],
-      "filterId": "lush",
-      "filterStrength": 0.7,
-      "adjustments": { "brightness": 0.05, "contrast": 0.15, "vignette": 0.45, "shadows": 0.2, "saturation": 0.1 },
+      "accentColor": "#8C6A4B",
+      "gradientColors": ["#2b1d14", "#4a3324"],
+      "filterId": "cam_brownie",
+      "filterStrength": 0.8,
+      "adjustments": { "brightness": 0.05, "contrast": 0.1, "vignette": 0.35 },
       "textLines": [
         {
-          "text": "ಶೀರ್ಷಿಕೆ ಇಲ್ಲಿ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 48,
-          "color": "#FFD700",
-          "isBold": true,
-          "letterSpacing": 1,
+          "text": "ಸುವರ್ಣ ದಿನಗಳು",
+          "fontFamily": "Bendre",
+          "fontSize": 55,
+          "color": "#E5D07B",
+          "isBold": false,
+          "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.62,
+          "yNorm": 0.45,
           "align": "center"
         },
         {
-          "text": "ಉಪಶೀರ್ಷಿಕೆ ಇಲ್ಲಿ",
-          "fontFamily": "NotoSerifKannada",
+          "text": "ಬಾಲ್ಯದ ನೆನಪುಗಳು",
+          "fontFamily": "NotoSansKannadaRegular",
           "fontSize": 20,
           "color": "#FFFFFF",
           "isBold": false,
-          "letterSpacing": 3,
+          "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.75,
+          "yNorm": 0.60,
           "align": "center"
         }
       ]
     },
     {
-      "id": "dark_drama",
-      "name": "ಡಾರ್ಕ್ ಡ್ರಾಮ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FF4444",
-      "gradientColors": ["#1a0000", "#0a0000"],
-      "filterId": "noir",
-      "filterStrength": 0.85,
-      "adjustments": { "contrast": 0.3, "shadows": -0.15, "highlights": -0.1, "vignette": 0.6 },
+      "id": "ig_post_nature_film",
+      "name": "ಹಸಿರು ಪ್ರಕೃತಿ",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#3A8050",
+      "gradientColors": ["#0f2918", "#1c4a2c"],
+      "filterId": "fs1",
+      "filterStrength": 0.9,
+      "adjustments": { "contrast": 0.15, "saturation": 0.2 },
       "textLines": [
         {
-          "text": "ಧೈರ್ಯದ ಮಾತು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 52,
+          "text": "ಕಾಡಿನ ಸೌಂದರ್ಯ",
+          "fontFamily": "NotoSansKannadaBold",
+          "fontSize": 48,
           "color": "#FFFFFF",
-          "isBold": true,
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.5,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "ig_post_classic_portrait",
+      "name": "ಕ್ಲಾಸಿಕ್ ಪೋರ್ಟ್ರೇಟ್",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#8B7355",
+      "gradientColors": ["#1a1a1a", "#2d2d2d"],
+      "filterId": "bw4",
+      "filterStrength": 1.0,
+      "adjustments": { "contrast": 0.25, "highlights": 0.1 },
+      "textLines": [
+        {
+          "text": "ಹಳೆಯ ಕಾಗದ",
+          "fontFamily": "KarnataGTNBold",
+          "fontSize": 52,
+          "color": "#E0E0E0",
+          "isBold": false,
+          "letterSpacing": 3,
+          "xNorm": 0.5,
+          "yNorm": 0.4,
+          "align": "center"
+        },
+        {
+          "text": "ಶ್ವೇತ ಬಿಂಬ",
+          "fontFamily": "KarnataGTNRegular",
+          "fontSize": 24,
+          "color": "#8B7355",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.55,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "ig_post_evening_vibes",
+      "name": "ಸಂಜೆಯ ಬಿಸಿಲು",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#D49020",
+      "gradientColors": ["#331a00", "#663300"],
+      "filterId": "av4",
+      "filterStrength": 0.75,
+      "adjustments": { "temp": 0.2, "vignette": 0.4 },
+      "textLines": [
+        {
+          "text": "ಮುಸ್ಸಂಜೆ ಮಾತು",
+          "fontFamily": "Hubballi",
+          "fontSize": 60,
+          "color": "#D49020",
+          "isBold": false,
+          "letterSpacing": 0,
+          "xNorm": 0.15,
+          "yNorm": 0.2,
+          "align": "left"
+        },
+        {
+          "text": "ಸೂರ್ಯಾಸ್ತದ ಸಮಯ",
+          "fontFamily": "Anek-Regular",
+          "fontSize": 22,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.15,
+          "yNorm": 0.3,
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "id": "ig_post_artistic_pink",
+      "name": "ಗುಲಾಬಿ ಕಳೆ",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#905070",
+      "gradientColors": ["#2a0a1a", "#4d1330"],
+      "filterId": "acchu_mono_5",
+      "filterStrength": 0.85,
+      "adjustments": { "fade": 0.15, "contrast": 0.1 },
+      "textLines": [
+        {
+          "text": "ಕಲಾತ್ಮಕ",
+          "fontFamily": "Padyakke",
+          "fontSize": 50,
+          "color": "#Fbcfe8",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.5,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "story_sunlit_morning",
+      "name": "ಸೂರ್ಯನ ಮಂಜು",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#C8A55B",
+      "gradientColors": ["#1a150c", "#332918"],
+      "filterId": "acchu_sunlit_haze",
+      "filterStrength": 0.9,
+      "adjustments": { "brightness": 0.1, "warmth": 0.15 },
+      "textLines": [
+        {
+          "text": "ಹೊಸ ದಿನದ ಆರಂಭ",
+          "fontFamily": "Anek-Medium",
+          "fontSize": 45,
+          "color": "#C8A55B",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.4,
+          "align": "center"
+        },
+        {
+          "text": "ಶುಭ ಮುಂಜಾನೆ",
+          "fontFamily": "Anek-Light",
+          "fontSize": 28,
+          "color": "#FFFFFF",
+          "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.55,
           "align": "center"
-        },
+        }
+      ]
+    },
+    {
+      "id": "story_retro_tech",
+      "name": "ನೇರಳೆ ಗತಕಾಲ",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#8060A0",
+      "gradientColors": ["#000000", "#1a0033"],
+      "filterId": "vr1",
+      "filterStrength": 1.0,
+      "adjustments": { "contrast": 0.3, "saturation": 0.2 },
+      "textLines": [
         {
-          "text": "ಕನ್ನಡ ಕ್ರಿಯೇಟರ್",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 22,
-          "color": "#FF4444",
+          "text": "ಸೈಬರ್ ಪಂಕ್",
+          "fontFamily": "ATSLED",
+          "fontSize": 55,
+          "color": "#D8B4E2",
           "isBold": false,
           "letterSpacing": 4,
           "xNorm": 0.5,
-          "yNorm": 0.67,
+          "yNorm": 0.35,
+          "align": "center"
+        },
+        {
+          "text": "ರೆಟ್ರೊ ವೈಬ್ಸ್",
+          "fontFamily": "NotoSansKannadaBold",
+          "fontSize": 22,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 6,
+          "xNorm": 0.5,
+          "yNorm": 0.5,
           "align": "center"
         }
       ]
     },
     {
-      "id": "minimal_clean",
-      "name": "ಮಿನಿಮಲ್ ಕ್ಲೀನ್",
+      "id": "story_film_aesthetic",
+      "name": "ಸುವರ್ಣ ಯುಗ",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#D9A86C",
+      "gradientColors": ["#2e1a0f", "#4d2b19"],
+      "filterId": "cam_canon_ae1",
+      "filterStrength": 0.85,
+      "adjustments": { "vignette": 0.5, "fade": 0.1 },
+      "textLines": [
+        {
+          "text": "ಕಾವ್ಯಮಯ ಕ್ಷಣ",
+          "fontFamily": "Kuvempu",
+          "fontSize": 65,
+          "color": "#D9A86C",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.5,
+          "align": "center"
+        },
+        {
+          "text": "ಛಾಯಾಗ್ರಹಣ",
+          "fontFamily": "TiroKannadaRegular",
+          "fontSize": 24,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.65,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "story_moody_water",
+      "name": "ಗಾಢ ಜಲ",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#5090A0",
+      "gradientColors": ["#06171f", "#0c303d"],
+      "filterId": "acchu_new_4",
+      "filterStrength": 0.7,
+      "adjustments": { "contrast": 0.2, "shadows": -0.1 },
+      "textLines": [
+        {
+          "text": "ಮಳೆಯ ಹನಿ",
+          "fontFamily": "Anek-Bold",
+          "fontSize": 48,
+          "color": "#A5D8E6",
+          "isBold": false,
+          "letterSpacing": 0,
+          "xNorm": 0.1,
+          "yNorm": 0.3,
+          "align": "left"
+        },
+        {
+          "text": "ತಂಪು ವಾತಾವರಣ",
+          "fontFamily": "Anek-Regular",
+          "fontSize": 26,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.1,
+          "yNorm": 0.45,
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "id": "story_cinematic_thai",
+      "name": "ಥಾಯ್ ಸಿನೆಮ್ಯಾಟಿಕ್",
+      "category": "Stories",
+      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
+      "accentColor": "#A3B19B",
+      "gradientColors": ["#161c13", "#2c3826"],
+      "filterId": "acchu_thai",
+      "filterStrength": 1.0,
+      "adjustments": { "fade": 0.05, "contrast": 0.15 },
+      "textLines": [
+        {
+          "text": "ಚಲನಚಿತ್ರ ಶೈಲಿ",
+          "fontFamily": "SRIRAJU_Bold",
+          "fontSize": 52,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.6,
+          "align": "center"
+        },
+        {
+          "text": "ನಿರ್ದೇಶನ",
+          "fontFamily": "SRIRAJU_Regular",
+          "fontSize": 22,
+          "color": "#A3B19B",
+          "isBold": false,
+          "letterSpacing": 4,
+          "xNorm": 0.5,
+          "yNorm": 0.7,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "sq_food_earthy",
+      "name": "ಮಣ್ಣಿನ ಕಂಪು",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#C8915A",
+      "gradientColors": ["#2e1f13", "#5c3d26"],
+      "filterId": "kg2",
+      "filterStrength": 0.8,
+      "adjustments": { "saturation": 0.25, "warmth": 0.2 },
+      "textLines": [
+        {
+          "text": "ರುಚಿಯಾದ ಊಟ",
+          "fontFamily": "ATSSmooth",
+          "fontSize": 45,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.3,
+          "align": "center"
+        },
+        {
+          "text": "ನಾಟಿ ಶೈಲಿ",
+          "fontFamily": "Anek-Medium",
+          "fontSize": 24,
+          "color": "#F3CDA4",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.45,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "sq_pixel_game",
+      "name": "ಗೇಮಿಂಗ್ ಪಿಕ್ಸೆಲ್",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#39FF14",
+      "gradientColors": ["#000000", "#111111"],
+      "filterId": "none",
+      "filterStrength": 0,
+      "adjustments": { "contrast": 0.3 },
+      "textLines": [
+        {
+          "text": "ಲೆವೆಲ್ ಅಪ್",
+          "fontFamily": "KannadaPixel",
+          "fontSize": 50,
+          "color": "#39FF14",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.4,
+          "align": "center"
+        },
+        {
+          "text": "ಹೊಸ ಸ್ಕೋರ್",
+          "fontFamily": "KannadaPixel",
+          "fontSize": 20,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.55,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "sq_quote_bw",
+      "name": "ನಿಗೂಢ ಕಪ್ಪು",
       "category": "Instagram Square",
       "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
       "accentColor": "#FFFFFF",
       "gradientColors": ["#0a0a0a", "#1a1a1a"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "brightness": -0.05, "contrast": 0.05, "vignette": 0.25 },
+      "filterId": "bw2",
+      "filterStrength": 1.0,
+      "adjustments": { "contrast": 0.4, "shadows": -0.2 },
       "textLines": [
         {
-          "text": "ಸರಳ ಸೊಬಗು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 44,
+          "text": "ಜೀವನ ದರ್ಶನ",
+          "fontFamily": "Adiga",
+          "fontSize": 55,
           "color": "#FFFFFF",
           "isBold": false,
-          "letterSpacing": 5,
+          "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.65,
+          "yNorm": 0.4,
+          "align": "center"
+        },
+        {
+          "text": "ಒಂದು ಚಿಂತನೆ",
+          "fontFamily": "NotoSerifKannadaLight",
+          "fontSize": 20,
+          "color": "#B0B0B0",
+          "isBold": false,
+          "letterSpacing": 3,
+          "xNorm": 0.5,
+          "yNorm": 0.6,
           "align": "center"
         }
       ]
     },
     {
-      "id": "cinema_strip",
-      "name": "ಸಿನಿಮಾ ಸ್ಟ್ರಿಪ್",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FF6B00",
-      "gradientColors": ["#0a0500", "#1a0d00"],
-      "filterId": "cine",
-      "filterStrength": 0.8,
-      "adjustments": { "contrast": 0.2, "temp": -0.1, "vignette": 0.4, "fade": 0.05 },
+      "id": "sq_golden_hour",
+      "name": "ಹೊನ್ನಿನ ಕಣ",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#D4A870",
+      "gradientColors": ["#2b2216", "#453624"],
+      "filterId": "acchu_new_2",
+      "filterStrength": 0.85,
+      "adjustments": { "brightness": 0.1, "warmth": 0.2 },
       "textLines": [
         {
-          "text": "ಶೀರ್ಷಿಕೆ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 54,
-          "color": "#FF6B00",
-          "isBold": true,
+          "text": "ಬಂಗಾರದ ಗಳಿಗೆ",
+          "fontFamily": "Anek-ExtraBold",
+          "fontSize": 42,
+          "color": "#FFDFB3",
+          "isBold": false,
           "letterSpacing": 0,
-          "xNorm": 0.3,
-          "yNorm": 0.42,
+          "xNorm": 0.1,
+          "yNorm": 0.2,
           "align": "left"
         },
         {
-          "text": "ವಿವರಣೆ ಇಲ್ಲಿ",
-          "fontFamily": "NotoSerifKannada",
+          "text": "ವಿಶೇಷ ನೆನಪುಗಳು",
+          "fontFamily": "Anek-Medium",
           "fontSize": 24,
           "color": "#FFFFFF",
           "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.3,
-          "yNorm": 0.62,
-          "align": "left"
-        },
-        {
-          "text": "ವಾಚ್ ನೌ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 18,
-          "color": "#FFD700",
-          "isBold": false,
-          "letterSpacing": 3,
-          "xNorm": 0.3,
-          "yNorm": 0.75,
+          "letterSpacing": 0,
+          "xNorm": 0.1,
+          "yNorm": 0.35,
           "align": "left"
         }
       ]
     },
     {
-      "id": "festival_poster",
-      "name": "ಹಬ್ಬದ ಪೋಸ್ಟರ್",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FF8C00",
-      "gradientColors": ["#1a0800", "#2a1200"],
-      "filterId": "vivid",
-      "filterStrength": 0.75,
-      "adjustments": { "saturation": 0.3, "vibrance": 0.2, "brightness": 0.05, "vignette": 0.3 },
-      "textLines": [
-        {
-          "text": "ಹಬ್ಬದ ಶುಭಾಶಯ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 46,
-          "color": "#FFD700",
-          "isBold": true,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.6,
-          "align": "center"
-        },
-        {
-          "text": "ನಿಮ್ಮ ಹೆಸರು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 22,
-          "color": "#FF8C00",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.73,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "quote_card",
-      "name": "ಉಕ್ತಿ ಕಾರ್ಡ್",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#C0A060",
-      "gradientColors": ["#080810", "#101020"],
-      "filterId": "matte",
-      "filterStrength": 0.6,
-      "adjustments": { "fade": 0.15, "contrast": 0.1, "brightness": -0.05, "vignette": 0.5 },
-      "textLines": [
-        {
-          "text": "❝",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 60,
-          "color": "#C0A060",
-          "isBold": false,
-          "letterSpacing": 0,
-          "xNorm": 0.5,
-          "yNorm": 0.38,
-          "align": "center"
-        },
-        {
-          "text": "ಇಲ್ಲಿ ಉಕ್ತಿ ಬರೆಯಿರಿ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 32,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.5,
-          "align": "center"
-        },
-        {
-          "text": "— ನಿಮ್ಮ ಹೆಸರು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 20,
-          "color": "#C0A060",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.63,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "news_headline",
-      "name": "ಸುದ್ದಿ ಶೀರ್ಷಿಕೆ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#E53935",
-      "gradientColors": ["#0a0000", "#1a0000"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.25, "saturation": -0.1, "vignette": 0.3 },
-      "textLines": [
-        {
-          "text": "ಮುಖ್ಯ ಸುದ್ದಿ ಇಲ್ಲಿ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 60,
-          "color": "#FFFFFF",
-          "isBold": true,
-          "letterSpacing": 0,
-          "xNorm": 0.5,
-          "yNorm": 0.5,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "retro_vibe",
-      "name": "ರೆಟ್ರೋ ಶೈಲಿ",
+      "id": "sq_soft_fashion",
+      "name": "ಮೃದು ನೆನಪು",
       "category": "Instagram Square",
       "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#E8C970",
-      "gradientColors": ["#1a1000", "#2a1a00"],
-      "filterId": "vintage",
-      "filterStrength": 0.8,
-      "adjustments": { "temp": 0.2, "fade": 0.2, "grain": 0.2, "grainSize": 0.3, "vignette": 0.4 },
+      "accentColor": "#A67A53",
+      "gradientColors": ["#fafaf9", "#f5f5f4"],
+      "filterId": "acchu_soft_nostalgia",
+      "filterStrength": 0.6,
+      "adjustments": { "contrast": 0.05, "fade": 0.1 },
       "textLines": [
         {
-          "text": "ಹಳೆಯ ಸೊಗಸು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 42,
-          "color": "#E8C970",
-          "isBold": true,
-          "letterSpacing": 2,
+          "text": "ಸರಳ ಸುಂದರ",
+          "fontFamily": "NotoSerifKannadaMedium",
+          "fontSize": 40,
+          "color": "#292524",
+          "isBold": false,
+          "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.6,
+          "yNorm": 0.5,
           "align": "center"
         },
         {
-          "text": "ಕ್ಲಾಸಿಕ್ ಸ್ಟೈಲ್",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 20,
-          "color": "#FFF8DC",
+          "text": "ನ್ಯಾಚುರಲ್ ಲುಕ್",
+          "fontFamily": "NotoSansKannadaRegular",
+          "fontSize": 18,
+          "color": "#A67A53",
           "isBold": false,
-          "letterSpacing": 5,
-          "xNorm": 0.5,
-          "yNorm": 0.74,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "nature_mood",
-      "name": "ಪ್ರಕೃತಿ ಮೂಡ್",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#4CAF50",
-      "gradientColors": ["#001a00", "#002a00"],
-      "filterId": "earthy",
-      "filterStrength": 0.65,
-      "adjustments": { "temp": -0.05, "saturation": 0.15, "shadows": 0.1, "vignette": 0.35 },
-      "textLines": [
-        {
-          "text": "ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 40,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
+          "letterSpacing": 3,
           "xNorm": 0.5,
           "yNorm": 0.65,
           "align": "center"
@@ -306,34 +505,34 @@
       ]
     },
     {
-      "id": "fb_cover",
-      "name": "ಫೇಸ್‌ಬುಕ್ ಕವರ್",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#1877F2",
-      "gradientColors": ["#000a1a", "#001025"],
-      "filterId": "cool",
-      "filterStrength": 0.5,
-      "adjustments": { "temp": -0.15, "contrast": 0.1, "vignette": 0.3 },
+      "id": "yt_vlog_instant",
+      "name": "ಕ್ಷಣಿಕ ನೆನಪು",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#E2C792",
+      "gradientColors": ["#1f1b13", "#3d3525"],
+      "filterId": "cam_sx70",
+      "filterStrength": 0.9,
+      "adjustments": { "contrast": 0.15, "saturation": 0.1 },
       "textLines": [
         {
-          "text": "ಪುಟದ ಹೆಸರು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 50,
+          "text": "ವೀಕೆಂಡ್ ವ್ಲಾಗ್",
+          "fontFamily": "Anek-ExtraBold",
+          "fontSize": 75,
           "color": "#FFFFFF",
-          "isBold": true,
+          "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
           "yNorm": 0.45,
           "align": "center"
         },
         {
-          "text": "ಟ್ಯಾಗ್‌ಲೈನ್ ಇಲ್ಲಿ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 22,
-          "color": "#87CEEB",
+          "text": "ಹೊಸ ಜಾಗದ ಪರಿಚಯ",
+          "fontFamily": "Anek-Bold",
+          "fontSize": 32,
+          "color": "#E2C792",
           "isBold": false,
-          "letterSpacing": 3,
+          "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.65,
           "align": "center"
@@ -341,71 +540,316 @@
       ]
     },
     {
-      "id": "urban_style",
-      "name": "ಅರ್ಬನ್ ಸ್ಟೈಲ್",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#9C27B0",
-      "gradientColors": ["#080010", "#100020"],
-      "filterId": "fade",
-      "filterStrength": 0.55,
-      "adjustments": { "contrast": 0.2, "saturation": -0.15, "vignette": 0.5, "fade": 0.1 },
+      "id": "yt_horror_mystery",
+      "name": "ಕಾರ್ಗತ್ತಲು",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#FF3333",
+      "gradientColors": ["#000000", "#111111"],
+      "filterId": "il2",
+      "filterStrength": 1.0,
+      "adjustments": { "contrast": 0.4, "shadows": -0.3, "vignette": 0.7 },
       "textLines": [
         {
-          "text": "ನಗರದ ಬದುಕು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 50,
+          "text": "ಭಯಾನಕ ರಹಸ್ಯ",
+          "fontFamily": "SRIRAJU_Outline",
+          "fontSize": 85,
+          "color": "#FF3333",
+          "isBold": false,
+          "letterSpacing": 3,
+          "xNorm": 0.1,
+          "yNorm": 0.4,
+          "align": "left"
+        },
+        {
+          "text": "ನಿಜವಾದ ಘಟನೆ",
+          "fontFamily": "SRIRAJU_Bold",
+          "fontSize": 35,
           "color": "#FFFFFF",
-          "isBold": true,
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.1,
+          "yNorm": 0.65,
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "id": "yt_tech_gadget",
+      "name": "ಗಾಢ ನೀಲಿ ರಿವ್ಯೂ",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#2A6EBB",
+      "gradientColors": ["#0a192a", "#133153"],
+      "filterId": "cam_nikon_f100",
+      "filterStrength": 0.8,
+      "adjustments": { "contrast": 0.25, "clarity": 0.2 },
+      "textLines": [
+        {
+          "text": "ಅಲ್ಟಿಮೇಟ್ ಗ್ಯಾಜೆಟ್",
+          "fontFamily": "ATSSquare",
+          "fontSize": 58,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.9,
+          "yNorm": 0.4,
+          "align": "right"
+        },
+        {
+          "text": "ಸಂಪೂರ್ಣ ರಿವ್ಯೂ",
+          "fontFamily": "NotoSansKannadaBold",
+          "fontSize": 28,
+          "color": "#6DB0FF",
+          "isBold": false,
           "letterSpacing": 2,
+          "xNorm": 0.9,
+          "yNorm": 0.6,
+          "align": "right"
+        }
+      ]
+    },
+    {
+      "id": "yt_nature_doc",
+      "name": "ಪಚ್ಚೆ ಹಸಿರು ದರ್ಶನ",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#70A370",
+      "gradientColors": ["#0b1a0b", "#173317"],
+      "filterId": "acchu_new_3",
+      "filterStrength": 1.0,
+      "adjustments": { "saturation": 0.3, "contrast": 0.2 },
+      "textLines": [
+        {
+          "text": "ವನ್ಯಜೀವಿ ಪ್ರಪಂಚ",
+          "fontFamily": "KarnataGTNExtraBold",
+          "fontSize": 70,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 0,
           "xNorm": 0.5,
-          "yNorm": 0.52,
+          "yNorm": 0.45,
           "align": "center"
         },
         {
-          "text": "ಸ್ಟ್ರೀಟ್ ಸ್ಟೈಲ್",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 22,
-          "color": "#9C27B0",
+          "text": "ಸಾಕ್ಷ್ಯಚಿತ್ರ",
+          "fontFamily": "KarnataGTNMedium",
+          "fontSize": 30,
+          "color": "#A5D6A5",
           "isBold": false,
-          "letterSpacing": 6,
+          "letterSpacing": 4,
           "xNorm": 0.5,
-          "yNorm": 0.64,
+          "yNorm": 0.65,
           "align": "center"
         }
       ]
     },
     {
-      "id": "celebration",
-      "name": "ಸಂಭ್ರಮ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#1a1000", "#2a1800"],
-      "filterId": "golden",
-      "filterStrength": 0.7,
-      "adjustments": { "brightness": 0.1, "saturation": 0.25, "vibrance": 0.2, "temp": 0.15, "vignette": 0.3 },
+      "id": "yt_movie_review",
+      "name": "ಬೂದು ಮೋಡ ವಿಮರ್ಶೆ",
+      "category": "YouTube Thumbnail",
+      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
+      "accentColor": "#999999",
+      "gradientColors": ["#1a1a1a", "#333333"],
+      "filterId": "cam_kodak_hawkeye",
+      "filterStrength": 0.9,
+      "adjustments": { "fade": 0.2, "contrast": 0.15 },
       "textLines": [
         {
-          "text": "ಅಭಿನಂದನೆಗಳು",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 44,
-          "color": "#FFD700",
-          "isBold": true,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.58,
-          "align": "center"
+          "text": "ಹಳೆಯ ಸಿನಿಮಾ",
+          "fontFamily": "Karantha",
+          "fontSize": 65,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.1,
+          "yNorm": 0.45,
+          "align": "left"
         },
         {
-          "text": "ನಿಮ್ಮ ಸಂದೇಶ ಇಲ್ಲಿ",
-          "fontFamily": "NotoSerifKannada",
-          "fontSize": 22,
-          "color": "#FFF8DC",
+          "text": "ಕನ್ನಡ ಚಿತ್ರ ವಿಮರ್ಶೆ",
+          "fontFamily": "NotoSansKannadaSemiBold",
+          "fontSize": 28,
+          "color": "#CCCCCC",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.1,
+          "yNorm": 0.65,
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "id": "fb_photography_page",
+      "name": "ಕ್ಲಾಸಿಕ್ ದೃಷ್ಟಿ",
+      "category": "Facebook Cover",
+      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
+      "accentColor": "#555555",
+      "gradientColors": ["#ffffff", "#f0f0f0"],
+      "filterId": "cam_leica_m3",
+      "filterStrength": 0.6,
+      "adjustments": { "brightness": 0.1, "contrast": 0.1 },
+      "textLines": [
+        {
+          "text": "ಛಾಯಾಗ್ರಹಣ ಕಲೆ",
+          "fontFamily": "NotoSansKannadaBold",
+          "fontSize": 52,
+          "color": "#1a1a1a",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.1,
+          "yNorm": 0.45,
+          "align": "left"
+        },
+        {
+          "text": "ಕ್ಲಾಸಿಕ್ ಪೋರ್ಟ್ರೇಟ್ಸ್",
+          "fontFamily": "NotoSansKannadaRegular",
+          "fontSize": 24,
+          "color": "#555555",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.1,
+          "yNorm": 0.65,
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "id": "fb_travel_blog",
+      "name": "ತಂಪು ಗಾಳಿ ಪ್ರವಾಸ",
+      "category": "Facebook Cover",
+      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
+      "accentColor": "#2D7080",
+      "gradientColors": ["#071619", "#0f2d33"],
+      "filterId": "fs4",
+      "filterStrength": 0.8,
+      "adjustments": { "contrast": 0.2, "saturation": 0.15 },
+      "textLines": [
+        {
+          "text": "ಪ್ರವಾಸದ ಕಥೆಗಳು",
+          "fontFamily": "Anek-Bold",
+          "fontSize": 55,
+          "color": "#FFFFFF",
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.71,
+          "yNorm": 0.45,
+          "align": "center"
+        },
+        {
+          "text": "ಹೊಸ ಊರುಗಳ ಅನ್ವೇಷಣೆ",
+          "fontFamily": "Anek-Medium",
+          "fontSize": 24,
+          "color": "#81D3E6",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.65,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "fb_personal_brand_retro",
+      "name": "ತಾಮ್ರದ ಹೊಳಪು",
+      "category": "Facebook Cover",
+      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
+      "accentColor": "#B08050",
+      "gradientColors": ["#1a130c", "#332617"],
+      "filterId": "vr2",
+      "filterStrength": 0.9,
+      "adjustments": { "warmth": 0.2, "vignette": 0.3 },
+      "textLines": [
+        {
+          "text": "ಬರಹಗಾರರ ವೇದಿಕೆ",
+          "fontFamily": "TiroKannadaRegular",
+          "fontSize": 58,
+          "color": "#F3D8C0",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.9,
+          "yNorm": 0.45,
+          "align": "right"
+        },
+        {
+          "text": "ಸಾಹಿತ್ಯ ಮತ್ತು ವಿಮರ್ಶೆ",
+          "fontFamily": "TiroKannadaItalic",
+          "fontSize": 26,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 0,
+          "xNorm": 0.9,
+          "yNorm": 0.7,
+          "align": "right"
+        }
+      ]
+    },
+    {
+      "id": "fb_art_portfolio",
+      "name": "ಇಂಡಿಗೋ ಇರುಳು",
+      "category": "Facebook Cover",
+      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
+      "accentColor": "#505080",
+      "gradientColors": ["#0b0b12", "#161624"],
+      "filterId": "acchu_mono_7",
+      "filterStrength": 0.85,
+      "adjustments": { "contrast": 0.3 },
+      "textLines": [
+        {
+          "text": "ಡಿಜಿಟಲ್ ಕಲಾಕೃತಿ",
+          "fontFamily": "ATSDot",
+          "fontSize": 50,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 4,
+          "xNorm": 0.5,
+          "yNorm": 0.4,
+          "align": "center"
+        },
+        {
+          "text": "ನನ್ನ ಪೋರ್ಟ್‌ಫೋಲಿಯೋ",
+          "fontFamily": "NotoSansKannadaRegular",
+          "fontSize": 22,
+          "color": "#A3A3CC",
+          "isBold": false,
+          "letterSpacing": 6,
+          "xNorm": 0.5,
+          "yNorm": 0.65,
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "id": "fb_festival_greeting",
+      "name": "ಸುವರ್ಣ ನೆನಪು ಹಬ್ಬ",
+      "category": "Facebook Cover",
+      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
+      "accentColor": "#D4A832",
+      "gradientColors": ["#2b0f00", "#4d1a00"],
+      "filterId": "kg1",
+      "filterStrength": 1.0,
+      "adjustments": { "saturation": 0.2, "highlights": 0.15 },
+      "textLines": [
+        {
+          "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+          "fontFamily": "Malige",
+          "fontSize": 62,
+          "color": "#FFD700",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.45,
+          "align": "center"
+        },
+        {
+          "text": "ಎಲ್ಲರಿಗೂ ಒಳಿತಾಗಲಿ",
+          "fontFamily": "Anek-Medium",
+          "fontSize": 24,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.7,
           "align": "center"
         }
       ]
