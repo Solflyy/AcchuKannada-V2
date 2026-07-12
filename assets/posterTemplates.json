@@ -3,14 +3,25 @@
   "templates": [
     {
       "id": "ig_post_poetry",
-      "name": "ಕವನ",
+      "name": "ಕವನ (Instagram Post)",
       "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "canvasRatio": {
+        "w": 4,
+        "h": 5,
+        "label": "Instagram Post"
+      },
       "accentColor": "#D4AF37",
-      "gradientColors": ["#1f1c18", "#382c1e"],
+      "gradientColors": [
+        "#1f1c18",
+        "#382c1e"
+      ],
       "filterId": "warm",
       "filterStrength": 0.6,
-      "adjustments": { "brightness": -0.05, "contrast": 0.1, "vignette": 0.4 },
+      "adjustments": {
+        "brightness": -0.05,
+        "contrast": 0.1,
+        "vignette": 0.4
+      },
       "textLines": [
         {
           "text": "ಪ್ರಕೃತಿಯ ಮಡಿಲಲ್ಲಿ",
@@ -19,20 +30,42 @@
           "color": "#D4AF37",
           "isBold": false,
           "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.75,
-          "align": "center"
+          "shadowDepth": 7,
+          "xNorm": 0.36,
+          "yNorm": 0.21,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 8,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.7,
+          "glowRadius": 12,
+          "glowColor": "#D4AF37",
+          "glowOpacity": 0.4,
+          "textStroke": 1,
+          "textStrokeColor": "#1a1200"
         },
         {
           "text": "ಕುವೆಂಪು ರವರ ನೆನಪು",
           "fontFamily": "TiroKannadaRegular",
-          "fontSize": 20,
+          "fontSize": 28,
           "color": "#FFFFFF",
           "isBold": false,
           "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.85,
-          "align": "center"
+          "shadowDepth": 10,
+          "xNorm": 0.41,
+          "yNorm": 0.25,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 4,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.5,
+          "glowRadius": 0,
+          "glowColor": "#FFFFFF",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -56,7 +89,17 @@
           "letterSpacing": 1,
           "xNorm": 0.5,
           "yNorm": 0.18,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 8,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.7,
+          "glowRadius": 10,
+          "glowColor": "#FF5722",
+          "glowOpacity": 0.6,
+          "textStroke": 2,
+          "textStrokeColor": "#0f172a"
         }
       ]
     },
@@ -80,7 +123,17 @@
           "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.75,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 0,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 1.0,
+          "glowRadius": 15,
+          "glowColor": "#39FF14",
+          "glowOpacity": 0.8,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         },
         {
           "text": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
@@ -91,7 +144,17 @@
           "letterSpacing": 1,
           "xNorm": 0.5,
           "yNorm": 0.85,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 0,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 1.0,
+          "glowRadius": 5,
+          "glowColor": "#FFFFFF",
+          "glowOpacity": 0.5,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -115,7 +178,17 @@
           "letterSpacing": 0,
           "xNorm": 0.1,
           "yNorm": 0.15,
-          "align": "left"
+          "align": "left",
+          "shadowColor": "#2563EB",
+          "shadowBlur": 8,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.2,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         },
         {
           "text": "ಹೊಸ ಯೋಜನೆಗಳು",
@@ -126,31 +199,17 @@
           "letterSpacing": 1,
           "xNorm": 0.1,
           "yNorm": 0.25,
-          "align": "left"
-        }
-      ]
-    },
-    {
-      "id": "ig_post_traditional",
-      "name": "ಸಾಂಪ್ರದಾಯಿಕ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#E11D48",
-      "gradientColors": ["#2a0a12", "#4a1220"],
-      "filterId": "warm",
-      "filterStrength": 0.7,
-      "adjustments": { "temp": 0.15, "vignette": 0.3 },
-      "textLines": [
-        {
-          "text": "ಶುಭ ಸಮಾರಂಭ",
-          "fontFamily": "SRIRAJU_Bold",
-          "fontSize": 50,
-          "color": "#FBBF24",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.18,
-          "align": "center"
+          "align": "left",
+          "shadowColor": "#000000",
+          "shadowBlur": 4,
+          "shadowDistance": 1,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.1,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -174,7 +233,17 @@
           "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.15,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 10,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.6,
+          "glowRadius": 10,
+          "glowColor": "#FCD34D",
+          "glowOpacity": 0.3,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         },
         {
           "text": "ದಿನ ಶುಭವಾಗಲಿ",
@@ -185,77 +254,17 @@
           "letterSpacing": 1,
           "xNorm": 0.5,
           "yNorm": 0.22,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "story_flash_sale",
-      "name": "ಫ್ಲ್ಯಾಶ್ ಸೇಲ್",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#EF4444",
-      "gradientColors": ["#000000", "#1a0000"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.25, "saturation": 0.2 },
-      "textLines": [
-        {
-          "text": "ಮೆಗಾ ಸೇಲ್",
-          "fontFamily": "ATSBandipura",
-          "fontSize": 65,
-          "color": "#EF4444",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.75,
-          "align": "center"
-        },
-        {
-          "text": "ಇಂದೇ ಖರೀದಿಸಿ",
-          "fontFamily": "NotoSansKannadaBold",
-          "fontSize": 24,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 3,
-          "xNorm": 0.5,
-          "yNorm": 0.82,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "story_event",
-      "name": "ಕಾರ್ಯಕ್ರಮ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#8B5CF6",
-      "gradientColors": ["#170f2e", "#2e1f5c"],
-      "filterId": "fade",
-      "filterStrength": 0.5,
-      "adjustments": { "vignette": 0.5 },
-      "textLines": [
-        {
-          "text": "ಲೈವ್ ಕಾರ್ಯಕ್ರಮ",
-          "fontFamily": "KarnataGTNExtraBold",
-          "fontSize": 52,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 0,
-          "xNorm": 0.5,
-          "yNorm": 0.75,
-          "align": "center"
-        },
-        {
-          "text": "ಸಂಜೆ ೬ ಗಂಟೆಗೆ",
-          "fontFamily": "KarnataGTNMedium",
-          "fontSize": 22,
-          "color": "#8B5CF6",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.82,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 6,
+          "shadowDistance": 3,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.5,
+          "glowRadius": 0,
+          "glowColor": "#FFFFFF",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -279,7 +288,17 @@
           "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.15,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#06B6D4",
+          "shadowBlur": 12,
+          "shadowDistance": 0,
+          "shadowAngle": 0,
+          "shadowOpacity": 0.5,
+          "glowRadius": 8,
+          "glowColor": "#06B6D4",
+          "glowOpacity": 0.6,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         },
         {
           "text": "ಹೊಸ ಮೊಬೈಲ್ ಲಾಂಚ್",
@@ -290,195 +309,237 @@
           "letterSpacing": 0,
           "xNorm": 0.5,
           "yNorm": 0.22,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 6,
+          "shadowDistance": 3,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.7,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
     {
-      "id": "story_bengaluru",
-      "name": "ನಮ್ಮ ಬೆಂಗಳೂರು",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#F59E0B",
-      "gradientColors": ["#1a1a1a", "#262626"],
-      "filterId": "mono",
-      "filterStrength": 0.4,
-      "adjustments": { "contrast": 0.1, "vignette": 0.4 },
+      "id": "sq_rajyotsava",
+      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#FFD700",
+      "gradientColors": ["#8B0000", "#FF0000"],
+      "filterId": "kg1",
+      "filterStrength": 0.8,
+      "adjustments": { "contrast": 0.2, "saturation": 0.25 },
       "textLines": [
         {
-          "text": "ಬೆಂಗಳೂರು",
-          "fontFamily": "ATSSmooth",
-          "fontSize": 60,
-          "color": "#F59E0B",
+          "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ",
+          "fontFamily": "ATSBandipura",
+          "fontSize": 45,
+          "color": "#FFD700",
           "isBold": false,
-          "letterSpacing": 1,
+          "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.75,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 10,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.8,
+          "glowRadius": 10,
+          "glowColor": "#FFD700",
+          "glowOpacity": 0.4,
+          "textStroke": 1,
+          "textStrokeColor": "#4a0000"
         },
         {
-          "text": "ರಾತ್ರಿ ಜೀವನ",
-          "fontFamily": "Anek-Light",
+          "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು",
+          "fontFamily": "Anek-Medium",
           "fontSize": 24,
           "color": "#FFFFFF",
           "isBold": false,
-          "letterSpacing": 4,
+          "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.82,
-          "align": "center"
+          "yNorm": 0.85,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 5,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.6,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
     {
-      "id": "sq_food_promo",
-      "name": "ಫುಡ್ ಪ್ರೋಮೋ",
+      "id": "sq_deepavali",
+      "name": "ದೀಪಾವಳಿ",
       "category": "Instagram Square",
       "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#F97316",
-      "gradientColors": ["#2e1008", "#4a1a0c"],
-      "filterId": "warm",
-      "filterStrength": 0.7,
-      "adjustments": { "saturation": 0.2, "contrast": 0.15 },
+      "accentColor": "#FFB300",
+      "gradientColors": ["#2e0d00", "#5c1a00"],
+      "filterId": "av4",
+      "filterStrength": 0.9,
+      "adjustments": { "warmth": 0.2, "highlights": 0.15 },
       "textLines": [
         {
-          "text": "ಬಿಸಿ ಬಿಸಿ ಊಟ",
-          "fontFamily": "SRIRAJU_Bold",
+          "text": "ಬೆಳಕಿನ ಹಬ್ಬ",
+          "fontFamily": "Kuvempu",
+          "fontSize": 55,
+          "color": "#FFB300",
+          "isBold": false,
+          "letterSpacing": 2,
+          "xNorm": 0.5,
+          "yNorm": 0.75,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 12,
+          "shadowDistance": 5,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.8,
+          "glowRadius": 15,
+          "glowColor": "#FFB300",
+          "glowOpacity": 0.6,
+          "textStroke": 1,
+          "textStrokeColor": "#2e0d00"
+        },
+        {
+          "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು",
+          "fontFamily": "NotoSansKannadaRegular",
+          "fontSize": 20,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.85,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 5,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.6,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "sq_sankranti",
+      "name": "ಮಕರ ಸಂಕ್ರಾಂತಿ",
+      "category": "Instagram Square",
+      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
+      "accentColor": "#F4A460",
+      "gradientColors": ["#3d1f00", "#7a3e00"],
+      "filterId": "cam_canon_ae1",
+      "filterStrength": 0.85,
+      "adjustments": { "temp": 0.15 },
+      "textLines": [
+        {
+          "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ",
+          "fontFamily": "Gubbi",
+          "fontSize": 45,
+          "color": "#F4A460",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.15,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 8,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.7,
+          "glowRadius": 10,
+          "glowColor": "#F4A460",
+          "glowOpacity": 0.5,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
+        },
+        {
+          "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು",
+          "fontFamily": "NotoSansKannadaRegular",
+          "fontSize": 22,
+          "color": "#FFFFFF",
+          "isBold": false,
+          "letterSpacing": 1,
+          "xNorm": 0.5,
+          "yNorm": 0.25,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 4,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.5,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "post_independence",
+      "name": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
+      "category": "Instagram Post",
+      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
+      "accentColor": "#FFFFFF",
+      "gradientColors": ["#FF9933", "#138808"],
+      "filterId": "acchu_sunlit_haze",
+      "filterStrength": 0.5,
+      "adjustments": { "saturation": 0.1 },
+      "textLines": [
+        {
+          "text": "ವಂದೇ ಮಾತರಂ",
+          "fontFamily": "Kuvempu",
           "fontSize": 50,
           "color": "#FFFFFF",
           "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.15,
-          "align": "center"
-        },
-        {
-          "text": "ಆರ್ಡರ್ ಮಾಡಿ",
-          "fontFamily": "SRIRAJU_Regular",
-          "fontSize": 24,
-          "color": "#F97316",
-          "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.25,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "sq_minimal_tip",
-      "name": "ಸರಳ ಟಿಪ್",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#10B981",
-      "gradientColors": ["#f0fdf4", "#dcfce7"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "brightness": 0.05 },
-      "textLines": [
+          "yNorm": 0.15,
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 10,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.7,
+          "glowRadius": 8,
+          "glowColor": "#FF9933",
+          "glowOpacity": 0.4,
+          "textStroke": 1,
+          "textStrokeColor": "#000080"
+        },
         {
-          "text": "ಆರೋಗ್ಯ ಸಲಹೆ",
+          "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು",
           "fontFamily": "Anek-Bold",
-          "fontSize": 38,
-          "color": "#064e3b",
-          "isBold": false,
-          "letterSpacing": 0,
-          "xNorm": 0.1,
-          "yNorm": 0.15,
-          "align": "left"
-        },
-        {
-          "text": "ಹೆಚ್ಚು ನೀರು ಕುಡಿಯಿರಿ",
-          "fontFamily": "Anek-Medium",
-          "fontSize": 26,
-          "color": "#10B981",
+          "fontSize": 18,
+          "color": "#000080",
           "isBold": false,
           "letterSpacing": 1,
-          "xNorm": 0.1,
+          "xNorm": 0.5,
           "yNorm": 0.25,
-          "align": "left"
-        }
-      ]
-    },
-    {
-      "id": "sq_meme_joke",
-      "name": "ಹಾಸ್ಯ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#EAB308",
-      "gradientColors": ["#171717", "#262626"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.1 },
-      "textLines": [
-        {
-          "text": "ವೀಕೆಂಡ್ ಬಂತು!",
-          "fontFamily": "Padyakke",
-          "fontSize": 45,
-          "color": "#EAB308",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.15,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "sq_literature",
-      "name": "ಸಾಹಿತ್ಯ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#A8A29E",
-      "gradientColors": ["#292524", "#44403c"],
-      "filterId": "fade",
-      "filterStrength": 0.6,
-      "adjustments": { "vignette": 0.4 },
-      "textLines": [
-        {
-          "text": "ಮೂಕಜ್ಜಿಯ ಕನಸುಗಳು",
-          "fontFamily": "Karantha",
-          "fontSize": 48,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.75,
-          "align": "center"
-        },
-        {
-          "text": "ಶಿವರಾಮ ಕಾರಂತ",
-          "fontFamily": "NotoSerifKannadaRegular",
-          "fontSize": 20,
-          "color": "#A8A29E",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.85,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "sq_abstract_art",
-      "name": "ಡಿಜಿಟಲ್ ಕಲೆ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#EC4899",
-      "gradientColors": ["#000000", "#1a0510"],
-      "filterId": "vibrant",
-      "filterStrength": 0.8,
-      "adjustments": { "saturation": 0.3, "contrast": 0.2 },
-      "textLines": [
-        {
-          "text": "ಡಿಜಿಟಲ್ ಆರ್ಟ್",
-          "fontFamily": "ATSDot",
-          "fontSize": 42,
-          "color": "#EC4899",
-          "isBold": false,
-          "letterSpacing": 4,
-          "xNorm": 0.5,
-          "yNorm": 0.8,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#FFFFFF",
+          "shadowBlur": 4,
+          "shadowDistance": 1,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.8,
+          "glowRadius": 5,
+          "glowColor": "#FFFFFF",
+          "glowOpacity": 0.5,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -502,7 +563,17 @@
           "letterSpacing": 0,
           "xNorm": 0.1,
           "yNorm": 0.7,
-          "align": "left"
+          "align": "left",
+          "shadowColor": "#000000",
+          "shadowBlur": 10,
+          "shadowDistance": 5,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.8,
+          "glowRadius": 10,
+          "glowColor": "#DC2626",
+          "glowOpacity": 0.6,
+          "textStroke": 2,
+          "textStrokeColor": "#DC2626"
         },
         {
           "text": "ಸಂಪೂರ್ಣ ಮಾಹಿತಿ",
@@ -513,7 +584,17 @@
           "letterSpacing": 1,
           "xNorm": 0.1,
           "yNorm": 0.85,
-          "align": "left"
+          "align": "left",
+          "shadowColor": "#000000",
+          "shadowBlur": 6,
+          "shadowDistance": 3,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.7,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 1,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -537,7 +618,17 @@
           "letterSpacing": 2,
           "xNorm": 0.5,
           "yNorm": 0.75,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 0,
+          "shadowDistance": 5,
+          "shadowAngle": 135,
+          "shadowOpacity": 1.0,
+          "glowRadius": 18,
+          "glowColor": "#22C55E",
+          "glowOpacity": 0.7,
+          "textStroke": 2,
+          "textStrokeColor": "#000000"
         },
         {
           "text": "ಕನ್ನಡ ಸ್ಟ್ರೀಮರ್",
@@ -548,112 +639,17 @@
           "letterSpacing": 1,
           "xNorm": 0.5,
           "yNorm": 0.85,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "yt_tech_review",
-      "name": "ಗ್ಯಾಜೆಟ್ ರಿವ್ಯೂ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#3B82F6",
-      "gradientColors": ["#0f172a", "#1e293b"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.15 },
-      "textLines": [
-        {
-          "text": "ಹೊಸ ಲ್ಯಾಪ್‌ಟಾಪ್",
-          "fontFamily": "ATSSquare",
-          "fontSize": 55,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.9,
-          "yNorm": 0.15,
-          "align": "right"
-        },
-        {
-          "text": "ಅನ್‌ಬಾಕ್ಸಿಂಗ್",
-          "fontFamily": "Anek-Medium",
-          "fontSize": 26,
-          "color": "#3B82F6",
-          "isBold": false,
-          "letterSpacing": 3,
-          "xNorm": 0.9,
-          "yNorm": 0.25,
-          "align": "right"
-        }
-      ]
-    },
-    {
-      "id": "yt_travel_vlog",
-      "name": "ಪ್ರವಾಸ ಕಥನ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#14B8A6",
-      "gradientColors": ["#042f2e", "#134e4a"],
-      "filterId": "warm",
-      "filterStrength": 0.6,
-      "adjustments": { "temp": 0.1, "saturation": 0.15 },
-      "textLines": [
-        {
-          "text": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳು",
-          "fontFamily": "KarnataGTNBold",
-          "fontSize": 62,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 0,
-          "xNorm": 0.1,
-          "yNorm": 0.7,
-          "align": "left"
-        },
-        {
-          "text": "ಎಪಿಸೋಡ್ 1",
-          "fontFamily": "KarnataGTNMedium",
-          "fontSize": 30,
-          "color": "#14B8A6",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.1,
-          "yNorm": 0.85,
-          "align": "left"
-        }
-      ]
-    },
-    {
-      "id": "yt_podcast_interview",
-      "name": "ಪಾಡ್‌ಕಾಸ್ಟ್",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#F43F5E",
-      "gradientColors": ["#1c1917", "#292524"],
-      "filterId": "fade",
-      "filterStrength": 0.4,
-      "adjustments": { "vignette": 0.5 },
-      "textLines": [
-        {
-          "text": "ತೆರೆದ ಮಾತು",
-          "fontFamily": "NotoSansKannadaBlack",
-          "fontSize": 75,
-          "color": "#F43F5E",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.15,
-          "align": "center"
-        },
-        {
-          "text": "ಅತಿಥಿಗಳೊಂದಿಗೆ",
-          "fontFamily": "NotoSansKannadaMedium",
-          "fontSize": 28,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 4,
-          "xNorm": 0.5,
-          "yNorm": 0.28,
-          "align": "center"
+          "align": "center",
+          "shadowColor": "#000000",
+          "shadowBlur": 0,
+          "shadowDistance": 3,
+          "shadowAngle": 135,
+          "shadowOpacity": 1.0,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 1,
+          "textStrokeColor": "#000000"
         }
       ]
     },
@@ -677,7 +673,17 @@
           "letterSpacing": 1,
           "xNorm": 0.1,
           "yNorm": 0.2,
-          "align": "left"
+          "align": "left",
+          "shadowColor": "#000000",
+          "shadowBlur": 10,
+          "shadowDistance": 4,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.5,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         },
         {
           "text": "ಉತ್ತಮ ಸೇವೆ ನಮ್ಮ ಗುರಿ",
@@ -688,901 +694,18 @@
           "letterSpacing": 2,
           "xNorm": 0.1,
           "yNorm": 0.4,
-          "align": "left"
+          "align": "left",
+          "shadowColor": "#000000",
+          "shadowBlur": 5,
+          "shadowDistance": 2,
+          "shadowAngle": 135,
+          "shadowOpacity": 0.4,
+          "glowRadius": 0,
+          "glowColor": "#000000",
+          "glowOpacity": 0,
+          "textStroke": 0,
+          "textStrokeColor": "#000000"
         }
-      ]
-    },
-    {
-      "id": "fb_fan_page",
-      "name": "ಅಭಿಮಾನಿ ಬಳಗ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#EAB308",
-      "gradientColors": ["#422006", "#713f12"],
-      "filterId": "warm",
-      "filterStrength": 0.6,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        {
-          "text": "ಅಭಿಮಾನಿಗಳ ಬಳಗ",
-          "fontFamily": "SRIRAJU_Bold",
-          "fontSize": 58,
-          "color": "#FEF08A",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.2,
-          "align": "center"
-        },
-        {
-          "text": "ಸ್ವಾಗತ ಸುಸ್ವಾಗತ",
-          "fontFamily": "SRIRAJU_Regular",
-          "fontSize": 26,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.4,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "fb_cultural_event",
-      "name": "ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#F97316",
-      "gradientColors": ["#fff7ed", "#ffedd5"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "brightness": 0.05 },
-      "textLines": [
-        {
-          "text": "ಸಾಹಿತ್ಯ ಸಂಜೆ",
-          "fontFamily": "Adiga",
-          "fontSize": 60,
-          "color": "#9a3412",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.5,
-          "yNorm": 0.7,
-          "align": "center"
-        },
-        {
-          "text": "ಎಲ್ಲರಿಗೂ ಆದರದ ಸ್ವಾಗತ",
-          "fontFamily": "NotoSerifKannadaMedium",
-          "fontSize": 22,
-          "color": "#F97316",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.5,
-          "yNorm": 0.85,
-          "align": "center"
-        }
-      ]
-    },
-    {
-      "id": "fb_tech_company",
-      "name": "ಸಾಫ್ಟ್‌ವೇರ್",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#2DD4BF",
-      "gradientColors": ["#000000", "#022c22"],
-      "filterId": "cool",
-      "filterStrength": 0.5,
-      "adjustments": { "contrast": 0.25 },
-      "textLines": [
-        {
-          "text": "ಡಿಜಿಟಲ್ ಜಗತ್ತು",
-          "fontFamily": "ATSLED",
-          "fontSize": 52,
-          "color": "#2DD4BF",
-          "isBold": false,
-          "letterSpacing": 3,
-          "xNorm": 0.9,
-          "yNorm": 0.2,
-          "align": "right"
-        },
-        {
-          "text": "ತಂತ್ರಜ್ಞಾನದ ಹೊಸ ಹೆಜ್ಜೆ",
-          "fontFamily": "Anek-Light",
-          "fontSize": 24,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.9,
-          "yNorm": 0.4,
-          "align": "right"
-        }
-      ]
-    },
-    {
-      "id": "fb_personal_brand",
-      "name": "ವೈಯಕ್ತಿಕ ಬ್ಲಾಗ್",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#A78BFA",
-      "gradientColors": ["#2e1065", "#4c1d95"],
-      "filterId": "fade",
-      "filterStrength": 0.3,
-      "adjustments": { "vignette": 0.3 },
-      "textLines": [
-        {
-          "text": "ನನ್ನ ಕಥೆಗಳು",
-          "fontFamily": "Karnad",
-          "fontSize": 55,
-          "color": "#FFFFFF",
-          "isBold": false,
-          "letterSpacing": 1,
-          "xNorm": 0.1,
-          "yNorm": 0.65,
-          "align": "left"
-        },
-        {
-          "text": "ಬರಹಗಾರ / ವಿಮರ್ಶಕ",
-          "fontFamily": "TiroKannadaItalic",
-          "fontSize": 24,
-          "color": "#C4B5FD",
-          "isBold": false,
-          "letterSpacing": 2,
-          "xNorm": 0.1,
-          "yNorm": 0.85,
-          "align": "left"
-        }
-      ]
-    },
-    {
-      "id": "sq_rajyotsava",
-      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#8B0000", "#FF0000"],
-      "filterId": "kg1",
-      "filterStrength": 0.8,
-      "adjustments": { "contrast": 0.2, "saturation": 0.25 },
-      "textLines": [
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "ATSBandipura", "fontSize": 45, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_independence",
-      "name": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#FF9933",
-      "gradientColors": ["#000000", "#138808"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "brightness": 0.1, "contrast": 0.15 },
-      "textLines": [
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ", "fontFamily": "SRIRAJU_Bold", "fontSize": 42, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 28, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_deepavali",
-      "name": "ದೀಪಾವಳಿ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#FFB300",
-      "gradientColors": ["#2e0d00", "#5c1a00"],
-      "filterId": "av4",
-      "filterStrength": 0.9,
-      "adjustments": { "warmth": 0.2, "highlights": 0.15 },
-      "textLines": [
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "Kuvempu", "fontSize": 55, "color": "#FFB300", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_ugadi",
-      "name": "ಯುಗಾದಿ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#8BC34A",
-      "gradientColors": ["#1b3a12", "#2d5a1e"],
-      "filterId": "fs1",
-      "filterStrength": 0.7,
-      "adjustments": { "saturation": 0.2 },
-      "textLines": [
-        { "text": "ಹೊಸ ವರ್ಷದ ಹರುಷ", "fontFamily": "Malige", "fontSize": 48, "color": "#8BC34A", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_dasara",
-      "name": "ದಸರಾ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#FFC107",
-      "gradientColors": ["#310a27", "#63144e"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.8,
-      "adjustments": { "contrast": 0.15 },
-      "textLines": [
-        { "text": "ನಾಡಹಬ್ಬ ದಸರಾ", "fontFamily": "Bendre", "fontSize": 52, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ನವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_sankranti",
-      "name": "ಮಕರ ಸಂಕ್ರಾಂತಿ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#F4A460",
-      "gradientColors": ["#3d1f00", "#7a3e00"],
-      "filterId": "cam_canon_ae1",
-      "filterStrength": 0.85,
-      "adjustments": { "temp": 0.15 },
-      "textLines": [
-        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ", "fontFamily": "Gubbi", "fontSize": 45, "color": "#F4A460", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_ganesha",
-      "name": "ಗೌರಿ ಗಣೇಶ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#FF5722",
-      "gradientColors": ["#4a0e00", "#8a1a00"],
-      "filterId": "kg1",
-      "filterStrength": 0.75,
-      "adjustments": { "saturation": 0.3 },
-      "textLines": [
-        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ", "fontFamily": "SRIRAJU_Bold", "fontSize": 40, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Regular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_shivaratri",
-      "name": "ಮಹಾ ಶಿವರಾತ್ರಿ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#87CEEB",
-      "gradientColors": ["#001133", "#002266"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.25 },
-      "textLines": [
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ", "fontFamily": "Padyakke", "fontSize": 45, "color": "#87CEEB", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaMedium", "fontSize": 24, "color": "#E0E0E0", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_varamahalakshmi",
-      "name": "ವರಮಹಾಲಕ್ಷ್ಮಿ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#FF69B4",
-      "gradientColors": ["#33001a", "#660033"],
-      "filterId": "acchu_sunlit_haze",
-      "filterStrength": 0.8,
-      "adjustments": { "brightness": 0.05 },
-      "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬದ", "fontFamily": "Kuvempu", "fontSize": 42, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಶುಭಕಾಮನೆಗಳು", "fontFamily": "Anek-Medium", "fontSize": 22, "color": "#FF69B4", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "sq_republic",
-      "name": "ಗಣರಾಜ್ಯೋತ್ಸವ",
-      "category": "Instagram Square",
-      "canvasRatio": { "w": 1, "h": 1, "label": "Instagram Square" },
-      "accentColor": "#138808",
-      "gradientColors": ["#f0f0f0", "#d9d9d9"],
-      "filterId": "bw2",
-      "filterStrength": 0.2,
-      "adjustments": { "contrast": 0.1 },
-      "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "ATSBandipura", "fontSize": 48, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 26, "color": "#138808", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_rajyotsava",
-      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFFF00",
-      "gradientColors": ["#990000", "#e60000"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.15, "vignette": 0.3 },
-      "textLines": [
-        { "text": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ", "fontFamily": "Bendre", "fontSize": 60, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaBold", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_independence",
-      "name": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFFFFF",
-      "gradientColors": ["#FF9933", "#138808"],
-      "filterId": "acchu_sunlit_haze",
-      "filterStrength": 0.5,
-      "adjustments": { "saturation": 0.1 },
-      "textLines": [
-        { "text": "ವಂದೇ ಮಾತರಂ", "fontFamily": "Kuvempu", "fontSize": 50, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 18, "color": "#000080", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_deepavali",
-      "name": "ದೀಪಾವಳಿ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#1a0500", "#4d1400"],
-      "filterId": "kg1",
-      "filterStrength": 1.0,
-      "adjustments": { "contrast": 0.2, "highlights": 0.2 },
-      "textLines": [
-        { "text": "ದೀಪಾವಳಿ ಹಬ್ಬದ", "fontFamily": "SRIRAJU_Bold", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_ugadi",
-      "name": "ಯುಗಾದಿ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#AEEA00",
-      "gradientColors": ["#0d1a00", "#1a3300"],
-      "filterId": "fs1",
-      "filterStrength": 0.85,
-      "adjustments": { "brightness": 0.1 },
-      "textLines": [
-        { "text": "ಬೇವು ಬೆಲ್ಲ", "fontFamily": "Malige", "fontSize": 65, "color": "#AEEA00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಯುಗಾದಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_dasara",
-      "name": "ದಸರಾ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#330000", "#660000"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.9,
-      "adjustments": { "contrast": 0.15, "vignette": 0.4 },
-      "textLines": [
-        { "text": "ಮೈಸೂರು ದಸರಾ", "fontFamily": "ATSBandipura", "fontSize": 48, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ನಾಡಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_sankranti",
-      "name": "ಮಕರ ಸಂಕ್ರಾಂತಿ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFA500",
-      "gradientColors": ["#4a2500", "#8b4500"],
-      "filterId": "vr2",
-      "filterStrength": 0.8,
-      "adjustments": { "temp": 0.2 },
-      "textLines": [
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು", "fontFamily": "Kuvempu", "fontSize": 45, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಒಳ್ಳೆ ಮಾತಾಡಿ", "fontFamily": "Kuvempu", "fontSize": 45, "color": "#FFA500", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_ganesha",
-      "name": "ಗೌರಿ ಗಣೇಶ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FF4500",
-      "gradientColors": ["#1a0500", "#4d1a00"],
-      "filterId": "av4",
-      "filterStrength": 0.7,
-      "adjustments": { "saturation": 0.3, "contrast": 0.1 },
-      "textLines": [
-        { "text": "ಗಣೇಶ ಚತುರ್ಥಿ", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_shivaratri",
-      "name": "ಮಹಾ ಶಿವರಾತ್ರಿ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#E0FFFF",
-      "gradientColors": ["#000033", "#000066"],
-      "filterId": "bw2",
-      "filterStrength": 0.4,
-      "adjustments": { "contrast": 0.3 },
-      "textLines": [
-        { "text": "ಓಂ ನಮಃ ಶಿವಾಯ", "fontFamily": "Bendre", "fontSize": 55, "color": "#E0FFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 18, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_varamahalakshmi",
-      "name": "ವರಮಹಾಲಕ್ಷ್ಮಿ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#4a0024", "#800040"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.85,
-      "adjustments": { "vignette": 0.25 },
-      "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬ", "fontFamily": "SRIRAJU_Bold", "fontSize": 48, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಸಕಲ ಸಂಪತ್ತು ಲಭಿಸಲಿ", "fontFamily": "Anek-Medium", "fontSize": 20, "color": "#FFC0CB", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "post_republic",
-      "name": "ಗಣರಾಜ್ಯೋತ್ಸವ",
-      "category": "Instagram Post",
-      "canvasRatio": { "w": 4, "h": 5, "label": "Instagram Post" },
-      "accentColor": "#000080",
-      "gradientColors": ["#ffffff", "#e6e6e6"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.1 },
-      "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 55, "color": "#FF9933", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಭಾರತೀಯರ ಹಬ್ಬ", "fontFamily": "Anek-Bold", "fontSize": 24, "color": "#138808", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_rajyotsava",
-      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FFFF00",
-      "gradientColors": ["#660000", "#cc0000"],
-      "filterId": "kg1",
-      "filterStrength": 0.9,
-      "adjustments": { "saturation": 0.3, "vignette": 0.4 },
-      "textLines": [
-        { "text": "ನವೆಂಬರ್ ೧", "fontFamily": "ATSBandipura", "fontSize": 70, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.72, "align": "center" },
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "NotoSansKannadaBold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.8, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 24, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_independence",
-      "name": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FF9933",
-      "gradientColors": ["#0a0a0a", "#1a1a1a"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-ExtraBold", "fontSize": 80, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ", "fontFamily": "SRIRAJU_Bold", "fontSize": 35, "color": "#FF9933", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.23, "align": "center" },
-        { "text": "ಜೈ ಹಿಂದ್", "fontFamily": "Anek-Bold", "fontSize": 28, "color": "#138808", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_deepavali",
-      "name": "ದೀಪಾವಳಿ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#1a0500", "#330a00"],
-      "filterId": "acchu_sunlit_haze",
-      "filterStrength": 1.0,
-      "adjustments": { "warmth": 0.25, "highlights": 0.2 },
-      "textLines": [
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "Kuvempu", "fontSize": 65, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_ugadi",
-      "name": "ಯುಗಾದಿ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#8BC34A",
-      "gradientColors": ["#0a1f0a", "#143d14"],
-      "filterId": "fs1",
-      "filterStrength": 0.9,
-      "adjustments": { "brightness": 0.05 },
-      "textLines": [
-        { "text": "ಯುಗಾದಿ", "fontFamily": "Malige", "fontSize": 85, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಹೊಸ ವರುಷದ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 28, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_dasara",
-      "name": "ದಸರಾ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FFC107",
-      "gradientColors": ["#29001f", "#4d0039"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.85,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        { "text": "ನವರಾತ್ರಿ", "fontFamily": "Bendre", "fontSize": 75, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ನಾಡಹಬ್ಬ ದಸರಾದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_sankranti",
-      "name": "ಮಕರ ಸಂಕ್ರಾಂತಿ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FF8C00",
-      "gradientColors": ["#2e1700", "#5c2e00"],
-      "filterId": "vr2",
-      "filterStrength": 0.9,
-      "adjustments": { "saturation": 0.2 },
-      "textLines": [
-        { "text": "ಸಂಕ್ರಾಂತಿ", "fontFamily": "Padyakke", "fontSize": 70, "color": "#FF8C00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಹಬ್ಬ", "fontFamily": "Anek-Medium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_ganesha",
-      "name": "ಗೌರಿ ಗಣೇಶ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FF4500",
-      "gradientColors": ["#1a0500", "#4d0f00"],
-      "filterId": "kg1",
-      "filterStrength": 0.8,
-      "adjustments": { "warmth": 0.15 },
-      "textLines": [
-        { "text": "ಗಣೇಶ ಚತುರ್ಥಿ", "fontFamily": "SRIRAJU_Bold", "fontSize": 60, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaMedium", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_shivaratri",
-      "name": "ಮಹಾ ಶಿವರಾತ್ರಿ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#B0E0E6",
-      "gradientColors": ["#00051a", "#001033"],
-      "filterId": "bw2",
-      "filterStrength": 0.3,
-      "adjustments": { "contrast": 0.25 },
-      "textLines": [
-        { "text": "ಶಿವರಾತ್ರಿ", "fontFamily": "Gubbi", "fontSize": 80, "color": "#B0E0E6", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_varamahalakshmi",
-      "name": "ವರಮಹಾಲಕ್ಷ್ಮಿ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#FFB6C1",
-      "gradientColors": ["#33001f", "#66003d"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.8,
-      "adjustments": { "vignette": 0.4 },
-      "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ", "fontFamily": "Kuvempu", "fontSize": 65, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
-        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 26, "color": "#FFB6C1", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "story_republic",
-      "name": "ಗಣರಾಜ್ಯೋತ್ಸವ",
-      "category": "Stories",
-      "canvasRatio": { "w": 9, "h": 16, "label": "Stories / Reels" },
-      "accentColor": "#000080",
-      "gradientColors": ["#f5f5f5", "#e0e0e0"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.15 },
-      "textLines": [
-        { "text": "ಜನವರಿ ೨೬", "fontFamily": "ATSBandipura", "fontSize": 75, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "Anek-Bold", "fontSize": 32, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.23, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 32, "color": "#138808", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
-      ]
-    },
-    {
-      "id": "yt_rajyotsava",
-      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FFFF00",
-      "gradientColors": ["#990000", "#cc0000"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 80, "color": "#FFFF00", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.7, "align": "left" },
-        { "text": "ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮ", "fontFamily": "Anek-Medium", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.85, "align": "left" }
-      ]
-    },
-    {
-      "id": "yt_independence",
-      "name": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FF9933",
-      "gradientColors": ["#000000", "#1a1a1a"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.25 },
-      "textLines": [
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ", "fontFamily": "SRIRAJU_Bold", "fontSize": 75, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-ExtraBold", "fontSize": 40, "color": "#FF9933", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
-      ]
-    },
-    {
-      "id": "yt_deepavali",
-      "name": "ದೀಪಾವಳಿ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#1a0500", "#4d0f00"],
-      "filterId": "acchu_sunlit_haze",
-      "filterStrength": 0.8,
-      "adjustments": { "warmth": 0.2 },
-      "textLines": [
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ ದೀಪಾವಳಿ", "fontFamily": "Kuvempu", "fontSize": 70, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.7, "align": "right" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaBold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.85, "align": "right" }
-      ]
-    },
-    {
-      "id": "yt_ugadi",
-      "name": "ಯುಗಾದಿ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#8BC34A",
-      "gradientColors": ["#051a05", "#0f4d0f"],
-      "filterId": "fs1",
-      "filterStrength": 0.8,
-      "adjustments": { "saturation": 0.2 },
-      "textLines": [
-        { "text": "ಯುಗಾದಿ ಹಬ್ಬ", "fontFamily": "Malige", "fontSize": 85, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.15, "align": "left" },
-        { "text": "ಹೊಸ ವರ್ಷದ ಸಂಭ್ರಮ", "fontFamily": "Hubballi", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.28, "align": "left" }
-      ]
-    },
-    {
-      "id": "yt_dasara",
-      "name": "ದಸರಾ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FFC107",
-      "gradientColors": ["#2e001a", "#5c0033"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.9,
-      "adjustments": { "contrast": 0.15 },
-      "textLines": [
-        { "text": "ಮೈಸೂರು ದಸರಾ", "fontFamily": "Bendre", "fontSize": 75, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
-        { "text": "ಜಂಬೂ ಸವಾರಿ ದರ್ಶನ", "fontFamily": "Anek-Medium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "yt_sankranti",
-      "name": "ಮಕರ ಸಂಕ್ರಾಂತಿ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FF8C00",
-      "gradientColors": ["#2e1700", "#5c2e00"],
-      "filterId": "vr2",
-      "filterStrength": 0.85,
-      "adjustments": { "temp": 0.15 },
-      "textLines": [
-        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿ", "fontFamily": "Padyakke", "fontSize": 80, "color": "#FF8C00", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.15, "align": "left" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 32, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.28, "align": "left" }
-      ]
-    },
-    {
-      "id": "yt_ganesha",
-      "name": "ಗೌರಿ ಗಣೇಶ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FF4500",
-      "gradientColors": ["#1a0500", "#4d0f00"],
-      "filterId": "kg1",
-      "filterStrength": 0.7,
-      "adjustments": { "saturation": 0.25 },
-      "textLines": [
-        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬ", "fontFamily": "SRIRAJU_Bold", "fontSize": 70, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.7, "align": "right" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.9, "yNorm": 0.85, "align": "right" }
-      ]
-    },
-    {
-      "id": "yt_shivaratri",
-      "name": "ಮಹಾ ಶಿವರಾತ್ರಿ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#B0E0E6",
-      "gradientColors": ["#00051a", "#001033"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.3 },
-      "textLines": [
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿ", "fontFamily": "Gubbi", "fontSize": 85, "color": "#B0E0E6", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಜಾಗರಣೆ ವಿಶೇಷ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
-      ]
-    },
-    {
-      "id": "yt_varamahalakshmi",
-      "name": "ವರಮಹಾಲಕ್ಷ್ಮಿ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#FFB6C1",
-      "gradientColors": ["#33001f", "#66003d"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.75,
-      "adjustments": { "vignette": 0.3 },
-      "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಪೂಜೆ", "fontFamily": "Kuvempu", "fontSize": 75, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.7, "align": "left" },
-        { "text": "ವಿಶೇಷ ಆಚರಣೆ", "fontFamily": "Anek-Medium", "fontSize": 32, "color": "#FFB6C1", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.85, "align": "left" }
-      ]
-    },
-    {
-      "id": "yt_republic",
-      "name": "ಗಣರಾಜ್ಯೋತ್ಸವ",
-      "category": "YouTube Thumbnail",
-      "canvasRatio": { "w": 16, "h": 9, "label": "YouTube Thumbnail" },
-      "accentColor": "#000080",
-      "gradientColors": ["#f5f5f5", "#e0e0e0"],
-      "filterId": "bw2",
-      "filterStrength": 0.1,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 85, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಜನವರಿ ೨೬ ವಿಶೇಷ", "fontFamily": "Anek-Bold", "fontSize": 35, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_rajyotsava",
-      "name": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FFFF00",
-      "gradientColors": ["#990000", "#cc0000"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.15 },
-      "textLines": [
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 52, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
-        { "text": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_independence",
-      "name": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FF9933",
-      "gradientColors": ["#000000", "#1a1a1a"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು", "fontFamily": "SRIRAJU_Bold", "fontSize": 48, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-Bold", "fontSize": 26, "color": "#FF9933", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_deepavali",
-      "name": "ದೀಪಾವಳಿ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FFD700",
-      "gradientColors": ["#1a0500", "#4d0f00"],
-      "filterId": "acchu_sunlit_haze",
-      "filterStrength": 0.9,
-      "adjustments": { "warmth": 0.2 },
-      "textLines": [
-        { "text": "ದೀಪಾವಳಿಯ ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Kuvempu", "fontSize": 55, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "NotoSansKannadaRegular", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_ugadi",
-      "name": "ಯುಗಾದಿ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#8BC34A",
-      "gradientColors": ["#051a05", "#0f4d0f"],
-      "filterId": "fs1",
-      "filterStrength": 0.8,
-      "adjustments": { "saturation": 0.2 },
-      "textLines": [
-        { "text": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Malige", "fontSize": 60, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಬೇವು ಬೆಲ್ಲದಂತೆ ಸಿಹಿಯಾಗಿರಲಿ", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_dasara",
-      "name": "ದಸರಾ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FFC107",
-      "gradientColors": ["#2e001a", "#5c0033"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.9,
-      "adjustments": { "contrast": 0.15 },
-      "textLines": [
-        { "text": "ನಾಡಹಬ್ಬ ದಸರಾದ ಶುಭಾಶಯಗಳು", "fontFamily": "Bendre", "fontSize": 55, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
-        { "text": "ನವರಾತ್ರಿಯ ಸಂಭ್ರಮ", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_sankranti",
-      "name": "ಮಕರ ಸಂಕ್ರಾಂತಿ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FF8C00",
-      "gradientColors": ["#2e1700", "#5c2e00"],
-      "filterId": "vr2",
-      "filterStrength": 0.85,
-      "adjustments": { "temp": 0.15 },
-      "textLines": [
-        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FF8C00", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು ಒಳ್ಳೆ ಮಾತಾಡಿ", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_ganesha",
-      "name": "ಗೌರಿ ಗಣೇಶ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FF4500",
-      "gradientColors": ["#1a0500", "#4d0f00"],
-      "filterId": "kg1",
-      "filterStrength": 0.7,
-      "adjustments": { "saturation": 0.25 },
-      "textLines": [
-        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "SRIRAJU_Bold", "fontSize": 50, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
-        { "text": "ಎಲ್ಲರಿಗೂ ಒಳಿತಾಗಲಿ", "fontFamily": "Anek-Bold", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_shivaratri",
-      "name": "ಮಹಾ ಶಿವರಾತ್ರಿ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#B0E0E6",
-      "gradientColors": ["#00051a", "#001033"],
-      "filterId": "none",
-      "filterStrength": 0,
-      "adjustments": { "contrast": 0.3 },
-      "textLines": [
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Gubbi", "fontSize": 58, "color": "#B0E0E6", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಓಂ ನಮಃ ಶಿವಾಯ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_varamahalakshmi",
-      "name": "ವರಮಹಾಲಕ್ಷ್ಮಿ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#FFB6C1",
-      "gradientColors": ["#33001f", "#66003d"],
-      "filterId": "acchu_new_2",
-      "filterStrength": 0.75,
-      "adjustments": { "vignette": 0.3 },
-      "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Kuvempu", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
-        { "text": "ಸಕಲ ಐಶ್ವರ್ಯ ಪ್ರಾಪ್ತಿಯಾಗಲಿ", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFB6C1", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
-      ]
-    },
-    {
-      "id": "fb_republic",
-      "name": "ಗಣರಾಜ್ಯೋತ್ಸವ",
-      "category": "Facebook Cover",
-      "canvasRatio": { "w": 205, "h": 78, "label": "Facebook Cover" },
-      "accentColor": "#000080",
-      "gradientColors": ["#f5f5f5", "#e0e0e0"],
-      "filterId": "bw2",
-      "filterStrength": 0.1,
-      "adjustments": { "contrast": 0.2 },
-      "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 58, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
-        { "text": "ಜನವರಿ ೨೬", "fontFamily": "Anek-Bold", "fontSize": 26, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
       ]
     }
   ]
