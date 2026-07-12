@@ -20,7 +20,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.45,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -31,7 +31,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.60,
+          "yNorm": 0.85,
           "align": "center"
         }
       ]
@@ -55,7 +55,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.5,
+          "yNorm": 0.18,
           "align": "center"
         }
       ]
@@ -79,7 +79,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.4,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -90,7 +90,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.55,
+          "yNorm": 0.85,
           "align": "center"
         }
       ]
@@ -113,8 +113,8 @@
           "color": "#0f172a",
           "isBold": false,
           "letterSpacing": 0,
-          "xNorm": 0.15,
-          "yNorm": 0.2,
+          "xNorm": 0.1,
+          "yNorm": 0.15,
           "align": "left"
         },
         {
@@ -124,8 +124,8 @@
           "color": "#2563EB",
           "isBold": false,
           "letterSpacing": 1,
-          "xNorm": 0.15,
-          "yNorm": 0.3,
+          "xNorm": 0.1,
+          "yNorm": 0.25,
           "align": "left"
         }
       ]
@@ -149,7 +149,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.5,
+          "yNorm": 0.18,
           "align": "center"
         }
       ]
@@ -173,7 +173,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.4,
+          "yNorm": 0.15,
           "align": "center"
         },
         {
@@ -184,7 +184,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.55,
+          "yNorm": 0.22,
           "align": "center"
         }
       ]
@@ -208,7 +208,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.35,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -219,7 +219,7 @@
           "isBold": false,
           "letterSpacing": 3,
           "xNorm": 0.5,
-          "yNorm": 0.5,
+          "yNorm": 0.82,
           "align": "center"
         }
       ]
@@ -243,7 +243,7 @@
           "isBold": false,
           "letterSpacing": 0,
           "xNorm": 0.5,
-          "yNorm": 0.5,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -254,7 +254,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.6,
+          "yNorm": 0.82,
           "align": "center"
         }
       ]
@@ -278,7 +278,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.3,
+          "yNorm": 0.15,
           "align": "center"
         },
         {
@@ -289,7 +289,7 @@
           "isBold": false,
           "letterSpacing": 0,
           "xNorm": 0.5,
-          "yNorm": 0.45,
+          "yNorm": 0.22,
           "align": "center"
         }
       ]
@@ -313,7 +313,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.7,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -324,7 +324,7 @@
           "isBold": false,
           "letterSpacing": 4,
           "xNorm": 0.5,
-          "yNorm": 0.8,
+          "yNorm": 0.82,
           "align": "center"
         }
       ]
@@ -348,7 +348,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.3,
+          "yNorm": 0.15,
           "align": "center"
         },
         {
@@ -359,7 +359,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.45,
+          "yNorm": 0.25,
           "align": "center"
         }
       ]
@@ -383,7 +383,7 @@
           "isBold": false,
           "letterSpacing": 0,
           "xNorm": 0.1,
-          "yNorm": 0.2,
+          "yNorm": 0.15,
           "align": "left"
         },
         {
@@ -394,7 +394,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.1,
-          "yNorm": 0.35,
+          "yNorm": 0.25,
           "align": "left"
         }
       ]
@@ -418,7 +418,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.2,
+          "yNorm": 0.15,
           "align": "center"
         }
       ]
@@ -442,7 +442,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.4,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -453,7 +453,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.55,
+          "yNorm": 0.85,
           "align": "center"
         }
       ]
@@ -477,7 +477,7 @@
           "isBold": false,
           "letterSpacing": 4,
           "xNorm": 0.5,
-          "yNorm": 0.5,
+          "yNorm": 0.8,
           "align": "center"
         }
       ]
@@ -501,7 +501,7 @@
           "isBold": false,
           "letterSpacing": 0,
           "xNorm": 0.1,
-          "yNorm": 0.4,
+          "yNorm": 0.7,
           "align": "left"
         },
         {
@@ -512,7 +512,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.1,
-          "yNorm": 0.6,
+          "yNorm": 0.85,
           "align": "left"
         }
       ]
@@ -536,7 +536,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.45,
+          "yNorm": 0.75,
           "align": "center"
         },
         {
@@ -547,7 +547,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.65,
+          "yNorm": 0.85,
           "align": "center"
         }
       ]
@@ -571,7 +571,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.9,
-          "yNorm": 0.4,
+          "yNorm": 0.15,
           "align": "right"
         },
         {
@@ -582,7 +582,7 @@
           "isBold": false,
           "letterSpacing": 3,
           "xNorm": 0.9,
-          "yNorm": 0.6,
+          "yNorm": 0.25,
           "align": "right"
         }
       ]
@@ -606,7 +606,7 @@
           "isBold": false,
           "letterSpacing": 0,
           "xNorm": 0.1,
-          "yNorm": 0.5,
+          "yNorm": 0.7,
           "align": "left"
         },
         {
@@ -617,7 +617,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.1,
-          "yNorm": 0.7,
+          "yNorm": 0.85,
           "align": "left"
         }
       ]
@@ -641,7 +641,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.45,
+          "yNorm": 0.15,
           "align": "center"
         },
         {
@@ -652,7 +652,7 @@
           "isBold": false,
           "letterSpacing": 4,
           "xNorm": 0.5,
-          "yNorm": 0.65,
+          "yNorm": 0.28,
           "align": "center"
         }
       ]
@@ -676,7 +676,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.1,
-          "yNorm": 0.45,
+          "yNorm": 0.2,
           "align": "left"
         },
         {
@@ -687,7 +687,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.1,
-          "yNorm": 0.65,
+          "yNorm": 0.4,
           "align": "left"
         }
       ]
@@ -711,7 +711,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.4,
+          "yNorm": 0.2,
           "align": "center"
         },
         {
@@ -722,7 +722,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.65,
+          "yNorm": 0.4,
           "align": "center"
         }
       ]
@@ -746,7 +746,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.5,
-          "yNorm": 0.45,
+          "yNorm": 0.7,
           "align": "center"
         },
         {
@@ -757,7 +757,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.5,
-          "yNorm": 0.7,
+          "yNorm": 0.85,
           "align": "center"
         }
       ]
@@ -781,7 +781,7 @@
           "isBold": false,
           "letterSpacing": 3,
           "xNorm": 0.9,
-          "yNorm": 0.45,
+          "yNorm": 0.2,
           "align": "right"
         },
         {
@@ -792,7 +792,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.9,
-          "yNorm": 0.7,
+          "yNorm": 0.4,
           "align": "right"
         }
       ]
@@ -816,7 +816,7 @@
           "isBold": false,
           "letterSpacing": 1,
           "xNorm": 0.1,
-          "yNorm": 0.4,
+          "yNorm": 0.65,
           "align": "left"
         },
         {
@@ -827,7 +827,7 @@
           "isBold": false,
           "letterSpacing": 2,
           "xNorm": 0.1,
-          "yNorm": 0.65,
+          "yNorm": 0.85,
           "align": "left"
         }
       ]
@@ -843,8 +843,8 @@
       "filterStrength": 0.8,
       "adjustments": { "contrast": 0.2, "saturation": 0.25 },
       "textLines": [
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "ATSBandipura", "fontSize": 45, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "ATSBandipura", "fontSize": 45, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -858,8 +858,8 @@
       "filterStrength": 0,
       "adjustments": { "brightness": 0.1, "contrast": 0.15 },
       "textLines": [
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ", "fontFamily": "SRIRAJU_Bold", "fontSize": 42, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 28, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ", "fontFamily": "SRIRAJU_Bold", "fontSize": 42, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 28, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -873,8 +873,8 @@
       "filterStrength": 0.9,
       "adjustments": { "warmth": 0.2, "highlights": 0.15 },
       "textLines": [
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "Kuvempu", "fontSize": 55, "color": "#FFB300", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "Kuvempu", "fontSize": 55, "color": "#FFB300", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -888,8 +888,8 @@
       "filterStrength": 0.7,
       "adjustments": { "saturation": 0.2 },
       "textLines": [
-        { "text": "ಹೊಸ ವರ್ಷದ ಹರುಷ", "fontFamily": "Malige", "fontSize": 48, "color": "#8BC34A", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಹೊಸ ವರ್ಷದ ಹರುಷ", "fontFamily": "Malige", "fontSize": 48, "color": "#8BC34A", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -903,8 +903,8 @@
       "filterStrength": 0.8,
       "adjustments": { "contrast": 0.15 },
       "textLines": [
-        { "text": "ನಾಡಹಬ್ಬ ದಸರಾ", "fontFamily": "Bendre", "fontSize": 52, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ನವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ನಾಡಹಬ್ಬ ದಸರಾ", "fontFamily": "Bendre", "fontSize": 52, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ನವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -918,8 +918,8 @@
       "filterStrength": 0.85,
       "adjustments": { "temp": 0.15 },
       "textLines": [
-        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ", "fontFamily": "Gubbi", "fontSize": 45, "color": "#F4A460", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ", "fontFamily": "Gubbi", "fontSize": 45, "color": "#F4A460", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -933,8 +933,8 @@
       "filterStrength": 0.75,
       "adjustments": { "saturation": 0.3 },
       "textLines": [
-        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ", "fontFamily": "SRIRAJU_Bold", "fontSize": 40, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Regular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ", "fontFamily": "SRIRAJU_Bold", "fontSize": 40, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Regular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -948,8 +948,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.25 },
       "textLines": [
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ", "fontFamily": "Padyakke", "fontSize": 45, "color": "#87CEEB", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaMedium", "fontSize": 24, "color": "#E0E0E0", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ", "fontFamily": "Padyakke", "fontSize": 45, "color": "#87CEEB", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaMedium", "fontSize": 24, "color": "#E0E0E0", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -963,8 +963,8 @@
       "filterStrength": 0.8,
       "adjustments": { "brightness": 0.05 },
       "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬದ", "fontFamily": "Kuvempu", "fontSize": 42, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಶುಭಕಾಮನೆಗಳು", "fontFamily": "Anek-Medium", "fontSize": 22, "color": "#FF69B4", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬದ", "fontFamily": "Kuvempu", "fontSize": 42, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಶುಭಕಾಮನೆಗಳು", "fontFamily": "Anek-Medium", "fontSize": 22, "color": "#FF69B4", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -978,8 +978,8 @@
       "filterStrength": 0.2,
       "adjustments": { "contrast": 0.1 },
       "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "ATSBandipura", "fontSize": 48, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 26, "color": "#138808", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "ATSBandipura", "fontSize": 48, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 26, "color": "#138808", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -993,8 +993,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.15, "vignette": 0.3 },
       "textLines": [
-        { "text": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ", "fontFamily": "Bendre", "fontSize": 60, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaBold", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ", "fontFamily": "Bendre", "fontSize": 60, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaBold", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1008,8 +1008,8 @@
       "filterStrength": 0.5,
       "adjustments": { "saturation": 0.1 },
       "textLines": [
-        { "text": "ವಂದೇ ಮಾತರಂ", "fontFamily": "Kuvempu", "fontSize": 50, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 18, "color": "#000080", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ವಂದೇ ಮಾತರಂ", "fontFamily": "Kuvempu", "fontSize": 50, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 18, "color": "#000080", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1023,8 +1023,8 @@
       "filterStrength": 1.0,
       "adjustments": { "contrast": 0.2, "highlights": 0.2 },
       "textLines": [
-        { "text": "ದೀಪಾವಳಿ ಹಬ್ಬದ", "fontFamily": "SRIRAJU_Bold", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ದೀಪಾವಳಿ ಹಬ್ಬದ", "fontFamily": "SRIRAJU_Bold", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1038,8 +1038,8 @@
       "filterStrength": 0.85,
       "adjustments": { "brightness": 0.1 },
       "textLines": [
-        { "text": "ಬೇವು ಬೆಲ್ಲ", "fontFamily": "Malige", "fontSize": 65, "color": "#AEEA00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಯುಗಾದಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಬೇವು ಬೆಲ್ಲ", "fontFamily": "Malige", "fontSize": 65, "color": "#AEEA00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಯುಗಾದಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Medium", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1053,8 +1053,8 @@
       "filterStrength": 0.9,
       "adjustments": { "contrast": 0.15, "vignette": 0.4 },
       "textLines": [
-        { "text": "ಮೈಸೂರು ದಸರಾ", "fontFamily": "ATSBandipura", "fontSize": 48, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ನಾಡಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ಮೈಸೂರು ದಸರಾ", "fontFamily": "ATSBandipura", "fontSize": 48, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ನಾಡಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 20, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1068,8 +1068,8 @@
       "filterStrength": 0.8,
       "adjustments": { "temp": 0.2 },
       "textLines": [
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು", "fontFamily": "Kuvempu", "fontSize": 45, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಒಳ್ಳೆ ಮಾತಾಡಿ", "fontFamily": "Kuvempu", "fontSize": 45, "color": "#FFA500", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು", "fontFamily": "Kuvempu", "fontSize": 45, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಒಳ್ಳೆ ಮಾತಾಡಿ", "fontFamily": "Kuvempu", "fontSize": 45, "color": "#FFA500", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1083,8 +1083,8 @@
       "filterStrength": 0.7,
       "adjustments": { "saturation": 0.3, "contrast": 0.1 },
       "textLines": [
-        { "text": "ಗಣೇಶ ಚತುರ್ಥಿ", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಗಣೇಶ ಚತುರ್ಥಿ", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1098,8 +1098,8 @@
       "filterStrength": 0.4,
       "adjustments": { "contrast": 0.3 },
       "textLines": [
-        { "text": "ಓಂ ನಮಃ ಶಿವಾಯ", "fontFamily": "Bendre", "fontSize": 55, "color": "#E0FFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 18, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಓಂ ನಮಃ ಶಿವಾಯ", "fontFamily": "Bendre", "fontSize": 55, "color": "#E0FFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 18, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1113,8 +1113,8 @@
       "filterStrength": 0.85,
       "adjustments": { "vignette": 0.25 },
       "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬ", "fontFamily": "SRIRAJU_Bold", "fontSize": 48, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಸಕಲ ಸಂಪತ್ತು ಲಭಿಸಲಿ", "fontFamily": "Anek-Medium", "fontSize": 20, "color": "#FFC0CB", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬ", "fontFamily": "SRIRAJU_Bold", "fontSize": 48, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಸಕಲ ಸಂಪತ್ತು ಲಭಿಸಲಿ", "fontFamily": "Anek-Medium", "fontSize": 20, "color": "#FFC0CB", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1128,8 +1128,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.1 },
       "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 55, "color": "#FF9933", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಭಾರತೀಯರ ಹಬ್ಬ", "fontFamily": "Anek-Bold", "fontSize": 24, "color": "#138808", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 55, "color": "#FF9933", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಭಾರತೀಯರ ಹಬ್ಬ", "fontFamily": "Anek-Bold", "fontSize": 24, "color": "#138808", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1143,9 +1143,9 @@
       "filterStrength": 0.9,
       "adjustments": { "saturation": 0.3, "vignette": 0.4 },
       "textLines": [
-        { "text": "ನವೆಂಬರ್ ೧", "fontFamily": "ATSBandipura", "fontSize": 70, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.35, "align": "center" },
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "NotoSansKannadaBold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.5, "align": "center" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 24, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.58, "align": "center" }
+        { "text": "ನವೆಂಬರ್ ೧", "fontFamily": "ATSBandipura", "fontSize": 70, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.72, "align": "center" },
+        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "NotoSansKannadaBold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.8, "align": "center" },
+        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 24, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1159,9 +1159,9 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.2 },
       "textLines": [
-        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-ExtraBold", "fontSize": 80, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ", "fontFamily": "SRIRAJU_Bold", "fontSize": 35, "color": "#FF9933", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" },
-        { "text": "ಜೈ ಹಿಂದ್", "fontFamily": "Anek-Bold", "fontSize": 28, "color": "#138808", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-ExtraBold", "fontSize": 80, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ", "fontFamily": "SRIRAJU_Bold", "fontSize": 35, "color": "#FF9933", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.23, "align": "center" },
+        { "text": "ಜೈ ಹಿಂದ್", "fontFamily": "Anek-Bold", "fontSize": 28, "color": "#138808", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
       ]
     },
     {
@@ -1175,8 +1175,8 @@
       "filterStrength": 1.0,
       "adjustments": { "warmth": 0.25, "highlights": 0.2 },
       "textLines": [
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "Kuvempu", "fontSize": 65, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "Kuvempu", "fontSize": 65, "color": "#FFD700", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ದೀಪಾವಳಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Regular", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1190,8 +1190,8 @@
       "filterStrength": 0.9,
       "adjustments": { "brightness": 0.05 },
       "textLines": [
-        { "text": "ಯುಗಾದಿ", "fontFamily": "Malige", "fontSize": 85, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಹೊಸ ವರುಷದ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 28, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ಯುಗಾದಿ", "fontFamily": "Malige", "fontSize": 85, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಹೊಸ ವರುಷದ ಶುಭಾಶಯಗಳು", "fontFamily": "Hubballi", "fontSize": 28, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1205,8 +1205,8 @@
       "filterStrength": 0.85,
       "adjustments": { "contrast": 0.2 },
       "textLines": [
-        { "text": "ನವರಾತ್ರಿ", "fontFamily": "Bendre", "fontSize": 75, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ನಾಡಹಬ್ಬ ದಸರಾದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ನವರಾತ್ರಿ", "fontFamily": "Bendre", "fontSize": 75, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ನಾಡಹಬ್ಬ ದಸರಾದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1220,8 +1220,8 @@
       "filterStrength": 0.9,
       "adjustments": { "saturation": 0.2 },
       "textLines": [
-        { "text": "ಸಂಕ್ರಾಂತಿ", "fontFamily": "Padyakke", "fontSize": 70, "color": "#FF8C00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಹಬ್ಬ", "fontFamily": "Anek-Medium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಸಂಕ್ರಾಂತಿ", "fontFamily": "Padyakke", "fontSize": 70, "color": "#FF8C00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಹಬ್ಬ", "fontFamily": "Anek-Medium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1235,8 +1235,8 @@
       "filterStrength": 0.8,
       "adjustments": { "warmth": 0.15 },
       "textLines": [
-        { "text": "ಗಣೇಶ ಚತುರ್ಥಿ", "fontFamily": "SRIRAJU_Bold", "fontSize": 60, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaMedium", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ಗಣೇಶ ಚತುರ್ಥಿ", "fontFamily": "SRIRAJU_Bold", "fontSize": 60, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaMedium", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1250,8 +1250,8 @@
       "filterStrength": 0.3,
       "adjustments": { "contrast": 0.25 },
       "textLines": [
-        { "text": "ಶಿವರಾತ್ರಿ", "fontFamily": "Gubbi", "fontSize": 80, "color": "#B0E0E6", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ಶಿವರಾತ್ರಿ", "fontFamily": "Gubbi", "fontSize": 80, "color": "#B0E0E6", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.25, "align": "center" }
       ]
     },
     {
@@ -1265,8 +1265,8 @@
       "filterStrength": 0.8,
       "adjustments": { "vignette": 0.4 },
       "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ", "fontFamily": "Kuvempu", "fontSize": 65, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 26, "color": "#FFB6C1", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.55, "align": "center" }
+        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ", "fontFamily": "Kuvempu", "fontSize": 65, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.75, "align": "center" },
+        { "text": "ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 26, "color": "#FFB6C1", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1280,9 +1280,9 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.15 },
       "textLines": [
-        { "text": "ಜನವರಿ ೨೬", "fontFamily": "ATSBandipura", "fontSize": 75, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "Anek-Bold", "fontSize": 32, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.55, "align": "center" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 32, "color": "#138808", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.63, "align": "center" }
+        { "text": "ಜನವರಿ ೨೬", "fontFamily": "ATSBandipura", "fontSize": 75, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ", "fontFamily": "Anek-Bold", "fontSize": 32, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.23, "align": "center" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 32, "color": "#138808", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
       ]
     },
     {
@@ -1296,8 +1296,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.2 },
       "textLines": [
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 80, "color": "#FFFF00", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.45, "align": "left" },
-        { "text": "ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮ", "fontFamily": "Anek-Medium", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.65, "align": "left" }
+        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 80, "color": "#FFFF00", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.7, "align": "left" },
+        { "text": "ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮ", "fontFamily": "Anek-Medium", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.85, "align": "left" }
       ]
     },
     {
@@ -1311,8 +1311,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.25 },
       "textLines": [
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ", "fontFamily": "SRIRAJU_Bold", "fontSize": 75, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-ExtraBold", "fontSize": 40, "color": "#FF9933", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ", "fontFamily": "SRIRAJU_Bold", "fontSize": 75, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-ExtraBold", "fontSize": 40, "color": "#FF9933", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
       ]
     },
     {
@@ -1326,8 +1326,8 @@
       "filterStrength": 0.8,
       "adjustments": { "warmth": 0.2 },
       "textLines": [
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ ದೀಪಾವಳಿ", "fontFamily": "Kuvempu", "fontSize": 70, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.45, "align": "right" },
-        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaBold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.65, "align": "right" }
+        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ ದೀಪಾವಳಿ", "fontFamily": "Kuvempu", "fontSize": 70, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.7, "align": "right" },
+        { "text": "ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaBold", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.85, "align": "right" }
       ]
     },
     {
@@ -1341,8 +1341,8 @@
       "filterStrength": 0.8,
       "adjustments": { "saturation": 0.2 },
       "textLines": [
-        { "text": "ಯುಗಾದಿ ಹಬ್ಬ", "fontFamily": "Malige", "fontSize": 85, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.45, "align": "left" },
-        { "text": "ಹೊಸ ವರ್ಷದ ಸಂಭ್ರಮ", "fontFamily": "Hubballi", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.65, "align": "left" }
+        { "text": "ಯುಗಾದಿ ಹಬ್ಬ", "fontFamily": "Malige", "fontSize": 85, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.15, "align": "left" },
+        { "text": "ಹೊಸ ವರ್ಷದ ಸಂಭ್ರಮ", "fontFamily": "Hubballi", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.28, "align": "left" }
       ]
     },
     {
@@ -1356,8 +1356,8 @@
       "filterStrength": 0.9,
       "adjustments": { "contrast": 0.15 },
       "textLines": [
-        { "text": "ಮೈಸೂರು ದಸರಾ", "fontFamily": "Bendre", "fontSize": 75, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.4, "align": "center" },
-        { "text": "ಜಂಬೂ ಸವಾರಿ ದರ್ಶನ", "fontFamily": "Anek-Medium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.6, "align": "center" }
+        { "text": "ಮೈಸೂರು ದಸರಾ", "fontFamily": "Bendre", "fontSize": 75, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
+        { "text": "ಜಂಬೂ ಸವಾರಿ ದರ್ಶನ", "fontFamily": "Anek-Medium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1371,8 +1371,8 @@
       "filterStrength": 0.85,
       "adjustments": { "temp": 0.15 },
       "textLines": [
-        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿ", "fontFamily": "Padyakke", "fontSize": 80, "color": "#FF8C00", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.45, "align": "left" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 32, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.65, "align": "left" }
+        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿ", "fontFamily": "Padyakke", "fontSize": 80, "color": "#FF8C00", "isBold": false, "letterSpacing": 2, "xNorm": 0.1, "yNorm": 0.15, "align": "left" },
+        { "text": "ಎಳ್ಳು ಬೆಲ್ಲದ ಶುಭಾಶಯಗಳು", "fontFamily": "NotoSansKannadaRegular", "fontSize": 32, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.28, "align": "left" }
       ]
     },
     {
@@ -1386,8 +1386,8 @@
       "filterStrength": 0.7,
       "adjustments": { "saturation": 0.25 },
       "textLines": [
-        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬ", "fontFamily": "SRIRAJU_Bold", "fontSize": 70, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.45, "align": "right" },
-        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.9, "yNorm": 0.65, "align": "right" }
+        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬ", "fontFamily": "SRIRAJU_Bold", "fontSize": 70, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.9, "yNorm": 0.7, "align": "right" },
+        { "text": "ಶುಭಾಶಯಗಳು", "fontFamily": "Anek-Bold", "fontSize": 35, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.9, "yNorm": 0.85, "align": "right" }
       ]
     },
     {
@@ -1401,8 +1401,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.3 },
       "textLines": [
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿ", "fontFamily": "Gubbi", "fontSize": 85, "color": "#B0E0E6", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಜಾಗರಣೆ ವಿಶೇಷ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿ", "fontFamily": "Gubbi", "fontSize": 85, "color": "#B0E0E6", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಜಾಗರಣೆ ವಿಶೇಷ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 30, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
       ]
     },
     {
@@ -1416,8 +1416,8 @@
       "filterStrength": 0.75,
       "adjustments": { "vignette": 0.3 },
       "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಪೂಜೆ", "fontFamily": "Kuvempu", "fontSize": 75, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.45, "align": "left" },
-        { "text": "ವಿಶೇಷ ಆಚರಣೆ", "fontFamily": "Anek-Medium", "fontSize": 32, "color": "#FFB6C1", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.65, "align": "left" }
+        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಪೂಜೆ", "fontFamily": "Kuvempu", "fontSize": 75, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.7, "align": "left" },
+        { "text": "ವಿಶೇಷ ಆಚರಣೆ", "fontFamily": "Anek-Medium", "fontSize": 32, "color": "#FFB6C1", "isBold": false, "letterSpacing": 1, "xNorm": 0.1, "yNorm": 0.85, "align": "left" }
       ]
     },
     {
@@ -1431,8 +1431,8 @@
       "filterStrength": 0.1,
       "adjustments": { "contrast": 0.2 },
       "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 85, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಜನವರಿ ೨೬ ವಿಶೇಷ", "fontFamily": "Anek-Bold", "fontSize": 35, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವ", "fontFamily": "ATSBandipura", "fontSize": 85, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಜನವರಿ ೨೬ ವಿಶೇಷ", "fontFamily": "Anek-Bold", "fontSize": 35, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.28, "align": "center" }
       ]
     },
     {
@@ -1446,8 +1446,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.15 },
       "textLines": [
-        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 52, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 52, "color": "#FFFF00", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
+        { "text": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1461,8 +1461,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.2 },
       "textLines": [
-        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು", "fontFamily": "SRIRAJU_Bold", "fontSize": 48, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-Bold", "fontSize": 26, "color": "#FF9933", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು", "fontFamily": "SRIRAJU_Bold", "fontSize": 48, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಆಗಸ್ಟ್ ೧೫", "fontFamily": "Anek-Bold", "fontSize": 26, "color": "#FF9933", "isBold": false, "letterSpacing": 4, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
       ]
     },
     {
@@ -1476,8 +1476,8 @@
       "filterStrength": 0.9,
       "adjustments": { "warmth": 0.2 },
       "textLines": [
-        { "text": "ದೀಪಾವಳಿಯ ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Kuvempu", "fontSize": 55, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "NotoSansKannadaRegular", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ದೀಪಾವಳಿಯ ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು", "fontFamily": "Kuvempu", "fontSize": 55, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
+        { "text": "ಬೆಳಕಿನ ಹಬ್ಬ", "fontFamily": "NotoSansKannadaRegular", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1491,8 +1491,8 @@
       "filterStrength": 0.8,
       "adjustments": { "saturation": 0.2 },
       "textLines": [
-        { "text": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Malige", "fontSize": 60, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಬೇವು ಬೆಲ್ಲದಂತೆ ಸಿಹಿಯಾಗಿರಲಿ", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಯುಗಾದಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Malige", "fontSize": 60, "color": "#8BC34A", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಬೇವು ಬೆಲ್ಲದಂತೆ ಸಿಹಿಯಾಗಿರಲಿ", "fontFamily": "Hubballi", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
       ]
     },
     {
@@ -1506,8 +1506,8 @@
       "filterStrength": 0.9,
       "adjustments": { "contrast": 0.15 },
       "textLines": [
-        { "text": "ನಾಡಹಬ್ಬ ದಸರಾದ ಶುಭಾಶಯಗಳು", "fontFamily": "Bendre", "fontSize": 55, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ನವರಾತ್ರಿಯ ಸಂಭ್ರಮ", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ನಾಡಹಬ್ಬ ದಸರಾದ ಶುಭಾಶಯಗಳು", "fontFamily": "Bendre", "fontSize": 55, "color": "#FFC107", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
+        { "text": "ನವರಾತ್ರಿಯ ಸಂಭ್ರಮ", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1521,8 +1521,8 @@
       "filterStrength": 0.85,
       "adjustments": { "temp": 0.15 },
       "textLines": [
-        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FF8C00", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು ಒಳ್ಳೆ ಮಾತಾಡಿ", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಮಕರ ಸಂಕ್ರಾಂತಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Padyakke", "fontSize": 52, "color": "#FF8C00", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು ಒಳ್ಳೆ ಮಾತಾಡಿ", "fontFamily": "NotoSansKannadaRegular", "fontSize": 22, "color": "#FFFFFF", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
       ]
     },
     {
@@ -1536,8 +1536,8 @@
       "filterStrength": 0.7,
       "adjustments": { "saturation": 0.25 },
       "textLines": [
-        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "SRIRAJU_Bold", "fontSize": 50, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಎಲ್ಲರಿಗೂ ಒಳಿತಾಗಲಿ", "fontFamily": "Anek-Bold", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಗೌರಿ ಗಣೇಶ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "SRIRAJU_Bold", "fontSize": 50, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
+        { "text": "ಎಲ್ಲರಿಗೂ ಒಳಿತಾಗಲಿ", "fontFamily": "Anek-Bold", "fontSize": 24, "color": "#FFFFFF", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1551,8 +1551,8 @@
       "filterStrength": 0,
       "adjustments": { "contrast": 0.3 },
       "textLines": [
-        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Gubbi", "fontSize": 58, "color": "#B0E0E6", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಓಂ ನಮಃ ಶಿವಾಯ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಮಹಾ ಶಿವರಾತ್ರಿಯ ಶುಭಾಶಯಗಳು", "fontFamily": "Gubbi", "fontSize": 58, "color": "#B0E0E6", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಓಂ ನಮಃ ಶಿವಾಯ", "fontFamily": "NotoSansKannadaMedium", "fontSize": 26, "color": "#FFFFFF", "isBold": false, "letterSpacing": 3, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
       ]
     },
     {
@@ -1566,8 +1566,8 @@
       "filterStrength": 0.75,
       "adjustments": { "vignette": 0.3 },
       "textLines": [
-        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Kuvempu", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಸಕಲ ಐಶ್ವರ್ಯ ಪ್ರಾಪ್ತಿಯಾಗಲಿ", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFB6C1", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ವರಮಹಾಲಕ್ಷ್ಮಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು", "fontFamily": "Kuvempu", "fontSize": 52, "color": "#FFD700", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.7, "align": "center" },
+        { "text": "ಸಕಲ ಐಶ್ವರ್ಯ ಪ್ರಾಪ್ತಿಯಾಗಲಿ", "fontFamily": "Anek-Medium", "fontSize": 24, "color": "#FFB6C1", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.85, "align": "center" }
       ]
     },
     {
@@ -1581,8 +1581,8 @@
       "filterStrength": 0.1,
       "adjustments": { "contrast": 0.2 },
       "textLines": [
-        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 58, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.45, "align": "center" },
-        { "text": "ಜನವರಿ ೨೬", "fontFamily": "Anek-Bold", "fontSize": 26, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.65, "align": "center" }
+        { "text": "ಗಣರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಶಯಗಳು", "fontFamily": "ATSBandipura", "fontSize": 58, "color": "#000080", "isBold": false, "letterSpacing": 2, "xNorm": 0.5, "yNorm": 0.15, "align": "center" },
+        { "text": "ಜನವರಿ ೨೬", "fontFamily": "Anek-Bold", "fontSize": 26, "color": "#FF9933", "isBold": false, "letterSpacing": 1, "xNorm": 0.5, "yNorm": 0.3, "align": "center" }
       ]
     }
   ]
