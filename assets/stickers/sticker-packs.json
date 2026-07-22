@@ -2,6 +2,23 @@
   "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/copilot/create-asset-directory/assets/stickers/",
   "packs": [
     {
+      "id": "blank_paper",
+      "name": "ಖಾಲಿ ಕಾಗದ",
+      "stickers": [
+        { "id": "bp1", "src": "AKP01.png" },
+        { "id": "bp2", "src": "AKP02.png" },
+        { "id": "bp3", "src": "AKP03.png" },
+        { "id": "bp4", "src": "AKP04.png" },
+        { "id": "bp5", "src": "AKP05.png" },
+        { "id": "bp6", "src": "AKP06.png" },
+        { "id": "bp7", "src": "AKP07.png" },
+        { "id": "bp8", "src": "AKP08.png" },
+        { "id": "bp9", "src": "AKP09.png" },
+        { "id": "bp10", "src": "AKP10.png" },
+        { "id": "bp11", "src": "AKP11.png" }
+      ]
+    },
+    {
       "id": "essentials",
       "name": "ದಿನನಿತ್ಯ",
       "stickers": [
@@ -104,6 +121,7 @@
     {
       "id": "comic_bubbles",
       "name": "ಕಾಮಿಕ್ ಬಬಲ್ಸ್",
+      "isTintable": true,
       "stickers": [
         { "id": "cb1", "src": "CO01.webp" },
         { "id": "cb2", "src": "CO02.webp" },
