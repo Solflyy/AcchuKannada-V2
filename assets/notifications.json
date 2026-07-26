@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "latestAppVersion": "1.6.0",
+  "notifications": [
+    {
+      "id": "welcome-v1.6",
+      "type": "update",
+      "icon": "party-popper",
+      "title": "ಅಚ್ಚು ಕನ್ನಡ v1.6 ಬಂದಿದೆ! 🎉",
+      "body": "ಹೊಸ ಫೀಚರ್‌ಗಳು: Instagram/WhatsApp ನೇರ ಶೇರ್, ಕ್ವಿಕ್ ಪೋಸ್ಟರ್ ಟೆಂಪ್ಲೇಟ್, ಡ್ರಾಫ್ಟ್ ಆಟೋಸೇವ್ ಮತ್ತು ಇನ್ನಷ್ಟು!",
+      "date": "2026-07-26",
+      "action": null
+    },
+    {
+      "id": "new-stickers-jul",
+      "type": "content",
+      "icon": "sticker-emoji",
+      "title": "ಹೊಸ ಸ್ಟಿಕರ್ ಪ್ಯಾಕ್ ಬಂದಿದೆ! ✨",
+      "body": "ಹಬ್ಬದ ಸೀಸನ್‌ಗಾಗಿ 25+ ಹೊಸ ಕನ್ನಡ ಸ್ಟಿಕರ್‌ಗಳು ಸೇರಿವೆ.",
+      "date": "2026-07-25",
+      "action": null
+    }
+  ]
+}
