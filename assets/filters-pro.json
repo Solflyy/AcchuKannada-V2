@@ -1,7 +1,7 @@
 [
   {
     "id": "pro_cin1",
-    "label": "Teal&Orange",
+    "label": "ಸಂಧ್ಯಾ ರಂಗು",
     "category": "cinematic",
     "previewColor": "#E87040",
     "defaultStrength": 1,
@@ -14,7 +14,7 @@
   },
   {
     "id": "pro_cin2",
-    "label": "Blade",
+    "label": "ತೀಕ್ಷ್ಣ ಛಾಯೆ",
     "category": "cinematic",
     "previewColor": "#50A0A0",
     "defaultStrength": 1,
@@ -27,7 +27,7 @@
   },
   {
     "id": "pro_cin3",
-    "label": "Matrix",
+    "label": "ಮಾಯಾಜಾಲ",
     "category": "cinematic",
     "previewColor": "#40A060",
     "defaultStrength": 1,
@@ -40,7 +40,7 @@
   },
   {
     "id": "pro_pt1",
-    "label": "Soft Glow",
+    "label": "ಮೃದು ಕಾಂತಿ",
     "category": "portrait",
     "previewColor": "#F0C8A0",
     "defaultStrength": 1,
@@ -53,7 +53,7 @@
   },
   {
     "id": "pro_pt2",
-    "label": "Porcelain",
+    "label": "ಸ್ಫಟಿಕ ರೂಪ",
     "category": "portrait",
     "previewColor": "#E8D0D0",
     "defaultStrength": 1,
@@ -66,7 +66,7 @@
   },
   {
     "id": "pro_fd1",
-    "label": "Warm Plate",
+    "label": "ಬಿಸಿ ಸ್ವಾದ",
     "category": "film",
     "previewColor": "#E8A050",
     "defaultStrength": 1,
@@ -79,7 +79,7 @@
   },
   {
     "id": "pro_fd2",
-    "label": "Fresh",
+    "label": "ತಾಜಾತನ",
     "category": "film",
     "previewColor": "#80C060",
     "defaultStrength": 1,
@@ -92,7 +92,7 @@
   },
   {
     "id": "pro_tr1",
-    "label": "Golden Hour",
+    "label": "ಹೊಂಬಿಸಿಲು",
     "category": "cinematic",
     "previewColor": "#E89030",
     "defaultStrength": 1,
@@ -105,7 +105,7 @@
   },
   {
     "id": "pro_tr2",
-    "label": "Azure",
+    "label": "ನೀಲಾಕಾಶ",
     "category": "cinematic",
     "previewColor": "#4090C0",
     "defaultStrength": 1,
@@ -118,7 +118,7 @@
   },
   {
     "id": "pro_md1",
-    "label": "Shadows",
+    "label": "ಕಗ್ಗತ್ತಲು",
     "category": "moody",
     "previewColor": "#3A3A5A",
     "defaultStrength": 1,
@@ -131,7 +131,7 @@
   },
   {
     "id": "pro_md2",
-    "label": "Ember",
+    "label": "ಕೆಂಡದ ಹೊಳಪು",
     "category": "moody",
     "previewColor": "#A04030",
     "defaultStrength": 1,
@@ -144,7 +144,7 @@
   },
   {
     "id": "pro_md3",
-    "label": "Mist",
+    "label": "ತುಷಾರ",
     "category": "moody",
     "previewColor": "#7080A0",
     "defaultStrength": 1,
@@ -157,7 +157,7 @@
   },
   {
     "id": "fs_portra400",
-    "label": "Portra 400",
+    "label": "ಸುಂದರ ವದನ",
     "category": "film",
     "previewColor": "#E8C8A0",
     "defaultStrength": 1,
@@ -170,7 +170,7 @@
   },
   {
     "id": "fs_portra800",
-    "label": "Portra 800",
+    "label": "ಇರುಳಿನ ಕಾಂತಿ",
     "category": "film",
     "previewColor": "#D4A070",
     "defaultStrength": 1,
@@ -183,7 +183,7 @@
   },
   {
     "id": "fs_ektar",
-    "label": "Ektar 100",
+    "label": "ವರ್ಣಮಯ",
     "category": "film",
     "previewColor": "#E06030",
     "defaultStrength": 1,
@@ -196,7 +196,7 @@
   },
   {
     "id": "fs_cinestill",
-    "label": "CineStill 800T",
+    "label": "ರಾತ್ರಿ ದೀಪ",
     "category": "cinematic",
     "previewColor": "#4080A0",
     "defaultStrength": 1,
@@ -209,7 +209,7 @@
   },
   {
     "id": "fs_pro400h",
-    "label": "Pro 400H",
+    "label": "ಶೀತಲ ಛಾಯೆ",
     "category": "film",
     "previewColor": "#A0C8C0",
     "defaultStrength": 1,
@@ -222,7 +222,7 @@
   },
   {
     "id": "fs_velvia",
-    "label": "Velvia 50",
+    "label": "ಸಿರಿಗಂಧ",
     "category": "film",
     "previewColor": "#2080A0",
     "defaultStrength": 1,
@@ -235,7 +235,7 @@
   },
   {
     "id": "fs_leica",
-    "label": "Leica M",
+    "label": "ಪುರಾತನ ಶೈಲಿ",
     "category": "film",
     "previewColor": "#7A7060",
     "defaultStrength": 1,
@@ -247,21 +247,8 @@
     "baked": { "contrast": 0.1, "saturation": 0.06, "fade": 0.08 }
   },
   {
-    "id": "fs_trix",
-    "label": "Tri-X 400",
-    "category": "mono",
-    "previewColor": "#505050",
-    "defaultStrength": 1,
-    "matrix": [0.3894,0.7316,0.059,0,-0.08, 0.3894,0.7316,0.059,0,-0.08, 0.3894,0.7316,0.059,0,-0.08, 0,0,0,1,0],
-    "curveMaster": [0,0.018,0.044,0.078,0.12,0.169,0.225,0.287,0.352,0.418,0.482,0.543,0.601,0.657,0.712,0.828,1],
-    "curveR":      [0,0.018,0.044,0.078,0.12,0.169,0.225,0.287,0.352,0.418,0.482,0.543,0.601,0.657,0.712,0.828,1],
-    "curveG":      [0,0.018,0.044,0.078,0.12,0.169,0.225,0.287,0.352,0.418,0.482,0.543,0.601,0.657,0.712,0.828,1],
-    "curveB":      [0,0.018,0.044,0.078,0.12,0.169,0.225,0.287,0.352,0.418,0.482,0.543,0.601,0.657,0.712,0.828,1],
-    "baked": { "contrast": 0.3, "shadows": -0.1 }
-  },
-  {
     "id": "pro_fx1",
-    "label": "Flair",
+    "label": "ಬೆಳಕಿನಾಟ",
     "category": "portrait",
     "previewColor": "#F0A858",
     "defaultStrength": 1,
@@ -274,7 +261,7 @@
   },
   {
     "id": "pro_fx2",
-    "label": "Film Burn",
+    "label": "ಬೆಳಕಿನ ಸೋರಿಕೆ",
     "category": "moody",
     "previewColor": "#D84020",
     "defaultStrength": 1,
@@ -287,7 +274,7 @@
   },
   {
     "id": "pro_fx3",
-    "label": "Glare",
+    "label": "ತೇಜಸ್ಸು",
     "category": "portrait",
     "previewColor": "#F8F0D0",
     "defaultStrength": 1,
