@@ -4,7 +4,6 @@
     {
       "id": "friendship_day_mega",
       "name": "ಸ್ನೇಹ ದಿನಾಚರಣೆ ವಿಶೇಷ",
-      "isPremium": false,
       "stickers": [
         { "id": "friendship_01", "src": "friendship_01.png", "isTintable": false },
         { "id": "friendship_02", "src": "friendship_02.png", "isTintable": false },
