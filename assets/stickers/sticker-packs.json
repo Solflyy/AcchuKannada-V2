@@ -4,22 +4,21 @@
     {
       "id": "friendship_day_mega",
       "name": "ಸ್ನೇಹ ದಿನಾಚರಣೆ ವಿಶೇಷ",
-      "stickers": [
-       { "id": "desi_01", "src": "desi_01.png", "isTintable": false },
-        { "id": "desi_02", "src": "desi_02.png", "isTintable": false },
-        { "id": "desi_03", "src": "desi_03.png", "isTintable": false },
-        { "id": "desi_04", "src": "desi_04.png", "isTintable": false },
-        { "id": "desi_05", "src": "desi_05.png", "isTintable": false },
-        { "id": "desi_06", "src": "desi_06.png", "isTintable": false },
-        { "id": "desi_07", "src": "desi_07.png", "isTintable": false },
-        { "id": "desi_08", "src": "desi_08.png", "isTintable": false },
-        { "id": "desi_09", "src": "desi_09.png", "isTintable": false },
-        { "id": "desi_10", "src": "desi_10.png", "isTintable": false },
-        { "id": "desi_11", "src": "desi_11.png", "isTintable": false },
-        { "id": "desi_12", "src": "desi_12.png", "isTintable": false },
-        { "id": "desi_13", "src": "desi_13.png", "isTintable": false },
-        { "id": "desi_14", "src": "desi_14.png", "isTintable": false },
-        { "id": "desi_15", "src": "desi_15.png", "isTintable": false }
+       { "id": "desi_01", "src": "desi_01.webp", "isTintable": false },
+        { "id": "desi_02", "src": "desi_02.webp", "isTintable": false },
+        { "id": "desi_03", "src": "desi_03.webp", "isTintable": false },
+        { "id": "desi_04", "src": "desi_04.webp", "isTintable": false },
+        { "id": "desi_05", "src": "desi_05.webp", "isTintable": false },
+        { "id": "desi_06", "src": "desi_06.webp", "isTintable": false },
+        { "id": "desi_07", "src": "desi_07.webp", "isTintable": false },
+        { "id": "desi_08", "src": "desi_08.webp", "isTintable": false },
+        { "id": "desi_09", "src": "desi_09.webp", "isTintable": false },
+        { "id": "desi_10", "src": "desi_10.webp", "isTintable": false },
+        { "id": "desi_11", "src": "desi_11.webp", "isTintable": false },
+        { "id": "desi_12", "src": "desi_12.webp", "isTintable": false },
+        { "id": "desi_13", "src": "desi_13.webp", "isTintable": false },
+        { "id": "desi_14", "src": "desi_14.webp", "isTintable": false },
+        { "id": "desi_15", "src": "desi_15.webp", "isTintable": false }
       ]
     },
     {
