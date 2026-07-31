@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "id": "midnight_shadows",
+      "label": "ಗಾಢ ರಾತ್ರಿ ಮತ್ತು ನೆರಳುಗಳು (Midnight & Shadows)",
+      "colors": [
+        "#010101", "#000000", "#18191B", "#202020", "#4A4B4B", "#59514F", 
+        "#191970", "#000080", "#4B0082", "#123C52", "#384C58", "#2A4B50", "#3F465F"
+      ]
+    },
+    {
+      "id": "earth_clay",
+      "label": "ಮಣ್ಣು ಮತ್ತು ಮಡಿಕೆ (Earth & Clay)",
+      "colors": [
+        "#4B3621", "#56463D", "#6F4E37", "#7A573F", "#8B5E3C", "#BC8A5F", 
+        "#A18C75", "#B6A68F", "#CBA88E", "#D4A373", "#B86F63", "#B1655D", 
+        "#B35845", "#A1665D", "#8C4331", "#753428", "#6D3223", "#663833", 
+        "#533334", "#71352A", "#643F40", "#5D353B", "#6C2C2D", "#93262E", "#4D3039"
+      ]
+    },
+    {
+      "id": "forest_whispers",
+      "label": "ಕಾಡಿನ ಪಿಸುಮಾತು (Forest Whispers)",
+      "colors": [
+        "#12A549", "#2E4634", "#3F6844", "#5A9367", "#7FB09B", "#A8D5BA", 
+        "#4B5947", "#5C6B59", "#4A5B5E", "#5D5B4D", "#6C6E5C", "#80856C", 
+        "#9CA57B", "#9FA45A", "#B2B7A0", "#797C63", "#8DB600", "#98AC8D", 
+        "#9DB395", "#9EAC9E", "#9EACA1", "#AABBB8", "#A5B9B5", "#A8C4C1", 
+        "#AEC0BE", "#677876", "#78908A", "#5D7571", "#006E6D"
+      ]
+    },
+    {
+      "id": "golden_hour",
+      "label": "ಸುವರ್ಣ ಘಳಿಗೆ (Golden Hour)",
+      "colors": [
+        "#DDC616", "#E9CD2D", "#C8BE63", "#E1DFBE", "#D4A86C", "#D4A96B", 
+        "#E29D43", "#9B8047", "#B4A38A", "#DDBE9E", "#E5D7C6", "#EBE1D3", "#FAFAD2"
+      ]
+    },
+    {
+      "id": "ocean_sky",
+      "label": "ಸಾಗರ ಮತ್ತು ಆಕಾಶ (Ocean & Sky)",
+      "colors": [
+        "#0047AB", "#0F52BA", "#4169E1", "#3F96D5", "#376E8B", "#87CEEB", 
+        "#AFEEEE", "#99B9C3", "#A7BDD3", "#C4CFD5", "#6C8D8E"
+      ]
+    },
+    {
+      "id": "crimson_embers",
+      "label": "ಕೆಂಪು ಮತ್ತು ಕೆಂಡ (Crimson & Embers)",
+      "colors": [
+        "#9D0D0D", "#E52326", "#FF2400", "#E03C3E", "#D34F3F", "#FF7518", 
+        "#F48D2A", "#DA8A67", "#A46754", "#9E5E55"
+      ]
+    },
+    {
+      "id": "whispering_clouds",
+      "label": "ಮೋಡಗಳ ಪಿಸುಮಾತು (Whispering Clouds)",
+      "colors": [
+        "#FFFFFF", "#F1F2F2", "#E5E6EB", "#E8E7E3", "#F1EDE2", "#E4DBD3", 
+        "#E1D5C2", "#E3D8C8", "#DCD0C9", "#D6C9B5", "#D8C9B5", "#C5C1B5", 
+        "#C2B6B0", "#C2B6AF", "#C2B5B4", "#CCC9D2", "#A1988A", "#9B8E88", 
+        "#8E7D73", "#748392", "#6D676B"
+      ]
+    }
+  ]
+}
