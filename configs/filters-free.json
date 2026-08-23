@@ -30,7 +30,7 @@
   },
   {
     "id": "kodak_portra_emul",
-    "label": "ಚಿತ್ರ (Portra)",
+    "label": "ಚಿತ್ರ",
     "category": "film",
     "previewColor": "#DDAA77",
     "defaultStrength": 1,
@@ -144,7 +144,7 @@
   },
   {
     "id": "fuji_pro_emul",
-    "label": "ಹಸಿರು (Fuji)",
+    "label": "ಹಸಿರು",
     "category": "film",
     "previewColor": "#77DDAA",
     "defaultStrength": 1,
@@ -258,7 +258,7 @@
   },
   {
     "id": "teal_orange_cinematic",
-    "label": "ಚಿತ್ರಪಟ (Cinema)",
+    "label": "ಚಿತ್ರಪಟ",
     "category": "cinematic",
     "previewColor": "#30A0D0",
     "defaultStrength": 1,
