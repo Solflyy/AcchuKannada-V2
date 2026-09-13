@@ -1,6 +1,48 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/main/assets/stickers",
   "packs": [
+     {
+      "id": "festival",
+      "name": "ಹಬ್ಬ ಹರಿದಿನ",
+      "stickers": [
+        {
+          "id": "i9",
+          "src": "GC01.png"
+        },
+        {
+          "id": "i8",
+          "src": "GC02.png"
+        },
+        {
+          "id": "i7",
+          "src": "GC03.png"
+        },
+        {
+          "id": "i1",
+          "src": "DV01.webp"
+        },
+        {
+          "id": "i2",
+          "src": "DV02.webp"
+        },
+        {
+          "id": "i3",
+          "src": "DV03.webp"
+        },
+        {
+          "id": "i4",
+          "src": "HH03.png"
+        },
+         {
+          "id": "i5",
+          "src": "HH01.png"
+        },
+         {
+          "id": "i6",
+          "src": "HH02.png"
+        }
+      ]
+    },
     {
       "id": "friendship_day_mega",
       "name": "ಸ್ನೇಹ ದಿನಾಚರಣೆ ವಿಶೇಷ",
@@ -137,6 +179,30 @@
         {
           "id": "bp13",
           "src": "paper_13.webp"
+        },
+        {
+          "id": "bp14",
+          "src": "paper_14.webp"
+        },
+        {
+          "id": "bp15",
+          "src": "paper_15.webp"
+        },
+        {
+          "id": "bp16",
+          "src": "paper_16.webp"
+        },
+        {
+          "id": "bp17",
+          "src": "paper_17.webp"
+        },
+        {
+          "id": "bp18",
+          "src": "paper_18.webp"
+        },
+        {
+          "id": "bp19",
+          "src": "paper_19.webp"
         }
       ]
     },
@@ -317,24 +383,6 @@
         {
           "id": "l12",
           "src": "FF002.webp"
-        }
-      ]
-    },
-    {
-      "id": "festival",
-      "name": "ಹಬ್ಬ ಹರಿದಿನ",
-      "stickers": [
-        {
-          "id": "i1",
-          "src": "DV01.webp"
-        },
-        {
-          "id": "i2",
-          "src": "DV02.webp"
-        },
-        {
-          "id": "i3",
-          "src": "DV03.webp"
         }
       ]
     },
