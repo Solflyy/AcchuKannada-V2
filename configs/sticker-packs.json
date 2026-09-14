@@ -1,22 +1,24 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/Solflyy/AcchuKannada-V2/refs/heads/main/assets/stickers",
   "packs": [
-     {
+        {
       "id": "festival",
       "name": "ಹಬ್ಬ ಹರಿದಿನ",
-      "isTintable": true,
       "stickers": [
         {
           "id": "i9",
-          "src": "GC01.png"
+          "src": "GC01.png",
+          "isTintable": true
         },
         {
           "id": "i8",
-          "src": "GC02.png"
+          "src": "GC02.png",
+          "isTintable": true
         },
         {
           "id": "i7",
-          "src": "GC03.png"
+          "src": "GC03.png",
+          "isTintable": true
         },
         {
           "id": "i1",
@@ -32,15 +34,18 @@
         },
         {
           "id": "i4",
-          "src": "HH03.png"
+          "src": "HH03.png",
+          "isTintable": true
         },
-         {
+        {
           "id": "i5",
-          "src": "HH01.png"
+          "src": "HH01.png",
+          "isTintable": true
         },
-         {
+        {
           "id": "i6",
-          "src": "HH02.png"
+          "src": "HH02.png",
+          "isTintable": true
         }
       ]
     },
